@@ -190,7 +190,7 @@ Below you'll find my core beliefs.
 
 **I believe** that processes do add value when kept to a minimum and enable teams to work at its best. I need certain processes in place to be able to manage up and out to the rest of the business. If you ever have feedback on the process(es), please let me know. Btw, processes need to be monitored as any other system. If one can’t describe a process in less than 1min, no one will follow it.
 
-# What do I look in managers
+# What I look in managers when hiring
 
 I’ll be looking for:
 * Passion for technology and people

@@ -161,5 +161,32 @@ TODO
 TODO
 
 
+# What I believe
+Below you'll find my core beliefs.
+
+**I believe** that teams are more important than individuals. Although, is always good to have around world-class starts so that we can learn from them.
+
+**I believe** in Directly-Responsible Individual (DRI)
+
+**I believe** managers are a necessary evil, that exist to scale the organisation.
+
+**I believe** (strongly!) on Conway’s law: “any organisation that designs a system will produce a design whose is a copy of the organisation communication structure”. ${company_X} future partially depends on how well and often we communicate, let’s optimise for it.
+
+**I believe** QA, Security, Ops, Culture and Product success is everyone responsibility!
+
+**I believe** in short feedback loops, fail-fast and reduced blast radius. It’s OK to fail as long we learn the lesson and share our learnings. Tolerance ZERO for blame!
+
+**I believe** data tells us a great deal. Be data-driven but don’t lose your gut feeling, you’ll need it at the end.
+
+**I believe** in the compounding of continually improving small things through sort and quick iterations.
+
+**I believe** that delivery velocity is largely determined by how well everyone understands where we are, where everyone is and where we’re going (context). Chances are people will self-organise to move in the right direction and take ownership of their delivery. As result, they will figure out ways to move faster.
+
+**I believe** in Agile, Lean, DevOps and Continuous Delivery core principles. They are tools, don’t make a great deal of the tools, make a great deal of what you build!
+
+**I believe** that there’s no such thing as personality conflicts at work. We may have disagreements and that’s OK, it’s not personal. I’ll always try to adjust to personalities styles and you should too.
+
+**I believe** that processes do add value when kept to a minimum and enable teams to work at its best. I need certain processes in place to be able to manage up and out to the rest of the business. If you ever have feedback on the process(es), please let me know. Btw, processes need to be monitored as any other system. If one can’t describe a process in less than 1min, no one will follow it.
+
 
 

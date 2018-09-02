@@ -164,7 +164,6 @@ Below you'll find my core beliefs.
 
 **I believe** that teams are more important than individuals. Although, is always good to have around world-class starts so that we can learn from them.
 
-**I believe** in Directly-Responsible Individual (DRI)
 
 **I believe** managers are a necessary evil, that exist to scale the organisation.
 

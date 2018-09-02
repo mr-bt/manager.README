@@ -141,7 +141,7 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 
 **Everyone is a leader and leadership comes from everywhere.** Leadership is not just for managers. You’ll find throughout your career that management is orthogonal to leadership. I expect different team members will need to step into leadership roles, contribute, and step back once the need for their specific skills has passed.
 
-A Leadership Primer from General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable lessons that you should be aware of (http://govleaders.org/powell.htm). Some are really close to my heart:
+**A Leadership Primer** from General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable lessons that you should be aware of (http://govleaders.org/powell.htm). Some are really close to my heart:
 * "Being responsible sometimes means pissing people off." (sometimes you need to break the eggs to do an omelette)
 * "The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership."
 * "Organization doesn't really accomplish anything. Plans don't accomplish anything, either. Theories of management don't much matter. Endeavours succeed or fail because of the people involved. Only by attracting the best people will you accomplish great deeds."

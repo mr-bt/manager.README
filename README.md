@@ -1,5 +1,4 @@
-# Bruno's manager README
-
+# Bruno's manager READMEs
 
 # Disclaimer
 This document *MUST* not be read in any way that applies to any other group, division, team or manager of ${company_X}. You might find that my beliefs and style might not be completely aligned and sometimes even incompatible with what you find throughout the business and that’s OK! This is a document on me and it applies to me only.

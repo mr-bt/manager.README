@@ -45,3 +45,20 @@ Some of my quirks while working:
 * I heavily bias towards action. There’s value on having strategic discussions but most of the time is best to start with small and fast iterations so that we can prove (or not) our assumptions (fail-fast / learn-fast) and make visible progress. 
 
 If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/brunotavares/) where you’ll find that I’ve used a lot of different hats (sometimes simultaneous), across several LOBs and vastly different companies sizes. Tech & people at the spotlight.
+
+# My job
+As Software Engineering manager my job is to:
+* Help ${company_X} processes & technology so that we can have a scalable organisation by:
+  * Attract and retain world-class talent (that's you)
+  * Coach teams
+  * Mentor ICs & managers
+  * Reduce managerial overhead and streamline processes
+* We have a “default to yes” mindset while providing clear tradeoffs to relevant stakeholders. We can do anything Product wants!
+* Get everybody to focus on Product delivery through strong Software Engineering culture and best practices
+* Make tie-breaking decisions
+* Put in place checks & balances
+* Help to develop ${company_X} Engineering brand
+* Set context so that you can connect the dots on what ${company_X} needs, understand what’s your priority & focus and what you need to be successful
+* Help you to build effective relationships with others in the company so you can be as self-sufficient as possible
+* Provide technical advice when required
+

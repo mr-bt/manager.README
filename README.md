@@ -207,5 +207,20 @@ I’ll be looking for:
 * Our beliefs are aligned and this README reasons with you
 Follow the link to know more about some of the points above https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/ 
 
+# The team
+Let me try to describe my ideal for our team and each person on it:
+* Take control of, and responsibility for, our own destiny
+* Have each other’s back
+* Hold each other accountable
+* Expect excellence in ourselves and each other
+* Assume positive intent
+* Always question, always ask “why?”
+* Constantly learn
+* Laugh together
+* Get stuff done!
+Please be comfortable with “Guide: Understand team effectiveness”
+https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit  
 
+# Sources 
+TODO
 

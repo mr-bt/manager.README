@@ -62,3 +62,104 @@ As Software Engineering manager my job is to:
 * Help you to build effective relationships with others in the company so you can be as self-sufficient as possible
 * Provide technical advice when required
 
+# How do I manage
+
+* You work for ${company_X} not for me, always optimise for the company
+* You’re my top priority, so should be everyone that reports to you
+* I serve you, not the other way around
+* If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
+* If I do something that feels more like telling you how to do your job than setting context, you'd be doing me a huge favour if you let me know ASAP.
+* I’m making mistakes, please let me know and hold me accountable!
+* I’m a strong advocate of Freedom & Responsibility
+
+## My overall goals for the team
+* Our users at the forefront of everything that we do
+* Make the fewer decisions as possible
+* Teams are autonomous, self-organised and ultimately self-directed
+* Teams efficiency and effectiveness is high
+* The product team is happy. We work as one team, delivering on time and with high quality
+* ICs and teams impact, development and growth is notable, quarter upon quarter
+* Everyone well-being
+* Teams health is high and the attrition rate is low
+* We move fast, very fast
+
+## Decision making
+
+### Directly-Responsible Individual (DRI)
+**Note:** Follow [link](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#39e50b0a194c) for more context 
+
+Being DRI means:
+* That a decision is either yours, or mine, but not both.
+* You don't have to get consensus, but that doesn’t mean you shouldn’t actively seek for it. You should have a good reason for not getting it and be able to articulate it when requested.
+* You don't have to get an agreement, but that doesn’t mean you shouldn’t actively seek for it. You should have a good reason for not getting it and be able to articulate it when requested.
+* The scope of my responsibility does not enclose your scope of responsibility
+* I cannot override you but I can try to persuade you
+* If you make a mistake, you fix it
+
+Being DRI does not mean:
+* You get to be thoughtless
+* You're exempt from having to explain why you made a certain decision
+* You're exempt from people telling you, ahead of time or afterwards, that you made a mistake.
+* Your decisions won’t be challenged by other stakeholders
+
+## Communication
+
+### Share information openly, broadly and deliberately
+Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create communication forums to share information. Default to share everything, but use the right forums so that is not considered “noise”. When it gets to be too much sharing, someone will tell you and you adjust if needed.
+
+### Radical candour
+Follow the links, take your time to digest it:
+* https://www.campaignlive.co.uk/article/why-radical-candour-may-key-successful-leader/1430852
+* https://www.youtube.com/watch?v=Bh-pG27cHtw
+* https://www.youtube.com/watch?v=yj9GLeNCgm4 
+
+### Feedback
+* Feedback is critical to our success and I love it
+* Radical candour at its heart but don’t forget the below bullet point
+* [Three dimensions are required for people to continue to give you feedback](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c):
+  * Safety (unlikelihood of being punished for giving feedback; should be high)
+  * Effort (The amount of work in order to give feedback, also known as "how much do you argue when people give you feedback?"; should be low)
+  * Benefit (how likely is it that giving you feedback will materially impact your behaviour? should be high)
+* Let me know if I don't do well
+* I'll let you know if you don't
+* Performance reviews should never be a surprise for you, if it is, let me know
+
+### One-on-ones
+That’s your time, to talk about you and to address any concern. Let’s get to know each other better. If you want to spend this time talking about projects progress or anything else related to it, it’s your choice, but I advise otherwise as you can always book a meeting with me to address those.
+
+Our 1:1s are weekly and for 30min. Should you wish to change the frequency or length please let me know. If you don’t spend all of the 30min, I give myself the right to take the remaining time to give you more context.
+
+### All Hands
+Every 2-3 weeks everyone that reports to me directly or indirectly will be invited to an All Hands. The All Hands are for Ask me Anything (AKA AMAs), Show & Tell, Shout outs, team-wide context, spend some time together and anything else that makes sense to communicate. I expect everyone that reports directly to me to drive it.
+
+### Get a hold on me
+I’m usually quite busy, but you’re my priority. That said you might have to chase me down. Some tips that can help you:
+* Emergency: find me at my desk or around the office; call me; text me; slack me; drop me an email. Do whatever you need to do to get a hold on me.
+* Urgent matter: find me at my desk or around the office; text me; slack me; drop me an email
+* Important matter: book a meeting, slack me or drop me an email.
+* Other: drop me an email
+
+## Leadership
+
+**Everyone is a leader and leadership comes from everywhere.** Leadership is not just for managers. You’ll find throughout your career that management is orthogonal to leadership. I expect different team members will need to step into leadership roles, contribute, and step back once the need for their specific skills has passed.
+
+A Leadership Primer from General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable lessons that you should be aware of (http://govleaders.org/powell.htm). Some are really close to my heart:
+* "Being responsible sometimes means pissing people off." (sometimes you need to break the eggs to do an omelette)
+* "The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership."
+* "Organization doesn't really accomplish anything. Plans don't accomplish anything, either. Theories of management don't much matter. Endeavours succeed or fail because of the people involved. Only by attracting the best people will you accomplish great deeds."
+* "Organization charts and fancy titles count for next to nothing."
+* "Perpetual optimism is a force multiplier."
+* "The commander in the field is always right and the rear echelon is wrong, unless proved otherwise." (lead from the trenches)
+
+## Delivery
+TODO
+
+## Innovation
+TODO
+
+## Reporting
+TODO
+
+
+
+

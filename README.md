@@ -129,6 +129,12 @@ Our 1:1s are weekly and for 30min. Should you wish to change the frequency or le
 
 By default every month we’ll hold a one-on-one retrospective. This way we can continuously improve the one-on-ones. We’ll have a private online document between us where we collate notes from the one-on-ones that will help us on the retrospectives.
 
+Tips:
+* Start from where you left off
+* Prepare your topics in advance
+* Have recommended actions for your concerns (it's a journey for both, don’t expect me to have everything figured out)
+
+
 ### All Hands
 Every 2-3 weeks everyone that reports to me directly or indirectly will be invited to an All Hands. The All Hands are for Ask me Anything (AKA AMAs), Show & Tell, Shout outs, team-wide context, spend some time together and anything else that makes sense to communicate. I expect everyone that reports directly to me to drive it.
 

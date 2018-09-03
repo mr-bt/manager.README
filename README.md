@@ -212,7 +212,7 @@ I’ll be looking for:
 * Has key technical skills to help advise the team
 * Can collaborate effectively across ${company_X}
 * Is a strong decision maker
-* Is a fast-learner and constant seeks to improve one skill
+* Is a fast-learner and constant seeks to improve one's skill
 * Foster engineering excellency through fostering pragmatic craftmanship
 * Our beliefs are aligned and this README reasons with you
 Follow the link to know more about some of the points above https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/ 

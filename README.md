@@ -92,7 +92,7 @@ Being DRI means:
 * You don't have to get an agreement, but that doesn’t mean you shouldn’t actively seek for it. You should have a good reason for not getting it and be able to articulate it when requested.
 * The scope of my responsibility does not enclose your scope of responsibility
 * I cannot override you but I can try to persuade you
-* If you make a mistake, you fix it
+* If you make a mistake, you fix it, don't wait for someone to tell you
 
 Being DRI does not mean:
 * You get to be thoughtless

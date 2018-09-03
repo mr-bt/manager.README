@@ -164,6 +164,8 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 
 **Command & control or authoritative leadership style** is not advisable! Only when a team is in *survival mode* and for a short period of time I’ll not challenge your decision and question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
 
+**Servant leadership** is highly advisable, you should always strive for it, but it requires yourself and the team a great deal of maturity or stuff doesn’t get done and “too many cooks in the kitchen” syndrome creeps in. Sometimes one who wants to be a servant leader can easily fall into an absent leader. Be thoughtful on how to take your team on the journey. Does this mean the team just does whatever they want and the manager has no say? No. You and your team work to define and prioritize impactful work with the rest of the stakeholders including product managers, designers, and others and in line with business priorities.
+
 ## Delivery
 TODO
 

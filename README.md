@@ -162,6 +162,8 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 * "Perpetual optimism is a force multiplier."
 * "The commander in the field is always right and the rear echelon is wrong, unless proved otherwise." (lead from the trenches)
 
+**Command & control or authoritative leadership style** is not advisable! Only when a team is in *survival mode* and for a short period of time I’ll not challenge your decision and question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
+
 ## Delivery
 TODO
 

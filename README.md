@@ -102,7 +102,7 @@ Being DRI does not mean:
 * You're exempt from people telling you, ahead of time or afterwards, that you made a mistake.
 * Your decisions won’t be challenged by other stakeholders
 
-## Escalation
+#### Escalation
 When you bump into a roadblock that you can’t solve or something needs approval from senior leadership, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
 
 ## Communication

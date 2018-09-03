@@ -72,7 +72,7 @@ As Software Engineering manager my job is to:
 
 ## My overall goals for the team
 * Our users at the forefront of everything that we do
-* Make the fewer decisions as possible
+* I make the fewer decisions as possible
 * Teams are autonomous, self-organised and ultimately self-directed
 * Teams efficiency and effectiveness is high
 * The product team is happy. We work as one team, delivering on time and with high quality

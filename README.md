@@ -176,7 +176,7 @@ When innovation requires extensive work that impacts the product roadmap and/or 
 
 [A3 template](https://www.crisp.se/gratis-material-och-guider/a3-template)
 
-The document should provide a high-level view of the innovation an then go down into the details.
+The document should provide a high-level view of the innovation and then go down into the details.
 
 TIP: Be pedantic and technically sound.
 

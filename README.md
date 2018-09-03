@@ -48,7 +48,7 @@ If you’re curious about my professional experience please visit my [LinkedIn p
 As Software Engineering manager my job is to:
 * Help ${company_X} processes & technology so that we can have a scalable organisation by:
   * Attract and retain world-class talent (that's you)
-  * Coach teams
+  * Coach teams and enable them to grow
   * Mentor ICs & managers
   * Reduce managerial overhead and streamline processes
 * We have a “default to yes” mindset while providing clear tradeoffs to relevant stakeholders. We can do anything Product wants!

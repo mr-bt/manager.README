@@ -161,7 +161,15 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 TODO
 
 ## Innovation
-TODO
+Innovation comes from everyone, everywhere and at any time. When possible and on the remit of your team, apply “small, fast and measurable” iterations and get on with it. Share the findings when you’re ready.
+
+When innovation requires extensive work that impacts the product roadmap and/or other teams, it has to be discussed across Tech and/or Product. In order to have a productive discussion, you and your team should put it down in writing so that we can have an asynchronous discussion. I very fun of A3 thinking that’s usually used to find root causes issues. I find the template quite useful for any meaningful change but I’m open to any format that you find useful to express the idea.
+
+[A3 template](https://www.crisp.se/gratis-material-och-guider/a3-template)
+
+The document should provide a high-level view of the innovation an then go down into the details.
+
+TIP: Be pedantic and technically sound.
 
 ## Reporting
 TODO

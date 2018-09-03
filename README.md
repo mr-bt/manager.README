@@ -83,6 +83,8 @@ As Software Engineering manager my job is to:
 
 ## Decision making
 
+I know you can’t decide everything by yourself. We all have someone to report into. You’re are not alone, I’m here for you. 
+
 ### Directly-Responsible Individual (DRI)
 **Note:** Follow [link](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#39e50b0a194c) for more context 
 
@@ -101,7 +103,7 @@ Being DRI does not mean:
 * Your decisions won’t be challenged by other stakeholders
 
 ## Escalation
-I know you can’t decide everything by yourself. We all have someone to report into. You’re are not alone, I’m here for you. When you bump into a roadblock that you can’t solve or something needs approval from senior leadership, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
+When you bump into a roadblock that you can’t solve or something needs approval from senior leadership, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
 
 ## Communication
 

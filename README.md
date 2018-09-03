@@ -235,7 +235,7 @@ I’ll be looking for:
 Follow the link to know more about some of the points above https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/ 
 
 # The team
-Let me try to describe my ideal for our team and each person on it:
+Let me try to describe my ideal for our team:
 * Take control of, and responsibility for, our own destiny
 * Have each other’s back
 * Hold each other accountable

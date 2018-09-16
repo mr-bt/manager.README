@@ -13,7 +13,7 @@ I look forward to working with you.
 # Motivations behind this document
 Having been inspired by several documents/posts on the importance of a Manager’s README, I’ve decided to kick things off on Github with my own edition. You might find my document close to those you find online and sometimes a copy & paste and that’s OK, it just means I couldn’t put it in better words.
 
-This document will always be a work in progress. It’s meant to be documentation on me and for my direct reports to know what to expect. To my indirect reports, have a read to know where your line manager is coming from.
+This document will always be a work in progress and it’s meant to be documentation on me.
 
 Few reasons for this document to exist:
 * Writing and maintaining this document helps me refine my thoughts, expectations and self-awareness
@@ -39,8 +39,8 @@ Some of my quirks while working:
 * My language skills degrade fast as I get tired.
 * I talk a lot. If you get lost, call it out. I also tend to repeat myself because I feel I wasn’t clear enough. I know is annoying. I’m trying to improve by optimising for effectiveness and within it, I’ll try to be as kind as possible.
 * You most likely will get emails or slack messages over the weekends or late at night or on holidays. Don’t feel compelled to reply, I’m not expecting it from you! It’s just me being ON all the time.
-* I bias toward transparency and radical candour. You can ask anything. Most of the time you’ll get an answer. Sometimes I can’t but I'm committed to never lie to you.
-* I heavily bias towards action. There’s value on having strategic discussions but most of the time is best to start with small and fast iterations so that we can prove (or not) our assumptions (fail-fast / learn-fast) and make visible progress. 
+* I'm bias toward transparency and radical candour. You can ask anything. Most of the time you’ll get an answer. Sometimes I can’t but I'm committed to never lie to you.
+* I'm heavily bias towards action. There’s value on having strategic discussions but most of the time is best to start with small and fast iterations so that we can prove (or not) our assumptions (fail-fast / learn-fast) and make visible progress. 
 
 If you’re curious about my professional experience please visit my [LinkedIn profile](https://www.linkedin.com/in/brunotavares/) where you’ll find that I’ve used a lot of different hats (sometimes simultaneous), across several LOBs and vastly different companies sizes. Tech & people at the spotlight.
 
@@ -103,7 +103,7 @@ Being DRI does not mean:
 * Your decisions won’t be challenged by other stakeholders
 
 ### Escalation
-When you bump into a roadblock that you can’t solve or something needs approval from senior leadership, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
+When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
 
 ## Communication
 
@@ -162,7 +162,7 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 * "Perpetual optimism is a force multiplier."
 * "The commander in the field is always right and the rear echelon is wrong, unless proved otherwise." (lead from the trenches)
 
-**Command & control or authoritative leadership style** is not advisable! Only when a team is in *survival mode* and for a short period of time I’ll not question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
+**Command & control or authoritative leadership style (AKA top-down)** is not advisable! Only when a team is in *survival mode* and for a short period of time I’ll not question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
 
 **Servant leadership** is highly advisable, you should always strive for it, but it requires yourself and the team a great deal of maturity or stuff doesn’t get done and “too many cooks in the kitchen” syndrome creeps in. Sometimes one who wants to be a servant leader can easily fall into an absent leader. Be thoughtful on how to take your team on the journey. Does this mean the team just does whatever they want and the manager has no say? No. You and your team work to define and prioritize impactful work with the rest of the stakeholders including product managers, designers, and others and in line with business priorities.
 
@@ -232,7 +232,6 @@ I’ll be looking for:
 * Is a fast-learner and constant seeks to improve one's skill
 * Foster engineering excellency through fostering pragmatic craftmanship
 * Our beliefs are aligned and this README reasons with you
-
 Follow the link to know more about some of the points above https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/ 
 
 # The team
@@ -246,7 +245,6 @@ Let me try to describe my ideal for our team:
 * Constantly learn
 * Laugh together
 * Get stuff done!
-
 Please be comfortable with “Guide: Understand team effectiveness”
 https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit  
 

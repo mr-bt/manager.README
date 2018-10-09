@@ -232,6 +232,7 @@ I’ll be looking for:
 * Is a fast-learner and constant seeks to improve one's skill
 * Foster engineering excellency through fostering pragmatic craftmanship
 * Our beliefs are aligned and this README reasons with you
+
 Follow the link to know more about some of the points above https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/ 
 
 # The team
@@ -245,6 +246,7 @@ Let me try to describe my ideal for our team:
 * Constantly learn
 * Laugh together
 * Get stuff done!
+
 Please be comfortable with “Guide: Understand team effectiveness”
 https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit  
 

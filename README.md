@@ -83,7 +83,7 @@ As Software Engineering manager my job is to:
 
 ## Decision making
 
-I know you can’t decide everything by yourself. We all have someone to report into. You’re are not alone, I’m here for you. 
+I know you can’t decide everything by yourself. You’re are not alone, I’m here for you. 
 
 ### Directly-Responsible Individual (DRI)
 **Note:** Follow [link](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#39e50b0a194c) for more context 

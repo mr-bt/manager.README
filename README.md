@@ -36,7 +36,7 @@ Some of my quirks while working:
 * I’m all-in, always-on, all the time. I don’t expect you to follow my example and I recommend that you don’t. That’s just how I work best.
 * I have very little patience for apathy and indifference, if something is going on, let me know ASAP.
 * I have very little patience for B.S., corporate culture, “box tickers” and “talk and no walk”.
-* My language skills degrade fast as I get tired.
+* My communication skills degrade fast as I get tired.
 * I talk a lot. If you get lost, call it out. I also tend to repeat myself because I feel I wasn’t clear enough. I know it is annoying. I’m trying to improve by optimising for effectiveness, and within it, I’ll try to be as kind as possible.
 * You most likely will get emails or slack messages over the weekends or late at night or on holidays. Don’t feel compelled to reply, I’m not expecting it from you! It’s just me being ON all the time.
 * I'm biased toward transparency and radical candour. You can ask anything. Most of the time, you’ll get an answer. Sometimes I can’t, but I'm committed to never lie to you.

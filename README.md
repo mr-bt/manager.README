@@ -141,7 +141,7 @@ Tips:
 
 
 ### All Hands
-Every 2-3 weeks everyone that reports to me directly or indirectly will be invited to an All Hands. The All Hands are for Ask me Anything (AKA AMAs), Show & Tell, Shout outs, team-wide context, spend some time together and anything else that makes sense to communicate. I expect everyone that reports directly to me to drive it.
+Every month, everyone that reports to me directly or indirectly will be invited to an All Hands. The All Hands are for Ask me Anything (AKA AMAs), Show & Tell, Shout outs, team-wide context, spend some time together and anything else that makes sense to communicate. I expect everyone that reports directly to me to drive it.
 
 ### Get a hold on me
 I’m usually quite busy, but you’re my priority. That said you might have to chase me down. Some tips that can help you:
@@ -260,4 +260,3 @@ https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/
 * https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p
 * https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.gcb9a0b074_1_0
 * https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view 
-

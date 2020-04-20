@@ -276,7 +276,26 @@ Let me try to describe my ideal for our team:
 * Get stuff done!
 
 Please be comfortable with “Guide: Understand team effectiveness”
-<https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit>  
+<https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit>
+
+## Books
+
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations | [Amazon UK](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/)
+* Trillion Dollar Coach: The Leadership Handbook of Silicon Valley’s Bill Campbell | [Amazon UK](https://www.amazon.co.uk/Trillion-Dollar-Coach-Leadership-Handbook-ebook/dp/B07JFKHCNY/)
+* The Culture Code: The Secrets of Highly Successful Groups  | [Amazon UK](https://www.amazon.co.uk/Culture-Code-Secrets-Highly-Successful-ebook/dp/B019CGXU68/)
+* Radical Candor: How to Get What You Want by Saying What You Mean | [Amazon UK](https://www.amazon.co.uk/Radical-Candor-What-Want-Saying-ebook/dp/B01LW1LESC/)
+* Team Topologies: Organizing Business and Technology Teams for Fast Flow | [Amazon UK](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC/)
+* An Elegant Puzzle: Systems of Engineering Management | [Amazon UK](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/)
+* Influence: The Psychology of Persuasion (Collins Business Essentials) | [Amazon UK](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Business-Essentials-ebook/dp/B002BD2UUC/)
+* Designing Your Organization: Using the STAR Model to Solve 5 Critical Design Challenges | [Amazon UK](https://www.amazon.co.uk/Designing-Your-Organization-Critical-Challenges-ebook/dp/B0086I1ZXY/)
+* The Five Dysfunctions of a Team, Enhanced Edition: A Leadership Fable | [Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW/)
+* Crucial Conversations Tools for Talking When Stakes Are High | [Amazon UK](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/)
+* Primal Leadership, With a New Preface by the Authors: Unleashing the Power of Emotional Intelligence
+| [Amazon UK](https://www.amazon.co.uk/Primal-Leadership-New-Preface-Authors/dp/1422168034/)
+* Unlocking Leadership Mindtraps: How to Thrive in Complexity | [Amazon UK](https://www.amazon.co.uk/Unlocking-Leadership-Mindtraps-Thrive-Complexity-ebook/dp/B07NWWRXC5/)
+* How to Win Friends and Influence People | [Amazon UK](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/)
+* Turn The Ship Around!: A True Story of Building Leaders by Breaking the Rules | [Amazon UK](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking-ebook/dp/B015QQ10HE/)
+* Management 3.0: Leading Agile Developers, Developing Agile Leaders | [Amazon UK](https://www.amazon.co.uk/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471/)
 
 ## Source
 

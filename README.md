@@ -275,8 +275,7 @@ Let me try to describe my ideal for our team:
 * Laugh together
 * Get stuff done!
 
-Please be comfortable with “Guide: Understand team effectiveness”
-<https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit>
+Please be comfortable with [“Guide: Understand team effectiveness”](<https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit)
 
 ## Books
 

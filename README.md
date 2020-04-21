@@ -70,20 +70,19 @@ As a Software Engineering Manager, my job is to:
 
 ## How do I manage
 
+### General principles
+
 * You work for ${company_X} not for me, always optimise for the company.
 * You’re my top priority, so should be every one that reports to you.
 * I serve you, not the other way around.
-* If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
-* If I do something that feels more like telling you how to do your job than setting the context, you’d be doing me a huge favour if you let me know ASAP.
-* Customers at the forefront of everything that we do.
-* Customers NPS is high.
+* Customers at the forefront and centre of everything that we do.
 * I make as few decisions as possible. Still, not a democracy.
 * Teams are autonomous, self-organised and ultimately self-directed.
-* Teams health, efficiency and effectiveness, is high.
 * We work as one team, delivering on time and with high quality.
 * ICs and teams impact, development and growth is notable, quarter over quarter.
-* Everyone well-being is high.
 * We move fast, very fast.
+* If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
+* If I do something that feels more like telling you how to do your job than setting the context, you’d be doing me a huge favour if you let me know ASAP.
 * I’m making mistakes, please let me know and hold me accountable!
 
 ### Decision-making

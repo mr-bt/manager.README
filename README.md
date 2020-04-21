@@ -211,27 +211,33 @@ Use words people understand; avoid using acronyms and [weasle words](https://en.
 
 Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most",  "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for a rhino. NOTE: these examples don't apply to this document because it's not suppose to be a definite guide how to work with me.
 
-#### Radical candour
-
-Follow the links, take your time to digest it:
-
-* <https://www.campaignlive.co.uk/article/why-radical-candour-may-key-successful-leader/1430852>
-* <https://www.youtube.com/watch?v=Bh-pG27cHtw>
-* <https://www.youtube.com/watch?v=yj9GLeNCgm4>
-
 #### Feedback
 
-* Feedback is critical to our success and I love it
-* Radical Candour at its heart but don't forget the below bullet point
+* Feedback is critical to our success and I love it.
+* Radical Candour at its heart.
 * [Three dimensions are required for people to continue to give you feedback](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c):
-  * Safety - unlikelihood of being punished for giving feedback: should be high
-  * Effort - The amount of work to provide feedback, also known as "how much do you argue when people give you feedback?": should be low
-  * Benefit - how likely is it that giving you feedback will materially impact your behaviour?: should be high
-* Let me know if I don't do well
-* I'll let you know if you don't
-* Performance reviews should never be a surprise for you, if it is, let me know
+  * Safety - unlikelihood of being punished for giving feedback: should be high.
+  * Effort - The amount of work to provide feedback, also known as "how much do you argue when people give you feedback?": should be low.
+  * Benefit - how likely is it that giving you feedback will materially impact your behaviour?: should be high.
+* Let me know if I don't do well.
+* I'll let you know if you don't.
+* Performance reviews should never be a surprise for you, if it is, let me know.
+* Feedback must be given often.
 
-#### Staf meetings
+On our first 1:1, I'll be asking you how do you prefer to receive feedback. I like feedback to provide to me to be blunt, objective, specific, immediate and actionable.
+
+To learn about Radical candour, follow the links and take your time to digest it:
+
+* [What is Radical Candor?](https://www.youtube.com/watch?v=Bh-pG27cHtw)
+* [Why 'Radical Candour' may be the key to being a successful leader](https://www.campaignlive.co.uk/article/why-radical-candour-may-key-successful-leader/1430852).
+* [INBOUND Bold Talks: Kim Scott "Radical Candor"](https://www.youtube.com/watch?v=yj9GLeNCgm4)
+* [Radical Candor blog](https://www.radicalcandor.com/blog/)
+* [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.amazon.co.uk/Radical-Candor-What-Want-Saying-ebook/dp/B01LW1LESC/)
+
+#### Staff meetings
+
+
+
 #### 1:1s
 
 That's your time, to talk about you and to address any concern. Let's get to know each other better. If you want to spend this time talking about projects progress or anything else related to it, it's your choice. Still, I advise otherwise as you can always book a meeting with me to address those.

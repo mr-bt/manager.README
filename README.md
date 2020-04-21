@@ -191,7 +191,8 @@ Follow the links, take your time to digest it:
 * I’ll let you know if you don’t
 * Performance reviews should never be a surprise for you, if it is, let me know
 
-#### One-on-ones
+#### Staf meetings
+#### 1:1s
 
 That’s your time, to talk about you and to address any concern. Let’s get to know each other better. If you want to spend this time talking about projects progress or anything else related to it, it’s your choice. Still, I advise otherwise as you can always book a meeting with me to address those.
 

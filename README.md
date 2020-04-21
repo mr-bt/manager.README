@@ -205,9 +205,21 @@ Tips:
 * Prepare your topics in advance
 * Have recommended actions for your concerns (it’s a journey for both, don’t expect me to have everything figured out)
 
-#### All Hands
+#### Reporting
 
-Every month, everyone that reports to me directly or indirectly will be invited to an All Hands. The All Hands are for Ask me Anything (AKA AMAs), Show & Tell, Shout outs, team-wide context, spend some time together and anything else that makes sense to communicate. I expect everyone that reports directly to me to drive it.
+Create a regular, systematic, clearly framed written process by which you share your progress against plan progress, RAG, risks/mitigations, assumptions and issues/blockers. Share this update with me no less frequently than weekly. I place a high premium on data and well thought mitigation actions. Should something is RED for more than a couple of weeks, it becomes the focus on my attention and you should be all over it to find *the path to GREEN.*
+
+Perhaps {company_X} has a delivery department or something alike, I expect you work closely with them and be accountable for what's being reported. In this case, your report to me doesn't need to include Delivery related information and should focus on what's going on the ground (e.g. acquisition and retention of talent, people issues, facilities issues, etc.) and how are you progressing with your OKRs/Goals.
+
+#### What to do when you get a message from me
+
+I don’t expect you to respond to everything in real-time, but do expect you to close the loop on everything we open in a timely manner. If it’s on my plate, I will do the same, but try to take things that are in your function off my plate and into your management/organisation/prioritisation system. I get frustrated when I have to ask about something twice or if I'm asked about something that we've agreed you should have come back to me.
+
+I like fast turnaround and acknowledgement on written communications like “got it” or “on it” type acknowledgment so I know things that we’re discussing are moving.
+
+I tend to send quite a few of FYI so that you're in the loop. There's no need to reply unless you have a simple question that's can't be discussed on other forums.
+
+If you're CC'ed, I'm not expecting you to reply, but it's perfectly acceptable that you choose to do so. Just be conscious that you're jumping on someone else conversation.
 
 #### Get a hold on me
 
@@ -248,10 +260,6 @@ When innovation requires extensive work that impacts the product roadmap and/or 
 The document should provide a high-level view of the innovation and then go down into the details.
 
 TIP: Be pedantic and technically sound.
-
-### Reporting
-
-TODO
 
 ## What I believe
 

@@ -185,8 +185,30 @@ Default to share everything. Deliberately create/use communication forums to sha
 
 Over-communicate when you can, so that you earn credits when you're particularly busy. If people start getting overwhelmed by the qua will tell you, and you adjust if needed.
 
+#### Optimise for communication-based on facts and knowledge
 
+I perceive opinions as *a view or judgement formed about something, not necessarily based on fact or knowledge*. It's perfectly acceptable to share opinions. But it's important to be explicit when you're giving your opinion vs making a statement of facts, "IMO" vs "data shows". This will help the recipient to put your remarks in perspective. I tend to ask for your thoughts rather than opinions because I value the understanding of your thought process more. It's great when we both reach the same conclusions.
 
+> There are three hard rules to learn…
+>
+> 1. You are not the exclusive source of good ideas.
+> 2. There is a high chance that your ideas suck.
+> 3. Even if number 2 is not true, you probably haven't gone deep enough to prove otherwise.
+>
+> For people to believe you, they need to trust you. For people to trust you, you need to demonstrate that you understand your subject matter to depths that they had never considered, that you have considered every conceivable alternative and edge case, that you have data to validate your hypothesis, that you have reached beyond the narrow confines of your teams and tried your hardest to disconfirm your beliefs and biases, that you understand what went before and the impact that it had.
+>
+> Once you get to that point, it would frankly be irresponsible not to follow your plans. Until you get to that point, you risk having the ideas of others forced upon you.
+Source: [Julian Skeels](https://www.linkedin.com/in/julianskeels/)
+
+#### Words matter
+
+Note: I'm not a native English speaker, and I'll not claim I'm particularly good at it. But it's something that I work on every day.
+
+Communication tends to be vague, verbose and non-committal. This often leads to misunderstandings that can erode trust, cause inefficiencies and ultimately build resentment. We must work hard to avoid it!
+
+Use words people understand; avoid using acronyms and [weasle words](https://en.wikipedia.org/wiki/Weasel_word); be concise and straight to the point; be specific with the language you use.
+
+Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most",  "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for a rhino. NOTE: these examples don't apply to this document because it's not suppose to be a definite guide how to work with me.
 
 #### Radical candour
 

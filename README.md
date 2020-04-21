@@ -85,6 +85,13 @@ As a Software Engineering Manager, my job is to:
 * If I do something that feels more like telling you how to do your job than setting the context, you’d be doing me a huge favour if you let me know ASAP.
 * I’m making mistakes, please let me know and hold me accountable!
 
+### How do I measure success of our team
+
+* Customer's quantitative and qualitative feedback about features we ship is positive e.g. NPS, active usage, etc.
+* We're strong contributors to the {company_X} objectives and key results.
+* Teams health is high.
+* Everyone well-being is high.
+
 ### Decision-making
 
 I expect you to make decisions all the time as autonomous as possible and be right often. I also expect you to ask for help or advice when you’re not sure or you could use a second opinion. You’re are not alone, I’m here for you.

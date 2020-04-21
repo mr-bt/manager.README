@@ -41,7 +41,7 @@ Some of my quirks while working:
 
 * I’m all-in, always-on, all the time. I don’t expect you to follow my example and I recommend that you don’t. That’s just how I work best.
 * I have very little patience for apathy and indifference, if something is going on, let me know ASAP.
-* I have very little patience for B.S., toxic culture, “box tickers” and “talk and no walk”.
+* I have very little patience for BS, toxic culture, “box tickers” and “talk and no walk”.
 * My communication skills degrade as I get tired.
 * I tend to talk a bit too much. I know it is annoying, please call it out. I’m trying to improve by optimising for effectiveness, and within it, I’ll try to be as kind as possible.
 * You most likely will get emails or slack messages over the weekends or late at night or on holidays. Don’t feel compelled to reply, I’m not expecting it from you! It’s just me being ON all the time.
@@ -54,7 +54,7 @@ If you’re curious about my professional experience, please visit my [LinkedIn 
 
 As a Software Engineering Manager, my job is to:
 
-* Foster and nurture a strong and healthy Software Engineering culture founded on great people, operational excellence and Customer centricity
+* Foster and nurture a strong and healthy Software Engineering culture founded on great people, operational excellence and customer-centricity
 * Help ${company_X} processes & technology so that we can have a scalable organisation by:
   * Attract and retain world-class talent (that’s you).
   * Coach & Mentor teams and individuals.
@@ -79,7 +79,7 @@ As a Software Engineering Manager, my job is to:
 * Customers NPS is high.
 * I make as few decisions as possible. Still, not a democracy.
 * Teams are autonomous, self-organised and ultimately self-directed.
-* Teams health, efficiency and effectiveness is high.
+* Teams health, efficiency and effectiveness, is high.
 * We work as one team, delivering on time and with high quality.
 * ICs and teams impact, development and growth is notable, quarter over quarter.
 * Everyone well-being is high.
@@ -88,7 +88,7 @@ As a Software Engineering Manager, my job is to:
 
 ### Decision-making
 
-I expect you to make decisions all the time as autonomous as possible and be right often. I also expect you to ask for help or advice when you're not sure or you could use a second opinion. You’re are not alone, I’m here for you.
+I expect you to make decisions all the time as autonomous as possible and be right often. I also expect you to ask for help or advice when you’re not sure or you could use a second opinion. You’re are not alone, I’m here for you.
 
 #### Directly-Responsible Individual (DRI)
 
@@ -112,26 +112,26 @@ Being DRI does not mean:
 
 #### Decision-making reasoning
 
-Reasoning is using information and a process about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and uncertain. More often than not, we can't wait to have all the information available to make a decision. Still, we need to make it. My formula, I need max 70% of the information to make a decision, but we need to be great at correcting course and learning (can't remember from where I've learn thins from).
+Reasoning is using information and a process about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and uncertain. More often than not, we can’t wait to have all the information available to make a decision. Still, we need to make it. My formula, I need max 70% of the information to make a decision, but we need to be great at correcting course and learning (can’t remember from where I’ve learned thins from).
 
 I tend to optimise for:
 
-* What's the best for the Customer today, mid and long term? How does good looks like so I have a reference point in order to evaluate other options.
-* What's the cost of delay of making the decision?
-* Can it be reverse? Will it open to other options?
+* What’s the best for the Customer today, mid and long term? How does good looks like so I have a reference point in order to evaluate other options.
+* What’s the cost of delay of making the decision?
+* Can it be reversed? Will it open to other options?
 * Are we going to learn something new?
 
 Decisions logs are great, give it a go.
 
 #### Decision-making intuition
 
-Intuition is using your ‘gut feeling’ about possible courses of action. Although some people perceive it as something magical ‘sense’ only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account, because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I've found writing down my thoughts and seeking data to back it up helps me being right more often. Sometimes is not about the end result but the process.
+Intuition is using your ‘gut feeling’ about possible courses of action. Although some people perceive it as something magical ‘sense’ only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I’ve found writing down my thoughts and seeking data to back it up helps me being right more often. Sometimes is not about the end result but the process.
 
-It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly.
+It’s perfectly acceptable to use your intuition to make a decision that’s simple in nature or needs to be made quickly.
 
 #### ‘deciding not to decide’ is also a decision
 
-Deciding not to decide is perhaps one of toughest decisions one can make. After all we're expected to make decisions and to act! Not making a decision might feel unnatural or even wrong. Sill, is as valid decision as any other and it should always be on the table and it should follow the same decision-making process as any other decision.
+Deciding not to decide is perhaps one of the toughest decisions one can make. After all, we’re expected to make decisions and to act! Not making a decision might feel unnatural or even wrong. It’s a valid decision as any other, and it should always be on the table. It should follow the same decision-making process as any other decision.
 
 #### Decision-making process
 
@@ -142,7 +142,7 @@ Deciding not to decide is perhaps one of toughest decisions one can make. After 
 * What are the options available to us today.
 * Define risk mitigations.
 * Focus on the data and outcomes.
-* Keep yourself in check. Don't let your ego/emotions get in the way.
+* Keep yourself in check. Don’t let your ego/emotions get in the way.
 
 Make a decision!
 
@@ -150,20 +150,20 @@ Make a decision!
 
 When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient. Always go back to common sense, your and business priorities.
 
-#### When the decision it's not yours to make or you weren't included
+#### When the decision it’s not yours to make, or you weren’t included
 
-If you agree with the decision, happy days. Joins forces and get it done. It is, however, harder to buy-in into decision that you don't agree or weren't included. Life happens and the world is not perfect. You're expected to:
+If you agree with the decision, happy days. Joins forces and get it done. It is, however, harder to buy-in into a decision that you don’t agree with or you weren’t included. While I’ll always try to include you, life happens, the world is not perfect. You’re expected to:
 
-* Express clearly why you don't agree with the decision on the right forum.
+* Express clearly why you don’t agree with the decision on the right forum.
 * Provide clear, factual based and valid alternatives.
 * Be a team player.
-* If the decision hasn't changed, Disagree and Commit. Stand by it to the end while giving your best to make it a success. 
+* If the decision hasn’t changed, Disagree and Commit. Stand by it to the end while giving your best to make it a success.
 
 ### Communication
 
 #### Share information openly, broadly and deliberately
 
-Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create communication forums to share information. Default to share everything, but use the right forums, so that is not considered “noise”. When it gets to be too much sharing, someone will tell you, and you adjust if needed.
+Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create/use communication forums to share information. Default to share everything, but use the right forums, so that is not considered “noise”. When it gets to be too much sharing, someone will tell you, and you adjust if needed.
 
 #### Radical candour
 
@@ -295,14 +295,12 @@ I’ll be looking for:
 * Has a clear vision/strategy for the team.
 * Has key technical skills to help advise the team.
 * Can collaborate effectively across ${company_X}.
-* Is a strong decision-maker.
+* Is a reliable decision-maker.
 * Is a fast-learner and continuously seeks to improve one’s skill.
 * Foster engineering excellence through fostering pragmatic craftsmanship.
 * Our beliefs are aligned and this README reasons with you.
 
 Follow the link to know more about some of the points above <https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/>
-
-
 
 ## The team
 
@@ -329,7 +327,7 @@ Please be comfortable with [“Guide: Understand team effectiveness”](https://
 * Team Topologies: Organizing Business and Technology Teams for Fast Flow | [Amazon UK](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC/)
 * An Elegant Puzzle: Systems of Engineering Management | [Amazon UK](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/)
 * Influence: The Psychology of Persuasion (Collins Business Essentials) | [Amazon UK](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Business-Essentials-ebook/dp/B002BD2UUC/)
-* Designing Your Organization: Using the STAR Model to Solve 5 Critical Design Challenges | [Amazon UK](https://www.amazon.co.uk/Designing-Your-Organization-Critical-Challenges-ebook/dp/B0086I1ZXY/)
+* Designing Your Organisation: Using the STAR Model to Solve 5 Critical Design Challenges | [Amazon UK](https://www.amazon.co.uk/Designing-Your-Organization-Critical-Challenges-ebook/dp/B0086I1ZXY/)
 * The Five Dysfunctions of a Team, Enhanced Edition: A Leadership Fable | [Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni-ebook/dp/B006960LQW/)
 * Crucial Conversations Tools for Talking When Stakes Are High | [Amazon UK](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/)
 * Primal Leadership, With a New Preface by the Authors: Unleashing the Power of Emotional Intelligence

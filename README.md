@@ -54,19 +54,19 @@ If you’re curious about my professional experience, please visit my [LinkedIn 
 
 As a Software Engineering Manager, my job is to:
 
+* Foster and nurture a strong and healthy Software Engineering culture founded on great people, operational excellence and Customer centricity
 * Help ${company_X} processes & technology so that we can have a scalable organisation by:
-  * Attract and retain world-class talent (that’s you)
-  * Coach teams and enable them to grow
-  * Mentor ICs & managers
-  * Reduce managerial overhead and streamline processes
+  * Attract and retain world-class talent (that’s you).
+  * Coach & Mentor teams and individuals.
+  * Reduce managerial overhead, establish processes and streamline existing processes.
 * We have a “default to yes” mindset while providing clear tradeoff to relevant stakeholders. We can do anything Product wants!
-* Get everybody to focus on Product delivery through strong Software Engineering culture and best practices
-* Make tie-breaking decisions
-* Put in place checks & balances
-* Help to develop ${company_X} Engineering brand
-* Set context so that you can connect the dots on what ${company_X} needs, understand what’s your priority & focus and what you need to be successful
-* Help you to build effective relationships with others in the company so you can be as self-sufficient as possible
-* Provide technical advice when required
+* Get everybody to focus on the Customer.
+* Make tie-breaking decisions.
+* Put in place checks & balances.
+* Help to develop ${company_X} Engineering brand.
+* Set context so that you can connect the dots on what ${company_X} needs, understand what’s your priority & focus and what you need to be successful.
+* Help you to build effective relationships with others in the company so you can be as self-sufficient as possible.
+* Provide technical advice when required.
 
 ## How do I manage
 
@@ -78,19 +78,8 @@ As a Software Engineering Manager, my job is to:
 * I’m making mistakes, please let me know and hold me accountable!
 * I’m a strong advocate of Freedom & Responsibility
 
-### My overall goals for the team
+### Decision-making
 
-* Our users at the forefront of everything that we do
-* I make the fewer decisions as possible
-* Teams are autonomous, self-organised and ultimately self-directed
-* Teams efficiency and effectiveness is high
-* The product team is happy. We work as one team, delivering on time and with high quality
-* ICs and teams impact, development and growth is notable, quarter upon quarter
-* Everyone well-being
-* Teams health is high, and the attrition rate is low
-* We move fast, very fast
-
-### Decision making
 
 I know you can’t decide everything by yourself. You’re are not alone, I’m here for you.
 

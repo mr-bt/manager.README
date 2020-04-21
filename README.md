@@ -165,6 +165,9 @@ If you agree with the decision, happy days. Joins forces and get it done. It is,
 * Be a team player.
 * If the decision hasn’t changed, Disagree and Commit. Stand by it to the end while giving your best to make it a success.
 
+#### Learning
+
+I suggest you conduct a retrospective for each significant successful or failed decision you've made. Better when you include stakeholders. It's a powerful tool to learn and be more self-aware of your actions.
 ### Communication
 
 #### Share information openly, broadly and deliberately

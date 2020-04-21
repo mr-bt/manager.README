@@ -143,7 +143,7 @@ Deciding not to decide is perhaps one of the toughest decisions one can make. Af
 
 * Write it down with 6 pages or less. Less is more!
 * State the problem, assumptions, constraints and risks.
-* Simplify, simplify simplify! Model the problem.
+* Simplify, simplify simplify! Challenge everything! Model the problem!
 * Define how good looks like.
 * What are the options available to us today.
 * Define risk mitigations.

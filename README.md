@@ -33,7 +33,7 @@ Btw, have you noticed the repo license is MIT? What can this possibly mean?
 
 ## Hi, I’m Bruno
 
-I was born in Porto, Portugal, in 1983, where I lived for 24 years before moving to Lisbon and 5 years later to London. I’m a father to a baby boy and partner to a wonderful woman that balances my life. As you will find, I’m a bit of a workaholic. I like to travel; to meet new people – people are the colour of life; good food; watch TV series & films; read technical, business, economics and management books/news/articles/posts; cars (fast cars!); tennis; coding (yes I still code!); long walks and spending time with my family. My partner says that I spend all the time moving from a screen to another – from my laptop to my work phone, to my personal phone, to my TV, to my kindle… You’ll find me listening to Pearl Jam, Nirvana and Moby quite often, it won’t affect my mood!
+I was born in Porto, Portugal, in 1983, where I lived for 24 years before moving to Lisbon and 5 years later to London. I’m a father to a baby boy and partner to a wonderful woman that balances my life. As you will find, I’m a bit of a workaholic. I like to travel; to meet new people – people are the colour of life; good food; watch TV series & films; read technical, business, economics and management books/news/articles/posts; cars (fast cars!); tennis; coding (yes I still code!); long walks and spending time with my family. My partner says that I spend all my time moving from a screen to another – from my laptop to my work phone, to my personal phone, to my TV, to my kindle…
 
 I’m a by-product of several variables: genetics, family & social relationships, the context/environment that I’m currently at and scar tissue (AKA experience). Some of the traits that have been flagged to me over the years are forthright, upright, committed, hard-working, driven, obsessed by learning & winning and loyal.
 
@@ -41,9 +41,9 @@ Some of my quirks while working:
 
 * I’m all-in, always-on, all the time. I don’t expect you to follow my example and I recommend that you don’t. That’s just how I work best.
 * I have very little patience for apathy and indifference, if something is going on, let me know ASAP.
-* I have very little patience for B.S., corporate culture, “box tickers” and “talk and no walk”.
-* My communication skills degrade fast as I get tired.
-* I talk a lot. If you get lost, call it out. I also tend to repeat myself because I feel I wasn’t clear enough. I know it is annoying. I’m trying to improve by optimising for effectiveness, and within it, I’ll try to be as kind as possible.
+* I have very little patience for B.S., toxic culture, “box tickers” and “talk and no walk”.
+* My communication skills degrade as I get tired.
+* I tend to talk a bit too much. I know it is annoying, please call it out. I’m trying to improve by optimising for effectiveness, and within it, I’ll try to be as kind as possible.
 * You most likely will get emails or slack messages over the weekends or late at night or on holidays. Don’t feel compelled to reply, I’m not expecting it from you! It’s just me being ON all the time.
 * I’m biased towards transparency and radical candour. You can ask me anything. Most of the time, you’ll get an answer. Sometimes I can’t, but I’m committed to never lie to you.
 * I’m heavily biased towards action. There’s value on having strategic discussions but most of the time is best to start with small and fast iterations so that we can prove (or not) our assumptions (fail-fast / learn-fast) and make visible progress.

@@ -298,9 +298,46 @@ If you suggest a meeting or discussion, initiate finding time on my diary and ma
 
 ### Technology
 
-TODO
+So, you're a manager in tech. It means you don't need to be technical anymore. **WRONG!!!** You're an Engineering Manager, I don't expect you to code, but I expect you to be passionate about technology, be a technologist. You must understand what your people do to earn their trust and to provide them with what they and the business need to be successful.
 
-### Innovation
+> Dive Deep
+> Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
+> [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles)
+
+Our #1 priority is service continuity. We prioritise availability, scalability, regulatory requirements, and the resolution of defects that block customers from using {company_X} products ahead of other initiatives, even when that decision is uncomfortable. We design, build, and maintain complete solutions, through quick and short iterations that enable experimentation. There's little value on working on something for far too long without learning if our customers will benefit.
+
+Work done is better than work in progress. Working software in front of the Customer is better than software in development.
+
+#### Pragmatic Craftsmanship
+
+Software Development is a craft, but it doesn't have an end on itself in a business context. Software exists to serve our customers.
+
+I always ask: If a team member were to be awake at 4 am on a Friday night to deal with an incident will she/he be able to identify, test and ship the fix by 4:30 am with a sense of fulfilled duty? If not, the team must get the system in a state that enables it.
+
+There are times when we need to make tactical moves to fulfil customer expectations when it happens, the technical debt must be paid off ASAP.
+
+Non Functional Requirements must be threaded carefully. There's little value on a system that doesn't work on specific situations, often when a high volume of users expects to use the system at the same time.
+
+#### Operational Excellence
+
+Operational Excellence to me is the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures at pace. Operational Excellence is very close to my heart. I expect you to have it front and centre on your mind as it's key to meet customer expectations.
+
+Design Principles:
+
+* Make frequent, small, reversible changes.
+* Create paved roads aggressively: tools, processes, etc.
+* Everything as code.
+* Refine operations procedures frequently and relentlessly.
+* Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
+* Learn from all operational failures. Celebrate failure with us all.
+
+#### Dependencies
+
+Best dependencies are no dependency. Aggressively strangle dependencies. I rather have 2 of the same than 0 of nothing.
+
+Teams should be able to carry out their mission without having to coordinate outside the team. When it's not possible, I expect you to actively find asynchronous and fast processes that enable the team to move fast and autonomy.
+
+#### Innovation
 
 Innovation comes from everyone, everywhere and at any time. When possible and on the remit of your team, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready.
 

@@ -212,7 +212,7 @@ I’m usually quite busy, but you’re my priority. That said you might have to 
 * Important matter: book a meeting, slack me or drop me an email.
 * Other: drop me an email
 
-## Leadership
+### Leadership
 
 **Everyone is a leader and leadership comes from everywhere.** Leadership is not just for managers. You’ll find throughout your career that management is orthogonal to leadership. I expect different team members will need to step into leadership roles, contribute, and step back once the need for their specific skills has passed.
 
@@ -285,22 +285,24 @@ Below you’ll find my core beliefs.
 
 I’ll be looking for:
 
-* Passion for technology and people
-* Is a good coach and mentor
-* Empowers the team and does not micromanage
-* Creates an inclusive team environment, showing concern for success and well-being
-* Is productive and results-oriented
-* Is a good communicator — listens and shares information
-* Supports career development and discusses performance
-* Has a clear vision/strategy for the team
-* Has key technical skills to help advise the team
-* Can collaborate effectively across ${company_X}
-* Is a strong decision-maker
-* Is a fast-learner and continuously seeks to improve one’s skill
-* Foster engineering excellence through fostering pragmatic craftsmanship
-* Our beliefs are aligned and this README reasons with you
+* Passion for technology and people.
+* Is a good coach and mentor.
+* Empowers the team and does not micromanage.
+* Creates an inclusive team environment, showing concern for success and well-being.
+* Is productive and results-oriented.
+* Is a good communicator — listens and shares information.
+* Supports career development and discusses performance.
+* Has a clear vision/strategy for the team.
+* Has key technical skills to help advise the team.
+* Can collaborate effectively across ${company_X}.
+* Is a strong decision-maker.
+* Is a fast-learner and continuously seeks to improve one’s skill.
+* Foster engineering excellence through fostering pragmatic craftsmanship.
+* Our beliefs are aligned and this README reasons with you.
 
 Follow the link to know more about some of the points above <https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/>
+
+
 
 ## The team
 

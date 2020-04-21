@@ -281,9 +281,17 @@ If you suggest a meeting or discussion, initiate finding time on my diary and ma
 
 ### Leadership
 
-**Everyone is a leader and leadership comes from everywhere.** Leadership is not just for managers. You'll find throughout your career that management is orthogonal to leadership. I expect different team members will need to step into leadership roles, contribute, and step back once the need for their specific skills has passed.
+I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Get familiar with them, I expect you to incorporate it on your behaviours. If not possible on {company_X} let's have a chat about it.
 
-**A Leadership Primer** from General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable lessons that you should be aware of (<http://govleaders.org/powell.htm).> Some are really close to my heart:
+Lead by example, show don't tell!
+
+#### Everyone is a leader and leadership comes from everywhere
+
+Leadership is not just for managers. You'll find throughout your career that management is orthogonal to leadership. I expect different team members will need to step into leadership roles, contribute, and step back once the need for their specific skills has passed. It's our job to pull out leaders from everywhere.
+
+#### A Leadership Primer
+
+From General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable lessons that you should be aware of (<http://govleaders.org/powell.htm).> Some are really close to my heart:
 
 * "Being responsible sometimes means pissing people off."
 * "The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership."
@@ -292,9 +300,17 @@ If you suggest a meeting or discussion, initiate finding time on my diary and ma
 * "Perpetual optimism is a force multiplier."
 * "The commander in the field is always right and the rear echelon is wrong unless proved otherwise." (lead from the trenches)
 
-**Command & control or authoritative leadership style (AKA top-down)** is not advisable! Only when a team is in *survival mode* and for a short period, I'll not question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
+#### Command & control or authoritative leadership style (AKA top-down)
 
-**Servant leadership** is highly advisable, you should always strive for it. Still, it requires yourself and the team a great deal of maturity, or stuff doesn't get done and "too many cooks in the kitchen" syndrome creeps in. Sometimes one who wants to be a servant leader can easily fall into an absent leader. Be thoughtful about how to take your team on the journey. Does this mean the team just does whatever they want, and the manager has no say? No. You and your teamwork to define and prioritise impactful work with the rest of the stakeholders, including product managers, designers, and others and in line with business priorities.
+Is not advisable! Only when a team is in *survival mode* and for a short period, I'll not question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
+
+#### Servant leader
+
+It is highly desirable, you should always strive for it. Still, it requires yourself and the team a great deal of maturity, or stuff doesn't get done and "too many cooks in the kitchen" syndrome creeps in. Sometimes one who wants to be a servant leader can easily fall into an absent leader. Be thoughtful about how to take your team on the journey. Does this mean the team just does whatever they want, and the manager has no say? No. You and your team work **together** to define and prioritise impactful work with the rest of the stakeholders, including product managers, designers, and others and in line with business priorities.
+
+#### Union vs Business Leader
+
+You are a Business Leader, not a Union Leader. You must represent your teams and ICs, but it must be put in the business context. Voicing or demanding or committing popular but unrealistic requests are not advisable. I expect you to set expectations and business context for everyone in your org so that we're all aligned, and you stand by it. Also, note the {company_X} is not the other cool company with all the cool things.
 
 ### Technology
 

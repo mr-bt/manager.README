@@ -168,8 +168,14 @@ If you agree with the decision, happy days. Joins forces and get it done. It is,
 #### Learning
 
 I suggest you conduct a retrospective for each significant successful or failed decision you've made. Better when you include stakeholders. It's a powerful tool to learn and be more self-aware of your actions.
+
 ### Communication
 
+Communication is key to everything that we do. It's the cornerstone of trust, and trust is the bedrock of an effective and efficient relationship. It will make or break us. I don't claim to be an expert and there's tons of literature about it. Below I'll do my very best to describe what works for me, but it's not a definite guide.
+
+I strive to spend 10h of my week with my direct reports, because I've found the hard way that the vast majority of issues are a result of poor or infrequent communication. It’s important we communicate well and often.
+
+Communicate clearly, concisely and go straight to the point. Value people's time and they will value yours. Be forthright and upright, but don't forget to be kind. Empathy goes a long way, and often one doesn't know what's people's constraints and feelings before having a candid and kind conversation about it.
 #### Share information openly, broadly and deliberately
 
 Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create/use communication forums to share information. Default to share everything, but use the right forums, so that is not considered “noise”. When it gets to be too much sharing, someone will tell you, and you adjust if needed.

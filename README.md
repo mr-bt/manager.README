@@ -131,13 +131,13 @@ Decisions logs are great, give it a go.
 
 #### Decision-making intuition
 
-Intuition is using your 'gut feeling' about possible courses of action. Although some people perceive it as something magical 'sense' only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I've found writing down my thoughts and seeking data to back it up helps me being right more often. Sometimes is not about the end result but the process.
+Intuition is using your 'gut feeling' about possible courses of action. Although some people perceive it as something magical 'sense' only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I've found writing down my thoughts and seeking data to back it up helps me being right more often. The process will help with being more often right than wrong.
 
 It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly.
 
 #### 'deciding not to decide' is also a decision
 
-Deciding not to decide is perhaps one of the toughest decisions one can make. After all, we're expected to make decisions and to act! Not making a decision might feel unnatural or even wrong. It's a valid decision as any other, and it should always be on the table. It should follow the same decision-making process as any other decision.
+Deciding not to decide is perhaps one of the toughest decisions one can make. After all, we're expected to make decisions and to act! Not making a decision might feel unnatural or even wrong at times. It's a valid decision as any other, and it should always be on the table. It should follow the same decision-making process as any other decision.
 
 #### Decision-making process
 
@@ -175,11 +175,11 @@ Communication is key to everything that we do. It's the cornerstone of trust, an
 
 I strive to spend 10h of my week with my direct reports because I've found the hard way that the vast majority of issues are a result of poor or infrequent communication. We must communicate well and often.
 
-Communicate clearly, concisely and go straight to the point. Value people's time and they will value yours. Be forthright and upright, but don't forget to be kind. Empathy goes a long way, and often one doesn't know what's people's constraints and feelings before having a candid and compassionate conversation about it.
+Communicate clearly, concisely and go straight to the point (I'm working hard on these). Value people's time and they will value yours. Be forthright and upright, but don't forget to be kind. Empathy goes a long way, and often one doesn't know what's people's constraints and feelings before having a candid and compassionate conversation about it.
 
 #### Share information openly, broadly and deliberately
 
-Nothing to hide, all to share. Feel free to discuss things with anybody in the business. From C-levels to everyone else. If there's something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will cost you your job as I'll perceive it as toxic office politics.
+Nothing to hide, all to share. Feel free to discuss things with anybody in the business. From C-levels to everyone else. If there's something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will cost you your job because I'll perceive it as toxic office politics.
 
 Default to share everything. Deliberately create/use communication forums to share information. Use the right forums to capture the attention of the right audience. Be as data-driven as possible, there's less room for interpretation and emotions tend not to get in the way. And use your business acumen, comms go a long way when people can relate with a solid narrative that's aiming to solve a Customer problem. When one failed to do so, is often considered "noise" or office politics.
 

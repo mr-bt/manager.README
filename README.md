@@ -70,18 +70,25 @@ As a Software Engineering Manager, my job is to:
 
 ## How do I manage
 
-* You work for ${company_X} not for me, always optimise for the company
-* You’re my top priority, so should be every one that reports to you
-* I serve you, not the other way around
+* You work for ${company_X} not for me, always optimise for the company.
+* You’re my top priority, so should be every one that reports to you.
+* I serve you, not the other way around.
 * If I do something that’s impacting my ability to retain you, you would be doing me a huge favour if you let me know ASAP
 * If I do something that feels more like telling you how to do your job than setting the context, you’d be doing me a huge favour if you let me know ASAP.
+* Customers at the forefront of everything that we do.
+* Customers NPS is high.
+* I make as few decisions as possible. Still, not a democracy.
+* Teams are autonomous, self-organised and ultimately self-directed.
+* Teams health, efficiency and effectiveness is high.
+* We work as one team, delivering on time and with high quality.
+* ICs and teams impact, development and growth is notable, quarter over quarter.
+* Everyone well-being is high.
+* We move fast, very fast.
 * I’m making mistakes, please let me know and hold me accountable!
-* I’m a strong advocate of Freedom & Responsibility
 
 ### Decision-making
 
-
-I know you can’t decide everything by yourself. You’re are not alone, I’m here for you.
+I expect you to make decisions all the time as autonomous as possible and be right often. I also expect you to ask for help or advice when you're not sure or you could use a second opinion. You’re are not alone, I’m here for you.
 
 #### Directly-Responsible Individual (DRI)
 
@@ -103,9 +110,54 @@ Being DRI does not mean:
 * You’re exempt from people telling you, ahead of time or afterwards, that you made a mistake.
 * Your choices won’t be challenged by other stakeholders
 
+#### Decision-making reasoning
+
+Reasoning is using information and a process about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and uncertain. More often than not, we can't wait to have all the information available to make a decision. Still, we need to make it. My formula, I need max 70% of the information to make a decision, but we need to be great at correcting course and learning (can't remember from where I've learn thins from).
+
+I tend to optimise for:
+
+* What's the best for the Customer today, mid and long term? How does good looks like so I have a reference point in order to evaluate other options.
+* What's the cost of delay of making the decision?
+* Can it be reverse? Will it open to other options?
+* Are we going to learn something new?
+
+Decisions logs are great, give it a go.
+
+#### Decision-making intuition
+
+Intuition is using your ‘gut feeling’ about possible courses of action. Although some people perceive it as something magical ‘sense’ only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account, because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I've found writing down my thoughts and seeking data to back it up helps me being right more often. Sometimes is not about the end result but the process.
+
+It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly.
+
+#### ‘deciding not to decide’ is also a decision
+
+Deciding not to decide is perhaps one of toughest decisions one can make. After all we're expected to make decisions and to act! Not making a decision might feel unnatural or even wrong. Sill, is as valid decision as any other and it should always be on the table and it should follow the same decision-making process as any other decision.
+
+#### Decision-making process
+
+* Write it down with 6 pages or less. Less is more!
+* State the problem, assumptions, constraints and risks.
+* Simplify, simplify simplify! Model the problem.
+* Define how good looks like.
+* What are the options available to us today.
+* Define risk mitigations.
+* Focus on the data and outcomes.
+* Keep yourself in check. Don't let your ego/emotions get in the way.
+
+Make a decision!
+
 #### Escalation
 
-When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you to try to get it sorted. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient and effective. Always go back to common sense, your and business priorities.
+When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient. Always go back to common sense, your and business priorities.
+
+#### When the decision it's not yours to make or you weren't included
+
+If you agree with the decision, happy days. Joins forces and get it done. It is, however, harder to buy-in into decision that you don't agree or weren't included. Life happens and the world is not perfect. You're expected to:
+
+* Express clearly why you don't agree with the decision on the right forum.
+* Provide clear, factual based and valid alternatives.
+* Be a team player.
+* If the decision hasn't changed, Disagree and Commit. Stand by it to the end while giving your best to make it a success. 
 
 ### Communication
 

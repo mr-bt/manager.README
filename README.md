@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This document **MUST** not be read in any way that applies to any other group, division, team or manager of ${company_X}. You might find that my beliefs and style might not be wholly aligned and sometimes even incompatible with what you see throughout the business and that's OK! This is a document on me, and it applies to me only.
+This document **MUST** not be read in any way that applies to any other group, division, team or manager of ${company_X}. If you find that my beliefs and style are not wholly aligned or are even incompatible with what you observe in {company_X} and that's OK! This is a document on me, and it applies to me only.
 
 ## Welcome
 

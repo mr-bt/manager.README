@@ -176,9 +176,15 @@ Communication is key to everything that we do. It's the cornerstone of trust, an
 I strive to spend 10h of my week with my direct reports, because I've found the hard way that the vast majority of issues are a result of poor or infrequent communication. It’s important we communicate well and often.
 
 Communicate clearly, concisely and go straight to the point. Value people's time and they will value yours. Be forthright and upright, but don't forget to be kind. Empathy goes a long way, and often one doesn't know what's people's constraints and feelings before having a candid and kind conversation about it.
+
 #### Share information openly, broadly and deliberately
 
-Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create/use communication forums to share information. Default to share everything, but use the right forums, so that is not considered “noise”. When it gets to be too much sharing, someone will tell you, and you adjust if needed.
+Nothing to hide, all to share. Feel free to discuss things with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will cost you your job as I'll perceive it as office toxic politics.
+
+Default to share everything. Deliberately create/use communication forums to share information. However, use the right forums to capture the attention of the right audience; be as data-driven as possible, there’s less room for interpretation and emotions tend not to get in the way; and use your business acumen, comms go a long way when people can relate with a solid narrative that's aiming to solve a Customer issue. When one fail to do so, is often considered “noise” or office politics.
+
+Over-communicate when you can so that you earn credits when you're particularly busy. If people start getting overwhelmed by the qua will tell you, and you adjust if needed.
+
 #### Opinions
 
 

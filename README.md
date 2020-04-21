@@ -237,10 +237,6 @@ If you suggest a meeting or discussion, initiate finding time on my diary and ma
 
 **Servant leadership** is highly advisable, you should always strive for it. Still, it requires yourself and the team a great deal of maturity, or stuff doesn’t get done and “too many cooks in the kitchen” syndrome creeps in. Sometimes one who wants to be a servant leader can easily fall into an absent leader. Be thoughtful about how to take your team on the journey. Does this mean the team just does whatever they want, and the manager has no say? No. You and your teamwork to define and prioritise impactful work with the rest of the stakeholders, including product managers, designers, and others and in line with business priorities.
 
-### Delivery
-
-TODO
-
 ### Innovation
 
 Innovation comes from everyone, everywhere and at any time. When possible and on the remit of your team, apply “small, fast and measurable” iterations and get on with it. Share the findings when you’re ready.

@@ -118,13 +118,13 @@ Being DRI does not mean:
 
 #### Decision-making reasoning
 
-Reasoning is using information and a process about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and uncertain. More often than not, we can’t wait to have all the information available to make a decision. Still, we need to make it. My formula, I need max 70% of the information to make a decision, but we need to be great at correcting course and learning (can’t remember from where I’ve learned thins from).
+Reasoning is using data, facts and process to decide about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and uncertain. More often than not, we can’t wait to have all the information available to make a decision. Still, we need to make it. The formula that I use embraces that we make decisions in imperfect conditions: we need 70% of the information to make a decision, but we need to be great at correcting course and learning (can’t remember from where I’ve learned this from).
 
 I tend to optimise for:
 
 * What’s the best for the Customer today, mid and long term? How does good looks like so I have a reference point in order to evaluate other options.
 * What’s the cost of delay of making the decision?
-* Can it be reversed? Will it open to other options?
+* Can it be reversed? Will it open other options in the future? How? When?
 * Are we going to learn something new?
 
 Decisions logs are great, give it a go.

@@ -152,9 +152,9 @@ Deciding not to decide is perhaps one of the toughest decisions one can make. Af
 
 Make a decision!
 
-#### Escalation
+#### Roadblocks and escalation
 
-When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient. Always go back to common sense, your and business priorities.
+When you bump into a roadblock that you can’t solve or something needs approval from high, let me know. I’ll work with you. Don’t get hung up on “process”, upcoming meetings and such. Just-in-time escalation is usually more efficient.
 
 #### When the decision it’s not yours to make, or you weren’t included
 

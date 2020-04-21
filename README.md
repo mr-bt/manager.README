@@ -173,6 +173,9 @@ I suggest you conduct a retrospective for each significant successful or failed 
 #### Share information openly, broadly and deliberately
 
 Nothing to hide, all to share. Feel free to talk with anybody in the business. From C-levels to everyone else. If there’s something wrong, I appreciate hearing it from you so we can fix it together. Also, deliberately create/use communication forums to share information. Default to share everything, but use the right forums, so that is not considered “noise”. When it gets to be too much sharing, someone will tell you, and you adjust if needed.
+#### Opinions
+
+
 
 #### Radical candour
 

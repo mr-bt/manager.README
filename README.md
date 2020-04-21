@@ -185,7 +185,6 @@ Default to share everything. Deliberately create/use communication forums to sha
 
 Over-communicate when you can, so that you earn credits when you're particularly busy. If people start getting overwhelmed by the qua will tell you, and you adjust if needed.
 
-#### Opinions
 
 
 

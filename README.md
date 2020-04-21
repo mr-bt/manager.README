@@ -211,12 +211,14 @@ Every month, everyone that reports to me directly or indirectly will be invited 
 
 #### Get a hold on me
 
-I’m usually quite busy, but you’re my priority. That said you might have to chase me down. Some tips that can help you:
+I’m usually quite busy and it's hard to find me at my desk. I will always make myself available if you need me. Some tips that can help you get a hold on me:
 
-* Emergency: find me at my desk or around the office; call me; text me; slack me; drop me an email. Do whatever you need to do to get a hold on me.
-* Urgent matter: find me at my desk or around the office; text me; slack me; drop me an email
-* Important matter: book a meeting, slack me or drop me an email.
-* Other: drop me an email
+* Emergency: find me at my desk or around the office -> call me -> text me -> slack me -> drop me an email. Do whatever you need to do to get a hold on me.
+* Urgent matter: text me -> slack me -> drop me an email.
+* Important matter: slack me -> drop me an email.
+* BAU: drop me an email -> book a meeting
+
+If you suggest a meeting or discussion, initiate finding time on my diary and make an appointment on my calendar. If I suggest a discussion, I will initiate finding time. Don't say “let's discuss” without a quick follow-up of when we’ll discuss.
 
 ### Leadership
 

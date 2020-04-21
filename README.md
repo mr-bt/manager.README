@@ -14,7 +14,7 @@ I look forward to working with you.
 
 ## Motivations behind this document
 
-Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. You might find my document close to those you find online and sometimes a copy & paste, and that's OK, it just means I couldn't put it in better words.
+Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. You will find my document close to those you encounter online and sometimes a copy & paste, and that's OK, it just means I couldn't put it in better words.
 
 This document will always be a work in progress, and it's meant to be documentation on me.
 

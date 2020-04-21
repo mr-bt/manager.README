@@ -55,7 +55,7 @@ If you're curious about my professional experience, please visit my [LinkedIn pr
 
 As a Software Engineering Manager, my job is to:
 
-* Foster and nurture a strong and healthy Software Engineering culture founded on great people, operational excellence and customer-centricity
+* Foster and nurture a strong and healthy Software Engineering culture founded on great people, Operational Excellence and customer-centricity
 * Help ${company_X} processes & technology so that we can have a scalable organisation by:
   * Attract and retain world-class talent (that's you).
   * Coach & Mentor teams and individuals.

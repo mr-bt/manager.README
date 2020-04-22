@@ -91,7 +91,7 @@ As a Software Engineering Manager, my job is to:
 * Customer's quantitative and qualitative feedback about features we ship is positive, e.g. NPS, active usage, etc.
 * We're strong contributors to the {company_X} objectives and key results.
 * Team health is high.
-* Everyone well-being is high.
+* Everyone's well-being is high.
 
 ### Decision-making
 

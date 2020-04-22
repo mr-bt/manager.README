@@ -236,7 +236,35 @@ To learn about Radical candour, follow the links and take your time to digest it
 
 #### Staff meetings
 
+Staff meetings occur on Monday morning with a duration of 1.5 hours with my direct reports. It set us for the week, and focus on [How do I measure the success of our team](#How-do-I-measure-the-success-of-our-team). It's also a forum where team members:
+* Cross-departmental and business information sharing.
+* Get to know what's going on with each other and offer help.
+* To ensure we're aligned at all times
+* To nurture team cohesion. Together we're stronger.
 
+##### Before the meeting
+
+To be shared 1 working day before the meeting.
+
+* Key Indicator Report: 1-pager summary of the group core metrics and delivery update shared by me.
+* Team member updates or Flash Reports: each team member writes their personal updates. Should working on a team assignment update must be provided.
+* Deep Dive Suggestions: A deep dive is a problem-solving slot or new initiative that leverages the power of the team. Deep dives are about discussing the topic, not learning about it. Please prepare the deep dive as you'd with the [decision-making process](#Decision-making-process).
+
+All goes into a shared document where we can always look back.
+
+##### The meeting
+
+The below format is a blueprint. We'll find what works best for us as we go along. All team members must come prepared to the meeting to actively contribute. Time is a scarce resource, attending and participating in the session; it's a moral duty to your teammates.
+
+1. Overview (5-15 min): I'll provide an overview of the KPIs, progress, sometimes go in-depth on some, and shared business or cross-department information.
+2. Team members round (30 min): each team member will share with the team key achievements, disappointments, issues, concerns and learnings. What's hot on their plate. What's the plan for the week to move us forward.
+3. Review team assignments/actions progress (5 min)
+4. Customer focus (5 min): We'll answer the questions "What are we going to do differently this week to enhance Customer Experience?" and "Has anyone has gone out of their way to improve Customer Experience?".
+5. Decisions to be discussed or assignments to be handed over (20 min)
+6. Deep dives (30 min): Discussion about problem-solving or new initiatives. This time can also be used to discuss strategy.
+7. Review action items.
+
+Meeting minute to be shared during the week and be ratified by the team members.
 
 #### 1:1s
 

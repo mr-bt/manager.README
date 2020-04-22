@@ -237,6 +237,7 @@ To learn about Radical candour, follow the links and take your time to digest it
 #### Staff meetings
 
 Staff meetings occur on Monday morning with a duration of 1.5 hours with my direct reports. It set us for the week, and focus on [How do I measure the success of our team](#How-do-I-measure-the-success-of-our-team). It's also a forum where team members:
+
 * Cross-departmental and business information sharing.
 * Get to know what's going on with each other and offer help.
 * To ensure we're aligned at all times

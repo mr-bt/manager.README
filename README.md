@@ -199,7 +199,7 @@ I perceive opinions as *a view or judgement formed about something, not necessar
 > For people to believe you, they need to trust you. For people to trust you, you need to demonstrate that you understand your subject matter to depths that they had never considered, that you have considered every conceivable alternative and edge case, that you have data to validate your hypothesis, that you have reached beyond the narrow confines of your teams and tried your hardest to disconfirm your beliefs and biases, that you understand what went before and the impact that it had.
 >
 > Once you get to that point, it would frankly be irresponsible not to follow your plans. Until you get to that point, you risk having the ideas of others forced upon you.
-Source: [Julian Skeels](https://www.linkedin.com/in/julianskeels/)
+Source: Julian Skeels
 
 #### Words matter
 
@@ -421,8 +421,6 @@ Below you'll find my core beliefs.
 **I believe** teams are gown not hired.
 
 **I believe** experimentation as a constant practice for learning. Experiment with people, tools, processes and environment.
-
-**I believe** managers are a necessary evil, that exists to scale the organisation.
 
 **I believe** (strongly!) on Conway's law: "any organisation that designs a system will produce a design whose is a copy of the organisation communication structure". ${company_X} future partially depends on how well and often we communicate, let's optimise for it.
 

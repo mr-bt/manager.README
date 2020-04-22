@@ -142,7 +142,7 @@ Deciding not to decide is perhaps one of the toughest decisions one can make. Af
 
 #### Decision-making process
 
-* Write it down with 6 pages or less. Less is more!
+* Write it down with 6 or fewer pages. Less is more!
 * State the problem, assumptions, constraints and risks.
 * Simplify, simplify simplify! Challenge everything! Model the problem!
 * Define how good looks like.

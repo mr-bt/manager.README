@@ -268,17 +268,34 @@ Meeting minute to be shared during the week and be ratified by the team members.
 
 #### 1:1s
 
-That's your time, to talk about you and to address any concern. Let's get to know each other better. If you want to spend this time talking about projects progress or anything else related to it, it's your choice. Still, I advise otherwise as you can always book a meeting with me to address those.
+Our 1:1s are weekly and for 1h. Should you wish to change the frequency or length, please let me know. This is mostly your time and your agenda. I like using 1:1s to check-in on how you're doing, what you need from me, personnel issues, your professional development and performance reviews. I also use 1:1s for strategy questions that we can seed/discuss, for you to seek advice, me providing any missing context, and bi-directional feedback.
 
-Our 1:1s are weekly and for 1h. Should you wish to change the frequency or length, please let me know. If you don't spend all of the 30min, I give myself the right to take the remaining time to provide you with more context.
+Once a quarter, we will formally document performance.
 
-By default every month we'll hold a one-on-one retrospective. This way, we can continuously improve the one-on-ones. We'll have a private online document between us where we collate notes from the one-on-ones that will help us on the retrospectives.
+Every 2 months we'll hold a 1:1s retrospective. This way, we can continuously improve the one-on-ones.
 
-Tips:
+We'll have a private online document where we collate notes from 1:1s that will help us with the retrospectives and tracking progress.
 
-* Start from where you left off
-* Prepare your topics in advance
-* Have recommended actions for your concerns (it's a journey for both, don't expect me to have everything figured out)
+Pro tips:
+
+* Start from where you left off.
+* Prepare your topics in advance.
+* I frequently use the [OSCAR model - Outcome, Situation, Choices, Actions and Review](https://www.businessballs.com/coaching-and-mentoring/oscar-model/) to assist you with your growth and development.
+* Don't expect me to have everything figured out or solve the problems for you. I'm here to help you find a way forward.
+
+Note on career development:
+Your career is yours. You know best how you'd like to grow and in what areas. I can provide feedback and an outside perspective as well as guidance and tools. Let me know what interests you and where you want to go. I'll do my best to provide growth and learning opportunities, it'll be up to you to seize them. You must be growing and developing all the time. If you don't take significant time and effort to improve yourself, you won't be able to grow and develop your org.
+
+I keep myself in check by filling a form after every 1:1:
+
+| Criteria                                                                  | Grade  |
+| ------------------------------------------------------------------------- |:-----: |
+| Team member did most of the talking                                       | Yes/No |
+| Team member displayed a sense of belonging and commitment                 | Yes/No |
+| Team member is exhibiting signs of growth and development                 | Yes/No |
+| Team member and I were aligned on takeaways                               | Yes/No |
+| Team member left with a renewed sense of purpose and motivation             | Yes/No |
+| Team member's perspectives match with what I've seen and heard elsewhere  | Yes/No |
 
 #### Reporting
 

@@ -264,7 +264,7 @@ To be shared 1 working day before the meeting.
 
 * Key Indicator Report: 1-pager summary of the group core metrics and delivery update shared by me.
 * [Flash Reports](#Flash-reports): each team member writes their personal updates. Should working on a team assignment, the update must be provided on a weekly base.
-* Deep Dive Suggestions: A deep dive is a problem-solving slot or new initiative that leverages the power of the team. Deep dives are about discussing the topic, not learning about it. Please prepare the deep dive as you'd with the [decision-making process](#Decision-making-process).
+* Deep Dive Suggestions: A deep dive is a problem-solving or new initiative slot that leverages the power of the team. Deep dives are about discussing the topic, not learning about it. Please prepare the deep dive as you'd with the [decision-making process](#Decision-making-process).
 
 All goes into a shared document where we can always look back.
 
@@ -426,11 +426,11 @@ Design Principles:
 * Everything as code.
 * Refine operations procedures frequently and relentlessly.
 * Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
-* Learn from all operational failures. Celebrate failure with us all.
+* Learn from all operational failures: post-mortem, retrospectives, sharing with all the Engineering group findings, etc.
 
 #### Dependencies
 
-Best dependencies are no dependency. Aggressively strangle dependencies. I rather have 2 of the same than 0 of nothing or 1 that takes must longer.
+Best dependencies are no dependency. Aggressively kill dependencies. I rather have 2 of the same than 0 of nothing or 1 that takes must longer.
 
 Teams should be able to carry out their mission without having to coordinate outside the team. When it's not possible, I expect you to actively establish processes that enable the teams to coordinate efficiently. At the same time, we must kill inter-teams dependencies.
 
@@ -450,8 +450,6 @@ Below you'll find my core beliefs.
 
 **I believe** that teams are more important than superstars. Although it is always good to have around superstars so that we can learn from them.
 
-**I believe** in Directly-Responsible Individual (DRI).
-
 **I believe** teams are gown not hired.
 
 **I believe** experimentation as a constant practice for learning. Experiment with people, tools, processes and environment.
@@ -460,9 +458,7 @@ Below you'll find my core beliefs.
 
 **I believe** QA, Security, Ops, Culture and Product success is everyone responsibility!
 
-**I believe** in short feedback loops, fail-fast and reduced blast radius. It's OK to fail as long as we learn the lesson and share our learnings. Tolerance ZERO for blame!
-
-**I believe** data tells us a great deal. Be data-driven but don't lose your gut feeling, you'll need it at the end.
+**I believe** in fail-fast and reduced blast radius. It's OK to fail as long as we learn and share our learnings. Tolerance ZERO for blame!
 
 **I believe** in the compounding of continually improving small things through sort and quick iterations.
 
@@ -471,8 +467,6 @@ Below you'll find my core beliefs.
 **I believe** in Agile, Lean, DevOps and Continuous Delivery core principles. They are tools, don't make a great deal of the tools, make a great deal of what you build!
 
 **I believe** that there's no such thing as personality conflicts at work. We may have disagreements, and that's OK, it's not personal. I'll always try to adjust to personalities styles and you should too.
-
-**I believe** that processes do add value when kept to a minimum and enable teams to work at its best. I need specific procedures in place to be able to manage up and out to the rest of the business. If you ever have feedback on the process(es), please let me know. Btw, processes need to be monitored like any other system. If one can't describe a process in less than 1min, no one will follow it.
 
 ## What I look in managers when hiring
 

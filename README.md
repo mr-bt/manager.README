@@ -89,6 +89,22 @@ As a Software Engineering Manager, my job is to:
 * Team health is high.
 * Everyone's well-being is high.
 
+### My ideal team
+
+Let me try to describe my ideal for the team(s):
+
+* Take control of, and responsibility for, your own destiny.
+* Have each other's back.
+* Hold each other accountable.
+* Expect excellence in ourselves and each other.
+* Assume positive intent.
+* Always question, always ask "why?".
+* Constantly learn.
+* Laugh together.
+* Get stuff done!
+
+Please get comfortable with [Guide: Understand team effectiveness](https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit)
+
 ### Decision-making
 
 I expect you to make decisions all the time as autonomous as possible and be right often. I also expect you to ask for help or advice when you're not sure or you could use a second opinion. You're are not alone, I'm here for you.
@@ -115,7 +131,7 @@ Being DRI does not mean:
 
 #### Decision-making reasoning
 
-Reasoning is using data, facts and process to decide about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and carries out a considerable deal uncertainty. More often than not, we can't wait to have all the information available to make a decision. Still, we need to make it. The formula that I use embraces that we make decisions in imperfect conditions. In essence, we need 70% of the information to make a decision, but we need to be great at correcting course and learning.
+Reasoning is using data, facts and process to decide about possible courses of action. We strive to move fast, but the world surrounding us is complex, ambiguous and carries out a considerable deal uncertainty. More often than not, we can't wait to have all the information available to make a decision. Still, we need to make it. The formula that I use embraces that we make decisions in imperfect conditions. In essence, we need 50% to 70% of the information to make a decision, but we need to be great at correcting course and learning.
 
 I tend to optimise for:
 
@@ -126,9 +142,9 @@ I tend to optimise for:
 
 #### Decision-making intuition
 
-Intuition is using your 'gut feeling' to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only your perceptions. I've found writing down my thoughts and seeking data to back it up helps me being right more often. The process will help with being more often right.
+Intuition is using your 'gut feeling' to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMHO intuition is a combination of past experience and your personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only your perceptions.
 
-It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly.
+It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly. It's also perfectly acceptable to use intuition to close the gap between *knowns* and *unknowns*,and  to question what the data is suggesting (e.g. Are we asking the right questions?). When your intuition is against the facts, try hard to validate it. Watchout for [confirmation bias](https://www.verywellmind.com/what-is-a-confirmation-bias-2795024).
 
 #### 'deciding not to decide' is also a decision
 
@@ -136,17 +152,19 @@ Deciding not to decide is perhaps one of the toughest decisions one can make. Af
 
 #### Decision-making process
 
-* Write it down 6 or fewer pages document. Less is more!
-* State the problem, assumptions, constraints and risks.
-* Simplify, simplify simplify. Challenge everything.
-* Model the problem.
-* Define how good/success looks like and how to measure it.
-* What options are available to us today.
-* Use data and facts to support the options on the table.
-* Define risk mitigations and if possible, a kill-switch.
-* Keep yourself in check. Don't let your ego/emotions get in the way.
+I expect you to follow the following process:
 
-Make a decision!
+* Identify and state the problem, assumptions, constraints and risks.
+* Simplify, simplify and simplify until you're able to model the problem.
+* Define how good/success looks like and how to measure it.
+* What options are available to you today.
+* Use data and facts to support the options.
+* Define risk mitigations and if possible, a kill-switch.
+* Anticipate the questions of who is impacted or part of the process.
+* Keep yourself in check. Don't let your ego/emotions get in the way.
+* Make a decision!
+
+I found that writing a 6 or fewer pages document, less is more, for decisions that have significant impact or must be discussed by the group works well. Keeping a decision log is also a tool that helps me understand 'why', 'what' and 'when' I've made a given decision.
 
 #### Roadblocks and escalation
 
@@ -192,7 +210,7 @@ I tend to ask for your thoughts rather than opinions because I value the underst
 It's vital that you take stakeholders on a journey so that everyone has skin in the game.
 
  **[The Chicken and the Pig business fable](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)**
->A Pig and a Chicken are walking down the road.
+> A Pig and a Chicken are walking down the road.
 > The Chicken says: "Hey Pig, I was thinking we should open a restaurant!"
 > Pig replies: "Hm, maybe, what would we call it?"
 > The Chicken responds: "How about 'ham-n-eggs'?"
@@ -212,6 +230,7 @@ It's crucial stakeholders trust you.
 > For people to believe you, they need to trust you. For people to trust you, you need to demonstrate that you understand your subject matter to depths that they had never considered, that you have considered every conceivable alternative and edge case, that you have data to validate your hypothesis, that you have reached beyond the narrow confines of your teams and tried your hardest to disconfirm your beliefs and biases, that you understand what went before and the impact that it had.
 >
 > Once you get to that point, it would frankly be irresponsible not to follow your plans. Until you get to that point, you risk having the ideas of others forced upon you.
+
 Source: Julian Skeels
 
 #### Words matter
@@ -312,6 +331,22 @@ I keep myself in check by filling a form after every 1:1:
 | Team member left with a renewed sense of purpose and motivation             | Yes/No |
 | Team member's perspectives match with what I've seen and heard elsewhere  | Yes/No |
 
+#### Plans VS Planning
+
+I expect you to plan and to share your plans in writing. Plans that are not in writing and shared with the stakeholders don't exit.
+
+> If you don't have a plan, you become part of somebody else's plan - Terence McKenna.
+
+Plans must be specific, clear and detailed prompting commitment by the stakeholders.
+
+> everyone has a plan until they get punched in the mouth - Mike Tyson.
+
+Things usually don't go according with the plan, and that's OK.
+
+> In preparing for battle I have always found that plans are useless, but planning is indispensable - Dwight D. Eisenhower.
+
+It's about thinking ahead that get us to be better prepared for plan deviations.
+
 #### Delivery reporting
 
 Create a regular, systematic, clearly framed written process by which you share your progress against plan progress, RAG, risks/mitigations, assumptions and issues/blockers. Share this update with me no less frequently than weekly. I place a high premium on data and well-thought mitigation actions. Should something is RED for more than a couple of weeks, it becomes the focus on my attention, and you should be all over it to find *the path to GREEN.*
@@ -373,6 +408,10 @@ From General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18 valuable le
 * Perpetual optimism is a force multiplier.
 * The commander in the field is always right and the rear echelon is wrong unless proved otherwise.
 
+#### The 21 irrefutable laws of leadership
+
+I'm a big fan of John C. Maxwell books on leadership. Get familiar with the: [The 21 irrefutable laws Of leadership](https://www.amazon.co.uk/dp/B00ETK5N5O). You can also find a good summary [here.](http://hgimnetwork.org/2015/01/book-summary-the-21-irrefutable-laws-of-leadership-by-john-maxwell-part-1/)
+
 #### Command & control or authoritative leadership style (AKA top-down)
 
 Is not advisable! Only when a team is in *survival mode* and for a short period, I'll not question if your judgement is sound. I also appreciate a heads-up when you feel is needed.
@@ -393,7 +432,7 @@ We all care deeply about people.
 
 ### Technology
 
-So, you're a manager. It means you don't need to be technical anymore. **WRONG!!!** You're a Software Engineering Manager, I don't expect you to code, but I expect you to be passionate about technology, be a technologist. You must understand what your people do to earn their trust and to provide them with what they and the business need to be successful.
+So, you're a manager. It means you don't need to be technical anymore. You're a **Software Engineering** Manager, I don't expect you to code or make technical decisions but I expect you to be passionate about technology, be a technologist, and to be able to influence technical decisions. You must understand what your people do to earn their trust and to provide them with what they and the business need to be successful.
 
 > Dive Deep
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
@@ -484,26 +523,10 @@ I'll be looking for:
 * Can collaborate effectively across ${company_X}.
 * Is a reliable decision-maker.
 * Is a fast-learner and continuously seeks to improve one's skill.
-* Foster engineering excellence through fostering pragmatic craftsmanship.
+* Nurtures and fosters a strong Engineering Culture.
 * Our beliefs are aligned and this README reasons with you.
 
 Follow the link to know more about some of the points above <https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/>
-
-## The team
-
-Let me try to describe my ideal for our team:
-
-* Take control of, and responsibility for, our own destiny
-* Have each other's back
-* Hold each other accountable
-* Expect excellence in ourselves and each other
-* Assume positive intent
-* Always question, always ask "why?"
-* Constantly learn
-* Laugh together
-* Get stuff done!
-
-Please get comfortable with [Guide: Understand team effectiveness](https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit)
 
 ## Books
 

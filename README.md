@@ -71,16 +71,19 @@ As a Software Engineering Manager, my job is to:
 
 * Integrity and authenticity are never up for discussion.
 * You work for ${company_X} not for me and I serve you, not the other way around.
-* We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting business outcomes.
+* We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting  outcomes.
 * We assume the best on everyone, and every one is authentic until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
 * We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
 * We're biassed towards action. We thrive on getting meaningful work done.
-* We expect excellence from ourselves, and we hold each other backs. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
+* We expect excellence from ourselves and from others, but hold each other backs. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
+* We coach individuals and teams relentlessly. We take it as an article of faith that a culture founded on learning and growing returns better outcomes long-term.
 * We embrace that management is not leadership. Both are equally important and crucial and not mutually exclusive or dependent. In an oversimplification fashion:
   * Management is about working with objectives; responsible for quality, processes, hire and retain talent; and deliverables. It's a position in the company.
   * Leadership is about working with goals and vision; and inspiring people towards a goal. Leadership comes from everywhere.
 
 ## How do I manage
+
+You behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to ***learn-it-all** you first need to embrace it yourself.
 
 ### Management guiding principles
 
@@ -101,12 +104,12 @@ As a Software Engineering Manager, my job is to:
 
 * You're good coach and mentor and you have a growth mindset.
 * You empower the team(s) and does not micromanage.
-* You create a diverse and inclusive team environment, showing concern for success and well-being of everyone.
+* You create a diverse and inclusive team environment, showing concern for the success and well-being of everyone.
 * You're productive and results-oriented.
 * You're a good communicator — listens actively and shares information.
 * You support career development and discuss performance.
 * You have a clear vision/strategy for the team.
-* You have key technical skills to influence the team.
+* You have the technical skills to influence the team.
 * You can collaborate effectively across ${company_X}.
 * You're a reliable decision-maker.
 * You're a fast-learner and continuously seek to improve your skills.
@@ -133,11 +136,17 @@ Please get comfortable with [Guide: Understand team effectiveness](https://docs.
 
 ### Me as a resource
 
-Be clear what you need from me for your success. Role, comp, org change, more feedback, more context, etc.
+Be clear what you need from me for your success. The role, comp, org change, more feedback, more context, etc.
 
-Be clear when you need the company’s resources. Be data-driven about why you need it, gather alignment from the pertinent stakeholders, and show that you’re being cost conscious. I like justifications that include, “this is what [company we respect] does” + “this is the ROI” + “this is what an experiment would cost and if it works, from there I can shut it down or scale it up” + “this is the most cost-effective solution for these reasons.”
+Be clear when you need the company's resources. Be data-driven about why you need it, gather alignment from the pertinent stakeholders, and show that you're being cost-conscious. I like justifications that include, "this is what [company we respect] does" + "this is the ROI" + "this is what an experiment would cost, and if it works, from there I can shut it down or scale it up" + "this is the most cost-effective solution for these reasons."
 
-I love to work through problems together if it’s useful to you.
+I love to work through problems together if it's useful to you.
+
+### Coaching
+
+I've drafted this section a few times now and always falls short on such an important topic. I expect you to coach and coach some more and be great at it. I here to help. 
+
+The article [The Leader as Coach](https://hbr.org/2019/11/the-leader-as-coach) by Harvard Business Review does a much better job than I'll ever do. Read it and embrace it. 
 
 ### Decision-making
 
@@ -176,7 +185,7 @@ I tend to optimise for:
 
 #### Decision-making intuition
 
-Intuition is using one 'gut feeling' to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMO intuition is a combination of past experience and one personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only perceptions.
+Intuition is using one' gut feeling' to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMO intuition is a combination of past experience and one personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only perceptions.
 
 It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly. It's also perfectly acceptable to use intuition to close the gap between *knowns* and *unknowns*, and to question what the data is suggesting (e.g. Are we asking the right questions?). When your intuition is fronting the facts, try hard to validate it. Watch out for [confirmation bias](https://www.verywellmind.com/what-is-a-confirmation-bias-2795024).
 
@@ -466,7 +475,7 @@ To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, "Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?" When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organization grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Union leaders demand or commit or rally people into popular but unrealistic requests. This is not advisable, and it's likely to cost you your job. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain.
+Union leaders demand or commit or rally people into popular but unrealistic requests, usually around the company resources or ways of working. This is not advisable, and it's likely to cost you your job. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource of sound judgement](###Me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment, and the temptation to embody Union leader traits is low.
 
@@ -530,17 +539,17 @@ TIP: Be pedantic and technically sound.
 
 ## Some points on hiring and managing your team
 
-One of your most important jobs is to recruit incredibly high quality talent. Collaborate with me on your new hires. These are ultimately your decision, but I hold veto power (that I will use judiciously). I will want more involvement in your first hire, than your second, than your third, than your fourth, etc.
+One of your most important jobs is to recruit incredibly high-quality talent. Collaborate with me on your new hires - direct reports. These are ultimately your decision, but I hold veto power (that I will use judiciously). I will want more involvement in your first hire, than your second, than your third, than your fourth, etc.
 
-Share with me your team management system — if diferent from the company — how you communicate the vision, set goals, create alignment, foster high engagement, and cultural nuances/recruiting practices/performance review processes that are unique to your team.
+Share with me your team management system — where different from the company — how you communicate the vision, set goals, create alignment, foster high engagement, and cultural nuances/recruiting practices/performance review processes that are unique to your team.
 
-I’ll push you to push out poor performers and get frustrated when we take too long to act. Be fair with terminations — take responsibility that you (or your predecessor) made a mistake hiring them, and don’t surprise your employees that they are being let go. People who are let go must leave with their respect intact.
+I'll push you to push out poor performers and get frustrated when we take too long to act. Be fair with terminations and don't surprise your employees that they are being let go. People who are let go must leave with their respect intact.
 
 Recognize and support your top performers. Help me help you recognise your top performers.
 
-Don’t surprise me with employee departures. We should know about these before they happen.
+Don't surprise me with employee departures. We should know about these before they happen.
 
-Be explicit about team norms that aren’t held companywide. It’s okay if some norms differ between teams. Just be explicit about it and make sure they don’t collide with company values.
+Be explicit about team norms that aren't held companywide. It's OK if some norms differ between teams. Just be explicit about it and make sure they don't collide with company values.
 
 ## Books
 

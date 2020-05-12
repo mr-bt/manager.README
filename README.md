@@ -90,7 +90,7 @@ You behaviours matter to everyone around you. Model the behaviour in the way you
 * Our #1 priority is our people. We'll always find time to attract, retain, grow, develop and lead our people while continually raising the bar, even when it is uncomfortable. We take it as an article of faith that is the right decision long-term.
 * Customers at the front and centre of everything we deliver.
 * We grow with people, there is always room for growth and we seek it relentlessly.
-* Feedback is our most valuable and effective tool to keep raising the bar on everything and everyone. We deliver and receive feedback kindly, promptly, and with empathy and candour (####Feedback).
+* Feedback is our most valuable and effective tool to keep raising the bar on everything and everyone. We deliver and receive feedback kindly, promptly, and with empathy and candour.
 * Processes exist to serve us. We continually review its fit for purpose and ways to improve. A customer must never experience a degraded service while we wait for our processes to complete.
 * We take accountability of anything that goes wrong in our team, even if we're not involved in the issue.
 

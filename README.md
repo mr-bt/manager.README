@@ -379,7 +379,7 @@ I keep myself in check by filling a form after every 1:1:
 | Team member displayed a sense of belonging and commitment                 | Yes/No |
 | Team member is exhibiting proof of growth and development                 | Yes/No |
 | Team member and I were aligned on takeaways                               | Yes/No |
-| Team member left with a renewed sense of purpose and motivation             | Yes/No |
+| Team member left with a renewed sense of purpose and motivation           | Yes/No |
 | Team member's perspectives match with what I've seen and heard elsewhere  | Yes/No |
 
 #### Plans Vs. Planning
@@ -543,7 +543,7 @@ One of your most important jobs is to recruit incredibly high-quality talent. Co
 
 Share with me your team management system — where different from the company — how you communicate the vision, set goals, create alignment, foster high engagement, and cultural nuances/recruiting practices/performance review processes that are unique to your team.
 
-I'll push you to push out poor performers and get frustrated when we take too long to act. Be fair with terminations and don't surprise your employees that they are being let go. People who are let go must leave with their respect intact.
+I'll push you to push out poor performers and get frustrated when we take too long to act. Be fair with terminations and don't surprise the person you're letting go. People who are let go must leave with their respect intact.
 
 Recognize and support your top performers. Help me help you recognise your top performers.
 

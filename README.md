@@ -71,7 +71,7 @@ As a Software Engineering Manager, my job is to:
 
 * Integrity and authenticity are never up for discussion.
 * You work for ${company_X} not for me and I serve you, not the other way around.
-* We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting  outcomes.
+* We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting outcomes.
 * We assume the best on everyone, and every one is authentic until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
 * We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
 * We're biassed towards action. We thrive on getting meaningful work done.
@@ -83,7 +83,7 @@ As a Software Engineering Manager, my job is to:
 
 ## How do I manage
 
-You behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to ***learn-it-all** you first need to embrace it yourself.
+You behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to **learn-it-all** you first need to embrace it yourself.
 
 ### Management guiding principles
 
@@ -144,9 +144,9 @@ I love to work through problems together if it's useful to you.
 
 ### Coaching
 
-I've drafted this section a few times now and always falls short on such an important topic. I expect you to coach and coach some more and be great at it. I here to help. 
+I've drafted this section a few times now and always falls short on such an important topic. I expect you to coach and coach some more and be great at it. I'm here to help.
 
-The article [The Leader as Coach](https://hbr.org/2019/11/the-leader-as-coach) by Harvard Business Review does a much better job than I'll ever do. Read it and embrace it. 
+The article [The Leader as Coach](https://hbr.org/2019/11/the-leader-as-coach) by Harvard Business Review does a much better job than I'll ever do. Read it and embrace it.
 
 ### Decision-making
 
@@ -185,24 +185,26 @@ I tend to optimise for:
 
 #### Decision-making intuition
 
-Intuition is using one' gut feeling' to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMO intuition is a combination of past experience and one personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only perceptions.
+Intuition is using one gut feeling to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMO intuition is a combination of past experience and one personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only perceptions.
 
 It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly. It's also perfectly acceptable to use intuition to close the gap between *knowns* and *unknowns*, and to question what the data is suggesting (e.g. Are we asking the right questions?). When your intuition is fronting the facts, try hard to validate it. Watch out for [confirmation bias](https://www.verywellmind.com/what-is-a-confirmation-bias-2795024).
 
 #### 'deciding not to decide' is also a decision
 
-Deciding not to decide also a sound decision when it is deliberated. Not making a decision might feel unnatural or even wrong. It's a valid course of action as any other, and it must always be on the table.
+Deciding not to decide also a sound decision when it is deliberate. Not making a decision might feel unnatural or even wrong. It's a valid course of action as any other, and it must always be on the table.
 
 #### Decision-making process
 
 I expect you to align with the following decision-making process:
 
-* State the problem, assumptions, constraints, dependencies and risks.
-* Define how good looks like and how to measure it.
-* What options are available to you today.
-* Use data and facts to support the options.
-* Define risk mitigations and if possible, a kill-switch.
-* Anticipate the questions of who is impacted and part of the process.
+* State the problem, assumptions, constraints and dependencies.
+* Define how good looks like and how to measure it, so that one has a reference point.
+* Define what options are available using data and facts:
+  * Rank the options, E.g. Bronze, Silver, Gold
+  * Be specific and clear on the pros/cons and the risks/mitigations for each option.
+  * Define the success criteria for each option.
+  * Define rollout, E.g. experiment, kill-switch, how to scale-up, etc.
+* Anticipate the questions of the stakeholders.
 * Keep yourself in check. Use your critical thinking and don't let your ego/emotions get in the way.
 * Make a decision!
 
@@ -234,7 +236,7 @@ I strive to spend 10h+ of my week with my direct reports because I've found the 
 
 Communicate kindly, clearly, concisely and go straight to the point (I'm working hard on these). Value people's time and they will value yours.
 
-Empathy goes a long way, and often one doesn't know what's people' constraints feelings and commitments before having a candid and compassionate conversation about it. Don't assume what's people stance, have a conversation instead.
+Empathy goes a long way, and often one doesn't know what's people's constraints, feelings and commitments before having a candid and compassionate conversation about it. Don't assume, have a conversation instead.
 
 #### Share information openly, broadly and deliberately
 
@@ -242,7 +244,7 @@ Nothing to hide, all to share. Feel free to discuss things with anybody in the c
 
 Over-communicate when you can, so that you earn credits for when you're unusually busy. If people start getting overwhelmed by the quantity, they will tell you.
 
-Deliberately create/use communication forums to share information.
+Intentionally create/use communication the right forums to share information.
 
 Be as data-centric as possible, there's less room for interpretation and emotions tend not to get in the way.
 
@@ -256,7 +258,7 @@ I see opinions as *a view or judgement formed about something, not necessarily b
 
 I tend to ask for your thoughts rather than opinions because I value the understanding of your thought process more. It's best when we both reach the same conclusions.
 
-#### When people don't buy-in for your ideas
+#### When people don't buy-in into your ideas
 
 It's vital that you take stakeholders on a journey so that everyone has skin in the game.
 
@@ -272,6 +274,7 @@ You must avoid the situation whereby you/we commit, but stakeholders are involve
 Please read [Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/) and [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/) if you're struggling to get buy-in.
 
 It's crucial stakeholders trust you.
+
 > There are three hard rules to learn…
 >
 > 1. You are not the exclusive source of good ideas.
@@ -286,13 +289,15 @@ Source: Julian Skeels
 
 #### Words matter
 
-Note: I'm not a native English speaker, and I'll not claim I'm good at it. But it's something that I work on every day.
+Note: I'm not a native English speaker, and don't claim I excel at it. But it's something that I work on every day.
 
 Communication tends to be vague, verbose and non-committal. This often leads to misunderstandings that can erode trust, cause inefficiencies and ultimately build resentment. We must work hard to avoid it!
 
 Use words people understand; avoid using acronyms and [weasle words](https://en.wikipedia.org/wiki/Weasel_word); be concise and straight to the point; be specific with the language you use.
 
-Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most",  "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for interpretation. NOTE: these examples don't apply to this document because it's not suppose to be a definite guide how to work with me.
+Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most",  "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for interpretation.
+
+NOTE: these examples don't apply to this document because it's not supposed to be a definitive guide on how to work with me.
 
 #### Feedback
 
@@ -332,7 +337,7 @@ Staff meetings occur on Monday morning with an average duration of 1.5 hours wit
 
 To be shared 1 working day before the meeting.
 
-* Key Indicator Report: 1-pager summary of the group core metrics and delivery update shared by me.
+* Key Indicator Report: 1-pager summary of KPIs and key delivery update shared by me.
 * [Flash Reports](#Flash-reports): each team member writes their personal updates. Should working on a team assignment, the update must be provided on a weekly base.
 * Deep Dive Suggestions: A deep dive is a problem-solving or new initiative slot that leverages the power of the team. Deep dives are about discussing the topic(s), not learning about it. Share a 1 to 6 pages document.
 
@@ -340,7 +345,7 @@ All goes into a shared document/folder where we can look back.
 
 ##### The meeting
 
-The below format is a blueprint. All team members must be prepared for the meeting to actively and assertively contribute. Time is a scarce resource for us all, attending and participating in the session, it's a moral duty to your teammates and a formal duty to me.
+The below format is a blueprint. All team members must be prepared for the meeting to actively and assertively contribute. Time is a scarce resource for us all. Attending and participating, it's a moral duty to your teammates and a formal duty to me.
 
 1. Overview (5-15 min): I'll provide an overview of the KPIs, progress, sometimes go in-depth on some, and shared business or cross-department information.
 2. Team members round (30 min): each team member will share with the team key achievements, disappointments, issues, concerns and learnings. What's hot on their plate. What's the plan for the week.

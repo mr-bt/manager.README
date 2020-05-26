@@ -75,7 +75,7 @@ As a Software Engineering Manager, my job is to:
 * We assume the best on everyone, and every one is authentic until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
 * We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
 * We're biassed towards action. We thrive on getting meaningful work done.
-* We expect excellence from ourselves and from others, but hold each other backs. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
+* We first expect excellence from ourselves and then from others, but we hold each other backs at all times. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
 * We coach individuals and teams relentlessly. We take it as an article of faith that a culture founded on learning and growing returns better outcomes long-term.
 * We embrace that management is not leadership. Both are equally important and crucial and not mutually exclusive or dependent. In an oversimplification fashion:
   * Management is about working with objectives; responsible for quality, processes, hire and retain talent; and deliverables. It's a position in the company.

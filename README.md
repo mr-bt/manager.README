@@ -83,7 +83,7 @@ As a Software Engineering Manager, my job is to:
 
 ## How do I manage
 
-You behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to **learn-it-all** you first need to embrace it yourself.
+Your behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to **learn-it-all** you first need to embrace it yourself.
 
 ### Management guiding principles
 

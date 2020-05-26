@@ -69,15 +69,15 @@ As a Software Engineering Manager, my job is to:
 
 ## General guiding principles
 
-* Integrity and authenticity are never up for discussion.
+* Integrity and authenticity are **never** up for discussion.
 * You work for ${company_X} not for me and I serve you, not the other way around.
 * We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting outcomes.
 * We assume the best on everyone, and every one is authentic until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
 * We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
 * We're biassed towards action. We thrive on getting meaningful work done.
-* We first expect excellence from ourselves and then from others, but we hold each other backs at all times. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
+* We **first** expect excellence from ourselves and then from others, but we hold each other backs at all times. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
 * We coach individuals and teams relentlessly. We take it as an article of faith that a culture founded on learning and growing returns better outcomes long-term.
-* We embrace that management is not leadership. Both are equally important and crucial and not mutually exclusive or dependent. In an oversimplification fashion:
+* We embrace that management is not leadership. Both are equally important and crucial but not mutually exclusive or dependent. In an oversimplification fashion:
   * Management is about working with objectives; responsible for quality, processes, hire and retain talent; and deliverables. It's a position in the company.
   * Leadership is about working with goals and vision; and inspiring people towards a goal. Leadership comes from everywhere.
 
@@ -216,7 +216,7 @@ When you bump into a roadblock that you can't solve or something needs approval 
 
 #### When the decision it's not yours to make, or you weren't included, or you simply don't agree with the group decision
 
-If you genuinely agree with the decision, happy days. Join forces and get it done. It is, however, harder to buy-in into a decision that you don't agree with and/or you weren't included, or you simply disagree with. While I'll always try to include you, life happens, the world is not perfect and neither I'll be looking for consensus. You're expected to:
+If you genuinely agree with the decision, happy days. Join forces and get it done. It is, however, harder to buy-in into a decision that you don't agree with and/or you weren't included, or you simply disagree with. While I'll always try to include you, life happens, the world is not perfect and neither I'll be looking for consensus at all costs. You're expected to:
 
 * Provide clear and factual-based arguments why you don't agree with the decision on the right forum.
 * Come up realistic alternatives.
@@ -244,7 +244,7 @@ Nothing to hide, all to share. Feel free to discuss things with anybody in the c
 
 Over-communicate when you can, so that you earn credits for when you're unusually busy. If people start getting overwhelmed by the quantity, they will tell you.
 
-Intentionally create/use communication the right forums to share information.
+Intentionally create/use communication in the right forums to share information.
 
 Be as data-centric as possible, there's less room for interpretation and emotions tend not to get in the way.
 
@@ -524,11 +524,11 @@ Design Principles:
 * Everything as code.
 * Refine operations procedures frequently and relentlessly.
 * Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
-* Learn from all operational failures: post-mortem, retrospectives, sharing with all the Engineering group findings, etc.
+* Learn from all operational failures: post-mortem, retrospectives, sharing findings with all the Engineering group , etc.
 
 #### Dependencies
 
-Best dependencies are no dependency. Aggressively kill dependencies. I rather have 2 of the same than 0 of nothing or 1 that takes must longer.
+Best dependencies are no dependency. Aggressively kill dependencies. I rather have 2 of the same than 0 of nothing or 1 that takes much longer.
 
 Teams should be able to carry out their mission without having to coordinate outside the team. When it's not possible, I expect you to actively establish processes that enable the teams to coordinate efficiently. At the same time, we must kill inter-teams dependencies.
 

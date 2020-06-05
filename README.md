@@ -214,7 +214,7 @@ I found that writing a 6 or fewer pages document, less is more, for decisions th
 
 When you bump into a roadblock that you can't solve or something needs approval from high, let me know. I'll work with you. Don't get hung up on "process", upcoming meetings and such. Just-in-time escalation is usually more efficient.
 
-#### When the decision it's not yours to make, or you weren't included, or you simply don't agree with the group decision
+#### When the decision it's not yours to make, or you weren't included, or you simply disagree with the decision
 
 If you genuinely agree with the decision, happy days. Join forces and get it done. It is, however, harder to buy-in into a decision that you don't agree with and/or you weren't included, or you simply disagree with. While I'll always try to include you, life happens, the world is not perfect and neither I'll be looking for consensus at all costs. You're expected to:
 
@@ -222,6 +222,9 @@ If you genuinely agree with the decision, happy days. Join forces and get it don
 * Come up realistic alternatives.
 * If the decision hasn't budged, Disagree and Commit. Stand by it and give your best to make it a success. Be a team player.
 
+We all have those moments where we have a gut reaction “I don’t like this”, “It doesn’t make sense whatsoever”, “this is wrong”, etc. Pace yourself! Know your position first; don’t just say ‘no’ and expect others to try to convince you. Start by completing the sentence: “I [don’t agree with/don’t think we should do/don’t like] X because…”. If it doesn’t sound strong enough or right, usually is because it’s not. Think a bit more, take it off-line, and come back later with good arguments.
+
+[5 steps for Disagreeing Effectively](https://medium.com/@joulee/5-steps-for-disagreeing-effectively-9d745ce0dbb4)
 [Group thinking](https://en.wikipedia.org/wiki/Groupthink) is not acceptable in any circumstances.
 
 #### Learning from your decisions

@@ -415,9 +415,10 @@ Perhaps {company_X} has a delivery department or something similar. I expect you
 
 #### Flash reports
 
-Flash reports are delivered weekly, 1 working day before the Staff Meeting and shared with the team. It must be clearly written, concise, and specific.
+Flash reports are delivered to me weekly, 1 working day before the Staff Meeting. It must be clearly written, concise, and specific.
 
 Format:
+Email subject: Flash report dd/MM/yyyy
 
 * Key achievements.
 * Issues for visibility.

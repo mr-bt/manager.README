@@ -224,8 +224,8 @@ If you genuinely agree with the decision, happy days. Join forces and get it don
 
 We all have those moments where we have a gut reaction “I don’t like this”, “It doesn’t make sense whatsoever”, “this is wrong”, etc. Pace yourself! Know your position first; don’t just say ‘no’ and expect others to try to convince you. Start by completing the sentence: “I [don’t agree with/don’t think we should do/don’t like] X because…”. If it doesn’t sound strong enough or right, usually is because it’s not. Think a bit more, take it off-line, and come back later with good arguments.
 
-[5 steps for Disagreeing Effectively](https://medium.com/@joulee/5-steps-for-disagreeing-effectively-9d745ce0dbb4)
-[Group thinking](https://en.wikipedia.org/wiki/Groupthink) is not acceptable in any circumstances.
+* [5 steps for Disagreeing Effectively](https://medium.com/@joulee/5-steps-for-disagreeing-effectively-9d745ce0dbb4)
+* [Group thinking](https://en.wikipedia.org/wiki/Groupthink) is not acceptable in any circumstances.
 
 #### Learning from your decisions
 

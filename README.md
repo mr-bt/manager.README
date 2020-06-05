@@ -388,6 +388,7 @@ I keep myself in check by filling a form after every 1:1:
 | Team member is exhibiting proof of growth and development                 | Yes/No |
 | Team member and I were aligned on takeaways                               | Yes/No |
 | Team member left with a renewed sense of purpose and motivation           | Yes/No |
+| Team member talked about things that are not going well                   | Yes/No |
 | Team member's perspectives match with what I've seen and heard elsewhere  | Yes/No |
 
 #### Plans Vs. Planning

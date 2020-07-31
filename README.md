@@ -116,22 +116,19 @@ Your behaviours matter to everyone around you. Model the behaviour in the way yo
 
 ### How am I going to review your performance
 
-* You're good coach and mentor and you have a growth mindset.
-* You empower the team(s) and does not micromanage.
-* You create a diverse and inclusive team environment, showing concern for the success and well-being of everyone.
-* You're productive and results-oriented.
-* You're a good communicator — listens actively and shares information.
-* You support career development and discuss performance.
-* You have a clear vision/strategy for the team.
-* You have the technical skills to influence the team.
-* You can collaborate effectively across ${company_X}.
-* You're a reliable decision-maker.
-* You're a fast-learner and continuously seek to improve your skills.
+* You’re good coach and mentor, you have a growth and learn-it-all mindset and you show deep concern for the success and well-being of everyone.
+* You're a business leader that fosters ownership, not just just accountability. You focus on outcomes, establish an effective decision-making framework for your team(s) and you set humane checks & balances to hold people accountable for success.
+* You foster a diverse and inclusive team environment, where everyone has a strong sense of belonging.
+* You’re productive and results-oriented.
+* You’re a good communicator (hint - active listening!).
+* You hire world-class talent, support career development, discuss performance, set clear expectations, and recognise great work.
+* You know the ingredients, not just the recipes. You have the technical skills (e.g. system design, tooling, processes, delivery, etc.) to influence the team(s) and to deep dive when needed.
+* You collaborate effectively across ${company_X}.
+* You’re a reliable decision-maker.
+* You’re a fast-learner and relentlessly seek to improve yourself.
+* You’re a team player that develops productive and meaningful relationships at all levels.
 * You foster an influential, productive and healthy Engineering Culture.
-* You're a team player.
 * We work well together.
-
-Follow the link to know more about some of the points above <https://rework.withgoogle.com/blog/the-evolution-of-project-oxygen/>
 
 ### My ideal team
 

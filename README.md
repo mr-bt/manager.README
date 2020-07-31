@@ -67,6 +67,20 @@ As a Software Engineering Manager, my job is to:
 * Help to develop ${company_X} Engineering brand.
 * Assure we're all delivering business value according to or above the {company_X} goals.
 
+## What's great culture to me
+
+* A commercial sustainable people-first culture.
+* A diverse and inclusive culture.
+* We have a strong sense of ownership and belonging.
+* We stay honest to the company vision, mission and core values at all times.
+* We have a growth and learn-it-all mindset.
+* We set high standards and continuously seek to raise the bar.
+* We love feedback, we have each other’s backs and we hold each other accountable.
+* We expect excellence in ourselves, and then, in each other.
+* We proud of who we are and what we do.
+* We have fun together.
+* We get things done at pace.
+
 ## General guiding principles
 
 * Integrity and authenticity are **never** up for discussion.

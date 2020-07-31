@@ -83,21 +83,21 @@ As a Software Engineering Manager, my job is to:
 
 ## General guiding principles
 
-* Integrity and authenticity are **never** up for discussion.
-* You work for ${company_X} not for me and I serve you, not the other way around.
-* We're a team. Our behaviours are conductive of an effective and efficient team cohesion where everyone belongs, positively impacting outcomes.
-* We assume the best on everyone, and every one is authentic until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
-* We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never lie.
-* We're biassed towards action. We thrive on getting meaningful work done.
-* We **first** expect excellence from ourselves and then from others, but we hold each other backs at all times. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
+* Integrity, honesty and authenticity are **never** up for discussion.
+* You work for ${company_X} not for me, and I serve you, not the other way around.
+* We're a team. Our behaviours are conductive of a cohesive, effective and efficient team.
+* We assume the best intentions in everyone until proven otherwise. We set and follow lean and humane check & balances to ensure deviations don't go unacknowledged.
+* We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed to never to lie.
+* We have a strong bias for action. We thrive on getting meaningful work done.
+* We **first** expect excellence from ourselves and then from others, but we hold each other's backs at all times. Along the way, we're making mistakes. We're committed to take accountability and learn from our mistakes.
 * We coach individuals and teams relentlessly. We take it as an article of faith that a culture founded on learning and growing returns better outcomes long-term.
-* We embrace that management is not leadership. Both are equally important and crucial but not mutually exclusive or dependent. In an oversimplification fashion:
+* We embrace that management is not leadership. Both are equally important, but not mutually exclusive or dependent. In an oversimplification fashion:
   * Management is about working with objectives; responsible for quality, processes, hire and retain talent; and deliverables. It's a position in the company.
   * Leadership is about working with goals and vision; and inspiring people towards a goal. Leadership comes from everywhere.
 
 ## How do I manage
 
-Your behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat and work with you. If you want the people to move from **know-it-all** to **learn-it-all** you first need to embrace it yourself.
+Your behaviours matter to everyone around you. Model the behaviour in the way you expect people to treat you. If you want the people to move from **know-it-all** to **learn-it-all** you first need to embrace it yourself.
 
 ### Management guiding principles
 

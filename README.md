@@ -77,7 +77,7 @@ As a Software Engineering Manager, my job is to:
 * We set high standards and continuously seek to raise the bar.
 * We love feedback, we have each other’s backs, and we hold each other accountable.
 * We expect excellence in ourselves, and then, in each other.
-* We proud of who we are and what we do.
+* We are proud of who we are and what we do.
 * We have fun together.
 * We get things done at pace.
 
@@ -104,8 +104,8 @@ Your behaviours matter to everyone around you. Model the behaviour in the way yo
 * Our #1 priority is our people. We’ll always find time to attract, retain, grow, develop and lead our people while continually raising the bar, even when it is uncomfortable. We take it as an article of faith that is the right decision long-term.
 * Customers at the front and centre of everything we do.
 * We grow with people, there is always room for growth and we seek it relentlessly.
-* Feedback is our most valuable and effective tool to keep raising the bar on everything and everyone. We deliver and receive feedback kindly, promptly, and with empathy and candour.
-* Processes exist to serve us. We continually review its fit for purpose and ways to improve. A customer must never experience a degraded service while we wait for our processes to complete.
+* Feedback is our most valuable and effective tool to keep raising the bar on everything and everyone. We deliver and receive feedback kindly, promptly, with empathy and candour.
+* Processes exist to serve us. We continually review its fit for purpose and ways to improve. A customer must never experience a degraded service while waiting for our processes to complete.
 * We take accountability of anything that goes wrong in our team, even if we’re not involved in the issue.
 
 ### How do I measure the success of our team
@@ -230,7 +230,7 @@ When you bump into a roadblock that you can’t solve or something needs approva
 
 #### When the decision it’s not yours to make, or you weren’t included, or you simply disagree with the decision
 
-If you genuinely agree with the decision, happy days. Join forces and get it done. It is, however, harder to buy-in into a decision that you don’t agree with and/or you weren’t included, or you simply disagree with. While I’ll always try to include you, life happens, the world is not perfect and neither I’ll be looking for consensus at all costs. You’re expected to:
+If you genuinely agree with the decision, happy days. Join forces and get it done. It is, however, harder to buy-in into a decision that you don’t agree with and/or you weren’t included, or you simply disagree with. While I’ll always try to include you, life happens, the world is not perfect and I’ll not be looking for consensus at all costs. You’re expected to:
 
 * Provide clear and factual-based arguments why you don’t agree with the decision on the right forum.
 * Come up realistic alternatives.
@@ -356,7 +356,7 @@ To be shared 1 working day before the meeting.
 
 * Key Indicator Report: 1-pager summary of KPIs and key delivery update shared by me.
 * [Flash Reports](#Flash-reports): each team member writes their personal updates. Should working on a team assignment, the update must be provided on a weekly base.
-* Deep Dive / Swarming Suggestions: A deep dive is a problem-solving or new initiative slot that leverages the power of the team. Deep dives are about discussing the topic(s), not learning about it. Share a 1 to 6 pages document.
+* Deep Dive / Swarming suggestions: A deep dive is a problem-solving or new initiatives slot that leverages the power of the team. Deep dives are about discussing the topic(s), not learning about it. Share a 1 to 6 pages document.
 
 All goes into a shared document/folder where we can look back.
 
@@ -388,6 +388,7 @@ Pro tips:
 * Start from where you left off.
 * Prepare your topics in advance.
 * I frequently use the [OSCAR model - Outcome, Situation, Choices, Actions and Review](https://www.businessballs.com/coaching-and-mentoring/oscar-model/) to assist you with your growth and development.
+* I often use the [FUEL model - **F**rame the conversation, **U**nderstand the current state and **E**xplore the desired state](https://thepeakperformancecenter.com/development-series/skill-builder/interpersonal/coaching-for-performance/coaching-model/fuel-coaching-model) to assist you navigating issues.
 * Don’t expect me to have everything figured out or solve the problems for you. I’m here to help you find a way forward.
 
 **Note on career development:**
@@ -419,7 +420,7 @@ Things usually don’t go according to the plan, and that’s OK.
 
 > In preparing for battle I have always found that plans are useless, but planning is indispensable - Dwight D. Eisenhower.
 
-It’s about thinking ahead that get us to be better prepared for plan deviations.
+It’s about thinking ahead that get us to be better prepared for the future.
 
 #### Delivery reporting
 
@@ -431,7 +432,8 @@ Perhaps {company_X} has a delivery department or something similar. I expect you
 
 Flash reports are delivered to me weekly, 1 working day before the Staff Meeting. It must be clearly written, concise, and specific.
 
-Format:
+Format: Email
+
 Email subject: Flash report dd/MM/yyyy
 
 * Key achievements.
@@ -445,7 +447,7 @@ I don’t expect you to respond to everything in real-time, but do expect you to
 
 I like fast turnaround and acknowledgement on written communications like “got it” or “on it” type acknowledgement so I know things that we’re discussing are moving.
 
-I tend to send quite a few of FYI so that you’re in the loop. There’s no need to reply unless you have a simple question that can’t be discussed on other forums.
+I tend to send quite a few of FYI to keep you in the loop. There’s no need to reply unless you have a simple question that can’t be discussed on other forums.
 
 If you’re CC’ed, I’m not expecting you to reply, but it’s perfectly acceptable that you choose to do so. Just be conscious that you’re jumping on someone else conversation.
 
@@ -499,13 +501,13 @@ To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, “Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?” When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organization grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Union leaders demand or commit or rally people into popular but unrealistic requests, usually around the company resources or ways of working. This is not advisable, and it’s likely to cost you your job. If you can’t gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource of sound judgement](###Me-as-a-resource)
+Union leaders demand or commit or rally people into popular but unrealistic requests, usually around the company resources or ways of working. This is not advisable, and it’s likely to cost you your job. If you can’t gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment, and the temptation to embody Union leader traits is low.
 
 ### Technology
 
-So, you’re a manager. It means you don’t need to be technical anymore. You’re a **Software Engineering Manager**. I don’t expect you to code, but I expect you to be a technologist and be able to influence technical decisions. You must understand what your people do to earn their trust and to provide them with what they need to be successful.
+So, you’re a manager. It means you don’t need to be technical anymore. You’re a **Engineering** Manager. I don’t expect you to code, but I expect you to be a technologist and be able to influence technical decisions. You must understand what your people do to earn their trust and to provide them with what they need to be successful.
 
 > Dive Deep
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
@@ -518,7 +520,7 @@ So, you’re a manager. It means you don’t need to be technical anymore. You�
 * Work done is better than work in progress. Working software in front of the customer is better than software in the development phase.
 * We take great pride in ‘what’ and ‘how’ we deliver software to our customers. QA, Security, Ops, engineering culture and product success is everyone responsibility.
 * We take it as an article of faith that the compounding of continually improving small things through sort and quick iterations is the best decision long-term.
-* We thrive in intentional failing-fast and experimenting within a controlled and acceptable blast radius. We learn this way significantly, and we share our learnings, so others learn as well. We’ll never deliberately put the trust of our customers at odds. We have tolerance ZERO for blame.
+* We thrive in intentional failing-fast and experimenting within a controlled and acceptable blast radius. We learn more and faster this way, and we share our learnings, so others learn as well. We’ll never deliberately put the trust of our customers at odds. We have ZERO tolerance for blame.
 * Software Engineering is craftsmanship in the service of the customer. We contribute to outcomes, not results. By being focus on customer outcomes, we do our best work, and we’ll be engaged throughout.
 * We’ll make tactical moves and manage tech debt as a token of gratitude for the customer. However, a high bar must be cleared before approving tactical moves.
 
@@ -542,6 +544,7 @@ Design Principles:
 * Create paved roads aggressively: tools, processes, etc.
 * Everything as code.
 * Refine operations procedures frequently and relentlessly.
+* 360 observability: from dev to prod, processes, tools, etc.
 * Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
 * Learn from all operational failures: post-mortem, retrospectives, sharing findings with all the Engineering group, etc.
 

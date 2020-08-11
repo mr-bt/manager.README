@@ -69,7 +69,7 @@ As a Software Engineering Manager, my job is to:
 
 ## What’s a great culture to me
 
-* A commercial sustainable people-first culture.
+* A commercially sustainable people-first culture.
 * A diverse and inclusive culture.
 * We have a strong sense of ownership and belonging.
 * We stay honest to the company vision, mission and core values at all times.

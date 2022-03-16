@@ -34,13 +34,14 @@ Having been inspired by several documents/posts on the importance of a Manager's
 ## Hi, I'm Bruno
 
 I was born in Porto, Portugal, in 1983, where I lived for 24 years before moving to Lisbon and 5 years later to London. I'm a father to a baby boy and partner to a wonderful woman. Outside work, I like:
-to travel, good cuisine and meet new people
-watch TV series & films (I love a good docuseries)
-to read technical, business, economics and leadership books/news/articles/posts
-cars (fast cars!)
-tennis, F1 and a bit of football (I'm an FCP and Chelsea FC fan)
-long walks
-spending time with my family and friends
+
+* to travel, good cuisine and meet new people
+* watch TV series & films (I love a good docuseries)
+* to read technical, business, economics and leadership books/news/articles/posts
+* cars (fast cars!)
+* tennis, F1 and a bit of football (I'm an FCP and Chelsea FC fan)
+* long walks
+* spending time with my family and friends
 
 Some nice things hailed to me are: forthright, upright, trustworthy, committed, pragmatic, doer, "the coach", helpful, strategic, hard-working, loyal and caring.
 
@@ -57,7 +58,7 @@ Some of my quirks while working:
 * I'm getting better at this, but there are times you might get messages over the weekends or late at night, or on holidays. It's just me being ON all the time. [What to do when you get a message from me.](#What-to-do-when-you-get-a-message-from-me)
 * I'm heavily biased towards action. There's value in having strategic discussions, but most of the time is best to start with small and quick iterations. This way, we can prove (or not) our assumptions (fail-fast to learn-fast) and make visible progress. Actions speak louder than words.
 
-If you're curious about my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/brunotavares/).
+If you're curious about my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/brunotavares/) where you can also see what people have to say about me.
 
 ## My job
 
@@ -104,12 +105,12 @@ As an Engineering Manager, my job is to:
   * Management is about working with objectives; responsible for the quality, processes, staffing and retaining talent; and deliverables. It's a position in the company.
   * Leadership is about working with goals and vision; and inspiring people towards a goal. Leadership comes from everywhere.
 * We think about impact:
- * Consistency: Are you able to deliver work that matters not just once but does so sustainably over time?
- * Velocity: What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
- * Ownership: Think long term and take ownership of what and how you deliver impact in line with the ${company_X} objectives.
- * Accountability: Everyone is accountable for delivering impact. More senior levels are held more directly accountable for the business impact of their decisions and actions.
- * Materiality: You deliver what you've said you'll deliver on the time you committed to.
- * Force multipliers: Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
+  * Consistency: Are you able to deliver work that matters not just once but does so sustainably over time?
+  * Velocity: What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
+  * Ownership: Think long term and take ownership of what and how you deliver impact in line with the ${company_X} objectives.
+  * Accountability: Everyone is accountable for delivering impact. More senior levels are held more directly accountable for the business impact of their decisions and actions.
+  * Materiality: You deliver what you've said you'll deliver on the time you committed to.
+  * Force multipliers: Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
 
 ## How do I manage
 

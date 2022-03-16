@@ -179,6 +179,22 @@ Be clear when you need the company's resources. Be data-driven about why you nee
 
 I love to work through problems together if it's helpful to you.
 
+### How do I think about trust
+
+Trust and developing trust is a vast topic. Still, I broadly think about trust in the terms:
+
+* Empathy: I believe you care about me and my success (two-way street). One will not trust you if it is thought that you care more about yourself than about them.
+* Logic: If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
+* Authenticity: If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
+* Execution: If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.
+
+Tips:
+
+* Vulnerability precedes trust, not the other way around
+* You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
+* As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
+* If trust falls short between us, you'll lose your job!
+
 ### Coaching
 
 I've drafted this section a few times now and always falls short on such an important topic. I expect you to coach and coach some more and be great at it. I'm here to help.
@@ -282,21 +298,6 @@ I strive to spend 10h+ of my week with my direct reports because I've found the 
 Communicate kindly, clearly, concisely and go straight to the point (I'm working hard on these). Value people's time, and they will value yours.
 
 Empathy goes a long way, and often one doesn't know people's constraints, feelings and commitments before having a candid and compassionate conversation about it. Don't assume, have a conversation instead.
-
-#### How do I think about trust
-
-Trust and developing trust is a vast topic. Still, I broadly think about trust in the terms:
-
-* Empathy: I believe you care about me and my success (two-way street). One will not trust you if it is thought that you care more about yourself than about them.
-* Logic: If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
-* Authenticity: If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
-* Execution: If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.
-
-Tips:
-* Vulnerability precedes trust, not the other way around
-* You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
-* As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
-* If trust falls short between us, you'll lose your job!
 
 #### Share information openly, broadly and deliberately
 

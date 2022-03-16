@@ -3,9 +3,14 @@
 * Tech -> Tech/Delivery/Product
 * Define Product leading / Intimacy / Operational excellence
 * Autonomy
+* talk about impact
+* Role modeling, coaching and caring
+* Telling someone that they are not hitting the bar is not the same of helping them hitting the bar
+* Remember, vulnerability precedes trust, not the other way around and trust is the bedrock of
+* Product engineering team vs feature teams
 
 
-I try to take things that are in your function off my plate and into your management/organisation/prioritisation system. 
+I try to take things that are in your function off my plate and into your management/organisation/prioritisation system.
 
 * Leadership is behaviour, not a position. Actions speak louder than words.
 * Teams are autonomous, self-organised and ultimately self-directed.

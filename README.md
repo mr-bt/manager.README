@@ -681,14 +681,13 @@ Be explicit about team norms that aren't held companywide. It's OK if some norms
 * [Turn The Ship Around!: A True Story of Building Leaders by Breaking the RulesK](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking-ebook/dp/B015QQ10HE/)
 * [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.co.uk/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471/)
 
-## Source
+## Some of the sources
 
-* <https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe>
-* <http://randsinrepose.com/archives/how-to-rands/>
-* <https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85>
-* <https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p>
-* <https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57>
-* <https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha>
-* <https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p>
-* <https://docs.google.com/presentation/d/1PE2OmkVykdZYF2QzmJ-ZUHqBAxnnsbnMsd19z3qLWNI/edit#slide=id.gcb9a0b074_1_0>
-* <https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view>
+* [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+* [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
+* [Ben.README - Shopify](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85)
+* [Hi.  I’m Roy.](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
+* [Deprecated: Welcome to Netflix and Me](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57)
+* [Manager README - Oren Ellenbogen, VP Eng. @ Forter](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha)
+* [Aaron Lerch readme](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
+* [Matt Newkirk manager readme](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view)

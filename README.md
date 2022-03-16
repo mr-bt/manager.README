@@ -1,5 +1,8 @@
 # Bruno's manager README
 
+**It's all about the team, we exist to serve them!**
+
+![Image: Holly Andres](R2003H_ANDRES.jpeg)
 ## Disclaimer
 
 This document **MUST** not be read in any way that applies to any other manager from other departments, groups, divisions or teams of ${company_X}.
@@ -10,7 +13,6 @@ This document is a living document.
 
 If you find my beliefs and style are not wholly aligned with what you observe in {company_X}, that's OK.
 
-![Image: Holly Andres](R2003H_ANDRES.jpeg)
 ## Welcome
 
 I'm pleased to welcome you. You work at ${company_X}, where I hope it becomes a place where you'll grow, develop, contribute and have fun. I'm also hopeful that the journey gets easier with your fresh ideas and enthusiasm.

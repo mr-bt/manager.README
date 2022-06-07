@@ -73,7 +73,7 @@ As an Engineering Manager, my job is to:
 * Help ${company_X} with processes and structure so that we have a scalable, effective and efficient organisation.
 * Influence decisions.
 * Set context and expected business outcomes so that everyone can connect the dots on what ${company_X} needs, understand why/what the priorities are and what needs to get done.
-* Foster and nurture decentralised ownership, whereby everyone is a business owner by developing guiding principles to simplify and decentralise decision-making.
+* Foster and nurture ownership, whereby everyone is a business owner by developing guiding principles to simplify and decentralise decision-making.
 * Help people to develop secondary relationships.
 * Help to develop ${company_X} Engineering brand.
 * Assure we're all delivering business value according to or above the {company_X} goals.

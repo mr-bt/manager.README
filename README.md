@@ -183,7 +183,7 @@ I love to work through problems together if it's helpful to you.
 
 Trust and developing trust is a vast topic. Still, I broadly think about trust in the terms:
 
-* Empathy: I believe you care about me and my success (two-way street). One will not trust you if it is thought that you care more about yourself than about them.
+* Empathy: Their success comes first. One will not trust you if it is thought that you care more about yourself than about them.
 * Logic: If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
 * Authenticity: If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
 * Execution: If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.

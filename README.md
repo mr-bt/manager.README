@@ -655,7 +655,9 @@ One of your most important jobs is to recruit world-class talent. Collaborate wi
 
 Share with me your team management system — where different from the organisation — how you communicate the vision, set goals, create alignment, foster high engagement, and cultural nuances/recruiting practices/performance review processes unique to your team.
 
-I'll push you to push out poor performers and get frustrated when we take too long to act. Be fair with terminations, and don't surprise the person you're letting go. People who are let go must leave with their respect intact. Remember, excellence is highly contextual!
+I'll push you to create high-performance teams and to focus on growth. I get frustrated when it takes too long to act. 
+
+Be fair with terminations, and don't surprise the person you're letting go. People who are let go must leave with their respect intact. Remember, excellence is highly contextual!
 
 Recognise and support your top performers. Help me help you recognise your top performers.
 

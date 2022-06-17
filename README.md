@@ -193,7 +193,6 @@ Tips:
 * Vulnerability precedes trust, not the other way around
 * You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
 * As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
-* If trust falls short between us, you'll lose your job!
 
 ### Coaching
 
@@ -301,7 +300,7 @@ Empathy goes a long way, and often one doesn't know people's constraints, feelin
 
 #### Share information openly, broadly and deliberately
 
-Nothing to hide, all to share. Feel free to discuss things with anybody in the company, from C-levels to everyone else. If there's something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will cost you your job because I perceive it as toxic office politics.
+Nothing to hide, all to share. Feel free to discuss things with anybody in the company, from C-levels to everyone else. If there's something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will bring us both a great deal of pain because I perceive it as toxic office politics.
 
 Over-communicate when you can, so that you earn credits for when you're unusually busy. If people start getting overwhelmed by the quantity, they will tell you.
 
@@ -575,7 +574,7 @@ To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, "Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?" When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organisation grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Unreasonable leaders demand or commit or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable, and it's likely to cost you your job. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
+Unreasonable leaders demand or commit or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable, and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment, and the temptation to embody a Unreasonable leader is low.
 

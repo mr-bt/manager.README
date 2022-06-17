@@ -11,7 +11,7 @@ You will find my document close to those you encounter online and sometimes a co
 
 This document is a living document.
 
-If you find my beliefs and style are not wholly aligned with what you observe in {company_X}, that's OK.
+If you find my beliefs, style and ways of working are not wholly aligned with what you observe in {company_X}, that's OK. I'll be learning and evolving my views and ways of working with the solely intent of serving you and company {company_X} best.
 
 ## Welcome
 

@@ -54,7 +54,7 @@ Some of my quirks while working:
   * Apathy and indifference. If something is going on, let me know ASAP
   * BS and toxic culture
   * "box tickers" and "talk but no walk".
-  * [Union Leaders](#Union-vs-Business-Leader).
+  * [Unreasonable Leaders](#Unreasonable-vs-Business-Leader).
 * My communication skills fade out as I get tired.
 * I tend to be a bit verbose. I know it is annoying. Please call it out. I'm trying to improve.
 * I'm getting better at this, but there are times you might get messages over the weekends or late at night, or on holidays. It's just me being ON all the time. [What to do when you get a message from me.](#What-to-do-when-you-get-a-message-from-me)
@@ -567,17 +567,17 @@ I'm a big fan of John C. Maxwell books. Get familiar with the: [The 21 irrefutab
 
 It is not advisable! I'll not question your judgement only when a team is in *survival mode* and for a short period. I also appreciate a heads-up when you feel it is needed.
 
-#### Union Vs Business Vs. Servant Leader
+#### Unreasonable Vs Business Vs. Servant Leader
 
-You are a Business Leader, not a Union Leader. You must represent and serve your team(s) to set them to succeed, but it must be in alignment with the {company_X} context.
+You are a Business Leader, not a Unreasonable Leader. You must represent and serve your team(s) to set them to succeed, but it must be in alignment with the {company_X} context.
 
 To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, "Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?" When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organisation grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Union leaders demand or commit or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable, and it's likely to cost you your job. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
+Unreasonable leaders demand or commit or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable, and it's likely to cost you your job. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
 
-I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment, and the temptation to embody a Union leader is low.
+I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment, and the temptation to embody a Unreasonable leader is low.
 
 ### Technology
 

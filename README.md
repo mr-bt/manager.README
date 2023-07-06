@@ -55,6 +55,28 @@ While working, there are a few quirks you might notice about me:
 
 Finally, I'm a lifelong learner. I'm always looking to grow and improve, both personally and professionally. I believe in the compound effect of daily self-improvement, and I'm committed to continuous learning and development.
 
+## My Role as an Engineering Manager
+
+As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
+
+1. **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
+
+2. **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
+
+3. **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
+
+4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
+
+5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. I believe in making data-driven decisions and advocating for our team's interests.
+
+6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals.
+
+7. **Fostering Ownership:** I encourage everyone to feel like a business owner by developing guiding principles to simplify and decentralise decision-making. I believe in empowering you to make decisions and take ownership of your work.
+
+8. **Creating More Leaders:** My goal is to create more leaders, not followers. I'm committed to developing your leadership skills and setting you up for success.
+
+Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
+
 ## Motivations Behind This Document
 
 The primary motivation behind this README is to foster transparency, clarity, and understanding. As a manager, I believe it's crucial to communicate my values, expectations, and working style to my team. This document serves as a guide to help you understand what you can expect from me and what I expect from you.
@@ -64,52 +86,6 @@ This README is also a reflection of my commitment to open communication and cont
 Lastly, this document is a testament to my belief in the power of written communication. Writing forces clarity of thought, and a well-articulated document can serve as a reference point for future discussions and decision-making. It's my hope that this README will facilitate better communication and mutual understanding within our team.
 
 Please note that this document is not a substitute for personal interaction. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
-
-## Hi, I'm Bruno
-
-I was born in Porto, Portugal, in 1983, where I lived for 24 years before moving to Lisbon and 5 years later to London. I'm a father to a baby boy and partner to a wonderful woman. Outside work, I like:
-
-* to travel, good cuisine and meet new people
-* watch TV series & films (I love a good docuseries)
-* to read technical, business, economics and leadership books/news/articles/posts
-* cars (fast cars!)
-* tennis, F1 and a bit of football (I'm an FCP and Chelsea FC fan)
-* long walks
-* spending time with my family and friends
-
-Some nice things hailed to me are: forthright, upright, trustworthy, committed, pragmatic, doer, "the coach", helpful, strategic, hard-working, loyal and caring.
-
-Some of my quirks while working:
-
-* I'm all-in, always-on, all the time. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best.
-* I have very little patience for:
-  * Apathy and indifference. If something is going on, let me know ASAP
-  * BS and toxic culture
-  * "box tickers" and "talk but no walk".
-  * [Unreasonable Leaders](#Unreasonable-vs-Business-Leader).
-* My communication skills fade out as I get tired.
-* I tend to be a bit verbose. I know it is annoying. Please call it out. I'm trying to improve.
-* I'm getting better at this, but there are times you might get messages over the weekends or late at night, or on holidays. It's just me being ON all the time. [What to do when you get a message from me.](#What-to-do-when-you-get-a-message-from-me)
-* I'm heavily biased towards action. There's value in having strategic discussions, but most of the time is best to start with small and quick iterations. This way, we can prove (or not) our assumptions (fail-fast to learn-fast) and make visible progress. Actions speak louder than words.
-
-If you're curious about my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/brunotavares/) where you can also see what people have to say about me.
-
-## My job
-
-As an Engineering Manager, my job is to:
-
-* Foster a cohesive team and a healthy culture founded on world-class talent, kindness, candour, learn-it-all mindset, operational excellence and customer-centricity.
-* Attract and retain world-class talent. That's you.
-* Assure the growth and development of individuals and teams
-* Represent our team up and out.
-* Help ${company_X} with processes and structure so that we have a scalable, effective and efficient organisation.
-* Influence decisions.
-* Set context and expected business outcomes so that everyone can connect the dots on what ${company_X} needs, understand why/what the priorities are and what needs to get done.
-* Foster and nurture ownership, whereby everyone is a business owner by developing guiding principles to simplify and decentralise decision-making.
-* Help people to develop secondary relationships.
-* Help to develop ${company_X} Engineering brand.
-* Assure we're all delivering business value according to or above the {company_X} goals.
-* Create more leaders, not more followers, while setting these leaders to succeed.
 
 ## How does a great culture look like to me
 

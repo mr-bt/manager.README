@@ -33,6 +33,28 @@ Outside of work, my interests are diverse:
 
 I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
 
+## My Role as an Engineering Manager
+
+As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
+
+1. **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
+
+2. **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
+
+3. **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
+
+4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
+
+5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. I believe in making data-driven decisions and advocating for our team's interests.
+
+6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals.
+
+7. **Fostering Ownership:** I encourage everyone to feel like a business owner by developing guiding principles to simplify and decentralise decision-making. I believe in empowering you to make decisions and take ownership of your work.
+
+8. **Creating More Leaders:** My goal is to create more leaders, not followers. I'm committed to developing your leadership skills and setting you up for success.
+
+Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
+
 ## Me at Work
 
 At work, I'm known for being all-in and always on. I thrive in a fast-paced environment and am heavily biased towards action. I believe in the value of quick, iterative action over lengthy strategic discussions. This allows us to validate our assumptions quickly and make visible progress. Actions, for me, speak louder than words.
@@ -56,28 +78,6 @@ While working, there are a few quirks you might notice about me:
 - I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress.
 
 Finally, I'm a lifelong learner. I'm always looking to grow and improve, both personally and professionally. I believe in the compound effect of daily self-improvement, and I'm committed to continuous learning and development.
-
-## My Role as an Engineering Manager
-
-As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
-
-1. **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
-
-2. **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
-
-3. **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
-
-4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
-
-5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. I believe in making data-driven decisions and advocating for our team's interests.
-
-6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals.
-
-7. **Fostering Ownership:** I encourage everyone to feel like a business owner by developing guiding principles to simplify and decentralise decision-making. I believe in empowering you to make decisions and take ownership of your work.
-
-8. **Creating More Leaders:** My goal is to create more leaders, not followers. I'm committed to developing your leadership skills and setting you up for success.
-
-Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
 
 ## How does a great culture look like to me
 

@@ -3,15 +3,14 @@
 **It's all about the team, we exist to serve them!**
 
 ![Image: Holly Andres](R2003H_ANDRES.jpeg)
+
 ## Disclaimer
 
-This document **MUST** not be read in any way that applies to any other manager from other departments, groups, divisions or teams of ${company_X}.
+This README is a reflection of my personal management style and beliefs, and it should not be interpreted as representative of the practices or philosophies of other managers at our company. While you may find similarities between this document and others you've come across, any resemblances are either coincidental or a sign that I found certain words or ideas particularly well-expressed.
 
-You will find my document close to those you encounter online and sometimes a copy & paste, and that's OK. It just means I couldn't put it in better words.
+Please note that this document is dynamic and will evolve over time. If you notice discrepancies between my stated beliefs and practices and my actions, I encourage you to bring them to my attention. Such feedback will help me better serve you and our organisation.
 
-This document is a living document.
-
-If you find my beliefs, style and ways of working are not wholly aligned with what you observe in {company_X}, that's OK. I'll be learning and evolving my views and ways of working with the solely intent of serving you and company {company_X} best.
+Remember, this README is not a substitute for personal interaction and mutual understanding. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
 
 ## Welcome
 
@@ -655,7 +654,7 @@ One of your most important jobs is to recruit world-class talent. Collaborate wi
 
 Share with me your team management system — where different from the organisation — how you communicate the vision, set goals, create alignment, foster high engagement, and cultural nuances/recruiting practices/performance review processes unique to your team.
 
-I'll push you to create high-performance teams and to focus on growth. I get frustrated when it takes too long to act. 
+I'll push you to create high-performance teams and to focus on growth. I get frustrated when it takes too long to act.
 
 Be fair with terminations, and don't surprise the person you're letting go. People who are let go must leave with their respect intact. Remember, excellence is highly contextual!
 

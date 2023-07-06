@@ -31,6 +31,30 @@ Outside of work, my interests are diverse:
 
 I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
 
+## Me at Work
+
+At work, I'm known for being all-in and always on. I thrive in a fast-paced environment and am heavily biased towards action. I believe in the value of quick, iterative action over lengthy strategic discussions. This allows us to validate our assumptions quickly and make visible progress. Actions, for me, speak louder than words.
+
+I'm committed to open communication. I encourage open dialogue and am always available for discussion. I believe in honesty and authenticity in all interactions.
+
+I hold myself accountable for my actions and decisions and expect the same from my team. I have very little patience for apathy and indifference. If something is going on, let me know ASAP. I believe in taking responsibility and learning from our mistakes.
+
+Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, our company and ultimately, customer experience.
+
+I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone feels valued and heard. I believe that we're at our best when we're working together towards a common goal.
+
+I'm deeply committed to Diversity, Equity, and Inclusion (DEI). I believe that diverse teams are stronger and that everyone should have an equal opportunity to contribute and succeed. I strive to create an environment where everyone feels welcome and valued for their unique perspectives and experiences.
+
+While working, there are a few quirks you might notice about me:
+
+- I'm all-in, always-on, all the time. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best.
+- My communication skills tend to fade out as I get tired.
+- I can be a bit lengthy at times. I know it cannot be very pleasant, so please feel free to call it out. I'm always trying to improve.
+- You might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect immediate responses during these times.
+- I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress.
+
+Finally, I'm a lifelong learner. I'm always looking to grow and improve, both personally and professionally. I believe in the compound effect of daily self-improvement, and I'm committed to continuous learning and development.
+
 ## Motivations behind this document
 
 Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. Few reasons for this document to exist:

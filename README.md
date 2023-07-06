@@ -55,17 +55,15 @@ While working, there are a few quirks you might notice about me:
 
 Finally, I'm a lifelong learner. I'm always looking to grow and improve, both personally and professionally. I believe in the compound effect of daily self-improvement, and I'm committed to continuous learning and development.
 
-## Motivations behind this document
+## Motivations Behind This Document
 
-Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. Few reasons for this document to exist:
+The primary motivation behind this README is to foster transparency, clarity, and understanding. As a manager, I believe it's crucial to communicate my values, expectations, and working style to my team. This document serves as a guide to help you understand what you can expect from me and what I expect from you.
 
-* Writing and maintaining this document helps me refine my thoughts and hold myself accountable.
-* To share some of my expectations of you and me.
-* Establish guiding principles to enable you to do your job efficiently, effectively and with confidence.
-* For you to help me improve and **hold me accountable.**
-* Lay down the foundation for a symbiotic relationship between us that help us grow together.
+This README is also a reflection of my commitment to open communication and continuous improvement. It's a living document that I will update as I grow and learn. I encourage you to provide feedback and engage in a dialogue about its content. Your insights and perspectives are invaluable in helping me become a better manager and leader.
 
-**Important**: this document is *NOT* meant as a replacement for us getting to know each other! We'll learn more about each other over time.
+Lastly, this document is a testament to my belief in the power of written communication. Writing forces clarity of thought, and a well-articulated document can serve as a reference point for future discussions and decision-making. It's my hope that this README will facilitate better communication and mutual understanding within our team.
+
+Please note that this document is not a substitute for personal interaction. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
 
 ## Hi, I'm Bruno
 

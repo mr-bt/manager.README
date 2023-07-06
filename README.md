@@ -4,14 +4,6 @@
 
 ![Image: Holly Andres](R2003H_ANDRES.jpeg)
 
-## Disclaimer
-
-This README is a reflection of my personal management style and beliefs, and it should not be interpreted as representative of the practices or philosophies of other managers at our company. While you may find similarities between this document and others you've come across, any resemblances are either coincidental or a sign that I found certain words or ideas particularly well-expressed.
-
-Please note that this document is dynamic and will evolve over time. If you notice discrepancies between my stated beliefs and practices and my actions, I encourage you to bring them to my attention. Such feedback will help me better serve you and our organisation.
-
-Remember, this README is not a substitute for personal interaction and mutual understanding. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
-
 ## About Me
 
 Hello, I'm Bruno. I was born in Porto, Portugal, in 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to an amazing woman.
@@ -701,3 +693,11 @@ Be explicit about team norms that aren't held companywide. It's OK if some norms
 * [Manager README - Oren Ellenbogen, VP Eng. @ Forter](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha)
 * [Aaron Lerch readme](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
 * [Matt Newkirk manager readme](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view)
+
+## Disclaimer
+
+This README is a reflection of my personal management style and beliefs, and it should not be interpreted as representative of the practices or philosophies of other managers at our company. While you may find similarities between this document and others you've come across, any resemblances are either coincidental or a sign that I found certain words or ideas particularly well-expressed.
+
+Please note that this document is dynamic and will evolve over time. If you notice discrepancies between my stated beliefs and practices and my actions, I encourage you to bring them to my attention. Such feedback will help me better serve you and our organisation.
+
+Remember, this README is not a substitute for personal interaction and mutual understanding. It's a starting point for our professional relationship, and I look forward to learning and growing with you.

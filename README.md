@@ -12,14 +12,6 @@ Please note that this document is dynamic and will evolve over time. If you noti
 
 Remember, this README is not a substitute for personal interaction and mutual understanding. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
 
-## Welcome
-
-I'm pleased to welcome you. You work at ${company_X}, where I hope it becomes a place where you'll grow, develop, contribute and have fun. I'm also hopeful that the journey gets easier with your fresh ideas and enthusiasm.
-
-I look forward to working with you.
-
-**Welcome to the team!**
-
 ## Motivations behind this document
 
 Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. Few reasons for this document to exist:

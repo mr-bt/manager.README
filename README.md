@@ -4,6 +4,16 @@
 
 ![Image: Holly Andres](R2003H_ANDRES.jpeg)
 
+## Motivations Behind This Document
+
+The primary motivation behind this README is to foster transparency, clarity, and understanding. As a manager, I believe it's crucial to communicate my values, expectations, and working style to my team. This document serves as a guide to help you understand what you can expect from me and what I expect from you.
+
+This README is also a reflection of my commitment to open communication and continuous improvement. It's a living document that I will update as I grow and learn. I encourage you to provide feedback and engage in a dialogue about its content. Your insights and perspectives are invaluable in helping me become a better manager and leader.
+
+Lastly, this document is a testament to my belief in the power of written communication. Writing forces clarity of thought, and a well-articulated document can serve as a reference point for future discussions and decision-making. It's my hope that this README will facilitate better communication and mutual understanding within our team.
+
+Please note that this document is not a substitute for personal interaction. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
+
 ## About Me
 
 Hello, I'm Bruno. I was born in Porto, Portugal, in 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to an amazing woman.
@@ -68,16 +78,6 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 8. **Creating More Leaders:** My goal is to create more leaders, not followers. I'm committed to developing your leadership skills and setting you up for success.
 
 Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
-
-## Motivations Behind This Document
-
-The primary motivation behind this README is to foster transparency, clarity, and understanding. As a manager, I believe it's crucial to communicate my values, expectations, and working style to my team. This document serves as a guide to help you understand what you can expect from me and what I expect from you.
-
-This README is also a reflection of my commitment to open communication and continuous improvement. It's a living document that I will update as I grow and learn. I encourage you to provide feedback and engage in a dialogue about its content. Your insights and perspectives are invaluable in helping me become a better manager and leader.
-
-Lastly, this document is a testament to my belief in the power of written communication. Writing forces clarity of thought, and a well-articulated document can serve as a reference point for future discussions and decision-making. It's my hope that this README will facilitate better communication and mutual understanding within our team.
-
-Please note that this document is not a substitute for personal interaction. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
 
 ## How does a great culture look like to me
 

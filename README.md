@@ -12,6 +12,25 @@ Please note that this document is dynamic and will evolve over time. If you noti
 
 Remember, this README is not a substitute for personal interaction and mutual understanding. It's a starting point for our professional relationship, and I look forward to learning and growing with you.
 
+## About Me
+
+Hello, I'm Bruno. I was born in Porto, Portugal, in 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to an amazing woman.
+
+Outside of work, my interests are diverse:
+
+- Travelling and exploring new cultures
+- Enjoying good cuisine
+- Meeting people
+- Watching TV series & films (especially docuseries)
+- Reading technical, business, economics, and leadership books/news/articles/posts
+- Cars (especially fast ones!)
+- Sports, including tennis and F1
+- Football (I'm an FCP and Chelsea FC fan)
+- Taking long walks
+- Spending quality time with my family and friends
+
+I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
+
 ## Motivations behind this document
 
 Having been inspired by several documents/posts on the importance of a Manager's README, I've decided to kick things off on Github with my own edition. Few reasons for this document to exist:

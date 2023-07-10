@@ -57,9 +57,9 @@ Remember, my role as a manager is to serve you and help you succeed. I'm here to
 
 ### Quirks While Working
 
-At work, my approach is characterized by a few unique traits:
+At work, my approach with the unique combination of a few quirks:
 
-- **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect immediate responses during these times.
+- **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect responses during these times.
 
 - **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I'm aware it can be annoying, so please feel free to call it out. I'm always trying to improve.
 
@@ -69,11 +69,13 @@ At work, my approach is characterized by a few unique traits:
 
 - **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, our company, and ultimately, customer experience. Expect me sharing all sorts of content but don't assume I expect you to change the course of action or strategy. Just me getting excited about new things.
 
-- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect, where we can have open and honest discussions without fear of blame or political games. I put a high premiun on one coming up with solutions and taking accountability on executing them.
+- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect, where we can have open and honest discussions without fear of blame or political games. I put a high premiun on one coming up with solutions and taking accountability for execution.
 
 - **Curiosity:** I'm naturally curious and tend to ask a lot of questions. This is not a sign of doubt or mistrust, but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
 
 - **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
+
+- **Decision Making:** I expect quick, decisive and effective decisions. See in the [Decision-making](### Decision-making) section how to make it happen.
 
 ### Me as a resource
 

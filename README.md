@@ -37,21 +37,21 @@ I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the co
 
 As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
 
-1. **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
+- **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
 
-2. **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
+- **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
 
-3. **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
+- **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
 
-4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
+- **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
 
-5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
+- **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
 
-6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
+- **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
 
-7. **Fostering Ownership:** I encourage everyone to feel like a business owner. I believe in empowering you to make decisions and take ownership of your work.
+- **Fostering Ownership:** I encourage everyone to feel like a business owner. I believe in empowering you to make decisions and take ownership of your work.
 
-8. **Creating More Leaders:** My goal is to create more leaders, not more followers. I'm committed to developing your leadership skills and setting you up for success.
+- **Creating More Leaders:** My goal is to create more leaders, not more followers. I'm committed to developing your leadership skills and setting you up for success.
 
 Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
 

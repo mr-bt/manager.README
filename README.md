@@ -33,7 +33,7 @@ Outside of work, my interests are diverse:
 
 I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
 
-## My Role as an Engineering Manager
+### My Role as an Engineering Manager
 
 As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
 
@@ -55,29 +55,53 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 
 Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
 
-## Me at Work
+### Quirks While Working
 
-At work, I'm known for being all-in and always on. I thrive in a fast-paced environment and am heavily biased towards action. I believe in the value of quick, iterative action over lengthy strategic discussions. This allows us to validate our assumptions quickly and make visible progress. Actions, for me, speak louder than words.
+At work, my approach is characterized by a few unique traits:
 
-I'm committed to open communication. I encourage open dialogue and am always available for discussion. I believe in honesty and authenticity in all interactions.
+- **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect immediate responses during these times.
 
-I hold myself accountable for my actions and decisions and expect the same from my team. I have very little patience for apathy and indifference. If something is going on, let me know ASAP. I believe in taking responsibility and learning from our mistakes.
+- **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I'm aware it can be annoying, so please feel free to call it out. I'm always trying to improve.
 
-Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, our company and ultimately, customer experience.
+- **Accountability:** I hold myself accountable for my actions and decisions and expect the same from my team. I have very little patience for apathy and indifference. If something is going on, let me know ASAP. I believe in taking responsibility and learning from our mistakes.
 
-I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone feels valued and heard. I believe that we're at our best when we're working together towards a common goal.
+- **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions.
 
-I'm deeply committed to Diversity, Equity, and Inclusion (DEI). I believe that diverse teams are stronger and that everyone should have an equal opportunity to contribute and succeed. I strive to create an environment where everyone feels welcome and valued for their unique perspectives and experiences.
+- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, our company, and ultimately, customer experience. Expect me sharing all sorts of content but don't assume I expect you to change the course of action or strategy. Just me getting excited about new things.
 
-While working, there are a few quirks you might notice about me:
+- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect, where we can have open and honest discussions without fear of blame or political games. I put a high premiun on one coming up with solutions and taking accountability on executing them.
 
-- I'm all-in, always-on, all the time. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best.
-- My communication skills tend to fade out as I get tired.
-- I can be a bit lengthy at times. I know it cannot be very pleasant, so please feel free to call it out. I'm always trying to improve.
-- You might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect immediate responses during these times.
-- I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress.
+- **Curiosity:** I'm naturally curious and tend to ask a lot of questions. This is not a sign of doubt or mistrust, but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
 
-Finally, I'm a lifelong learner. I'm always looking to grow and improve, both personally and professionally. I believe in the compound effect of daily self-improvement, and I'm committed to continuous learning and development.
+- **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
+
+### Me as a resource
+
+Be clear about what you need from me for your success — the role, comp, org change, more feedback, more context, etc.
+
+Be clear when you need the company's resources. Be data-driven about why you need it, gather alignment from the pertinent stakeholders, and show that you're cost-conscious. I like justifications that include, "this is what [company we respect] does" + "this is the ROI" + "this is what an experiment would cost, and if it works, from there, I can shut it down or scale it up" + "this is the most cost-effective solution for these reasons."
+
+I love to work through problems together if it's helpful to you.
+
+## My Vision of a Great Culture
+
+In my view, a great culture is one that fosters collaboration, innovation, and mutual respect. It's a culture where everyone feels valued, heard, and empowered to do their best work. Here are some key elements of the culture I strive to create:
+
+- **Diversity, Equity, and Inclusion (DEI):** I'm deeply committed to DEI. I believe that diverse teams are stronger, and that everyone should have an equal opportunity to contribute and succeed. I strive to create an environment where everyone feels welcome and valued for their unique perspectives and experiences.
+
+- **Open Communication:** Transparency and honesty are paramount. I encourage open dialogue and believe that everyone should feel comfortable sharing their ideas, concerns, and feedback.
+
+- **Collaboration:** Great things are rarely achieved in isolation. I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone works together towards our common goals.
+
+- **Innovation:** I'm passionate about technology and innovation. I believe in constantly pushing the boundaries of what's possible and encourage everyone to think outside the box.
+
+- **Continuous Learning:** I'm a lifelong learner and believe that there's always something new to learn. I encourage everyone to seek out new knowledge, skills, and experiences.
+
+- **Accountability:** I believe in taking responsibility for our actions and decisions. I expect everyone to hold themselves accountable and to learn from their mistakes.
+
+- **Kindness and Respect:** I believe in treating everyone with kindness and respect. I strive to create a culture where everyone feels valued and appreciated.
+
+Remember, culture is not something that can be imposed from the top down. It's something that we all create together, through our actions and interactions. I look forward to working with you to create a great culture.
 
 ## How does a great culture look like to me
 
@@ -170,14 +194,6 @@ Remember: we run companies, manage processes and things and lead people!
 * Create long-lasting impact at pace
 
 Please get comfortable with [Guide: Understand team effectiveness](https://docs.google.com/document/d/1lgiz6mwZeyWEaJxN_NMI-tI5Qijv2BHh27DPLeSLE40/edit)
-
-### Me as a resource
-
-Be clear about what you need from me for your success — the role, comp, org change, more feedback, more context, etc.
-
-Be clear when you need the company's resources. Be data-driven about why you need it, gather alignment from the pertinent stakeholders, and show that you're cost-conscious. I like justifications that include, "this is what [company we respect] does" + "this is the ROI" + "this is what an experiment would cost, and if it works, from there, I can shut it down or scale it up" + "this is the most cost-effective solution for these reasons."
-
-I love to work through problems together if it's helpful to you.
 
 ### How do I think about trust
 

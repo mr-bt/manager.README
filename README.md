@@ -45,13 +45,13 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 
 4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
 
-5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. I believe in making data-driven decisions and advocating for our team's interests.
+5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone interactions. We can only win toguether.
 
-6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals.
+6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
 
-7. **Fostering Ownership:** I encourage everyone to feel like a business owner by developing guiding principles to simplify and decentralise decision-making. I believe in empowering you to make decisions and take ownership of your work.
+7. **Fostering Ownership:** I encourage everyone to feel like a business owner. I believe in empowering you to make decisions and take ownership of your work.
 
-8. **Creating More Leaders:** My goal is to create more leaders, not followers. I'm committed to developing your leadership skills and setting you up for success.
+8. **Creating More Leaders:** My goal is to create more leaders, not more followers. I'm committed to developing your leadership skills and setting you up for success.
 
 Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
 

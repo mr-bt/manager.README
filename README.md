@@ -1,6 +1,6 @@
 # Bruno's manager README
 
-**It's all about the team, we exist to serve them!**
+**It's all about the team. We exist to serve them!**
 
 ![Image: Holly Andres](R2003H_ANDRES.jpeg)
 
@@ -45,7 +45,7 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 
 4. **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
 
-5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone interactions. We can only win toguether.
+5. **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
 
 6. **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
 
@@ -57,7 +57,7 @@ Remember, my role as a manager is to serve you and help you succeed. I'm here to
 
 ### Quirks While Working
 
-At work, my approach with the unique combination of a few quirks:
+At work, my approach with a unique combination of a few quirks:
 
 - **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect responses during these times.
 
@@ -67,11 +67,11 @@ At work, my approach with the unique combination of a few quirks:
 
 - **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions.
 
-- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, our company, and ultimately, customer experience. Expect me sharing all sorts of content but don't assume I expect you to change the course of action or strategy. Just me getting excited about new things.
+- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content but don't assume I expect you to change the course of action or strategy. Just me getting excited about new things.
 
-- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect, where we can have open and honest discussions without fear of blame or political games. I put a high premiun on one coming up with solutions and taking accountability for execution.
+- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on coming up with solutions and taking accountability for execution.
 
-- **Curiosity:** I'm naturally curious and tend to ask a lot of questions. This is not a sign of doubt or mistrust, but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
+- **Curiosity:** I'm naturally curious and tend to ask a lot of questions. This is not a sign of doubt or mistrust but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
 
 - **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
 
@@ -87,37 +87,29 @@ I love to work through problems together if it's helpful to you.
 
 ## My Vision of a Great Culture
 
-In my view, a great culture is one that fosters collaboration, innovation, and mutual respect. It's a culture where everyone feels valued, heard, and empowered to do their best work. Here are some key elements of the culture I strive to create:
+In my perspective, a splendid culture is one that fosters collaboration, innovation, and mutual respect. It's a culture where everyone feels valued, heard, and empowered to do their best work. Here are some key elements of the culture I strive to create:
 
-- **Diversity, Equity, and Inclusion (DEI):** I'm deeply committed to DEI. I believe that diverse teams are stronger, and that everyone should have an equal opportunity to contribute and succeed. I strive to create an environment where everyone feels welcome and valued for their unique perspectives and experiences.
+- **Commercially Sustainable People-First Culture:** I believe in creating a culture that is commercially sustainable and puts people first. This means balancing the needs of the business with the needs of our people, ensuring that our work environment is both productive and supportive.
 
-- **Open Communication:** Transparency and honesty are paramount. I encourage open dialogue and believe that everyone should feel comfortable sharing their ideas, concerns, and feedback.
+- **Diversity, Equity, and Inclusion (DEI):** I'm deeply committed to DEI. I believe that diverse teams are stronger and that everyone should have an equal opportunity to contribute and succeed. I strive to create an environment where everyone feels welcome and valued for their unique perspectives and experiences.
+
+- **Open Communication:** Clarity and honesty are paramount. I encourage open dialogue and believe everyone should feel comfortable sharing their ideas, concerns, and feedback.
 
 - **Collaboration:** Great things are rarely achieved in isolation. I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone works together towards our common goals.
 
-- **Innovation:** I'm passionate about technology and innovation. I believe in constantly pushing the boundaries of what's possible and encourage everyone to think outside the box.
+- **Innovation:** I'm passionate about technology and innovation. I believe in constantly pushing the boundaries of what's possible and encouraging everyone to think outside the box.
 
 - **Continuous Learning:** I'm a lifelong learner and believe that there's always something new to learn. I encourage everyone to seek out new knowledge, skills, and experiences.
 
-- **Accountability:** I believe in taking responsibility for our actions and decisions. I expect everyone to hold themselves accountable and to learn from their mistakes.
+- **Ownership:** I believe in the power of taking ownership of our actions and decisions. This means being responsible for our work and its outcomes and learning from our mistakes.
 
 - **Kindness and Respect:** I believe in treating everyone with kindness and respect. I strive to create a culture where everyone feels valued and appreciated.
 
-Remember, culture is not something that can be imposed from the top down. It's something that we all create together, through our actions and interactions. I look forward to working with you to create a great culture.
+- **Creating Impact at Pace:** We aim to create impact at a fast pace. We focus on outcomes, not on outputs. This means we prioritise achieving meaningful results over simply completing tasks.
 
-## How does a great culture look like to me
+- **Honesty to Company Vision, Mission, and Core Values:** We stay honest to the company vision, mission, and core values at all times. These guiding principles shape our work and our culture, and we uphold them in all that we do.
 
-* A commercially sustainable people-first culture.
-* A diverse and inclusive culture.
-* We have a strong sense of ownership and belonging.
-* We stay honest to the company vision, mission and core values at all times.
-* We have a growth and learn-it-all mindset. We're curious, not judgemental!
-* We set high standards and continuously seek to raise the bar.
-* We're kind and candid
-* We expect excellence in ourselves first and then in others.
-* We are proud of who we are and what we do.
-* We create impact at pace. We focus on outcomes, not on outputs!
-* We have fun together.
+Remember, culture is not something that can be imposed from the top down. It's something that we all create together through our actions and interactions. I look forward to working with you to create a great culture.
 
 ## General guiding principles
 
@@ -373,7 +365,7 @@ Communication tends to be vague, verbose and non-committal. This often leads to 
 
 Use words people understand; avoid using acronyms and [weasle words](https://en.wikipedia.org/wiki/Weasel_word); be concise and straight to the point; be specific with the language you use.
 
-Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most",  "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for interpretation.
+Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to ", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most", "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for interpretation.
 
 NOTE: these examples don't apply to this document because it's supposed to reference how to work with me.
 
@@ -602,7 +594,7 @@ So, you're a manager. It means you don't need to be technical anymore. You're an
 
 > Dive Deep
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdote differ. No task is beneath them.
-> [Amazon’s 14 leadership principles](https://www.amazon.jobs/en/principles)
+> [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles)
 
 #### Technology general principles
 
@@ -689,7 +681,7 @@ Be explicit about team norms that aren't held companywide. It's OK if some norms
 * [Trillion Dollar Coach: The Leadership Handbook of Silicon Valley's Bill Campbell](https://www.amazon.co.uk/Trillion-Dollar-Coach-Leadership-Handbook-ebook/dp/B07JFKHCNY/)
 * [The Culture Code: The Secrets of Highly Successful Groups](https://www.amazon.co.uk/Culture-Code-Secrets-Highly-Successful-ebook/dp/B019CGXU68/)
 * [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.amazon.co.uk/Radical-Candor-What-Want-Saying-ebook/dp/B01LW1LESC/)
-* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC/)
+* [Team Topologies: Organising Business and Technology Teams for Fast Flow](https://www.amazon.co.uk/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC/)
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/)
 * [Influence: The Psychology of Persuasion (Collins Business Essentials)](https://www.amazon.co.uk/Influence-Psychology-Persuasion-Business-Essentials-ebook/dp/B002BD2UUC/)
 * [Designing Your Organisation: Using the STAR Model to Solve 5 Critical Design Challenges](https://www.amazon.co.uk/Designing-Your-Organization-Critical-Challenges-ebook/dp/B0086I1ZXY/)
@@ -703,10 +695,10 @@ Be explicit about team norms that aren't held companywide. It's OK if some norms
 
 ## Some of the sources
 
-* [12 “Manager READMEs” from Silicon Valley’s Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+* [12 "Manager READMEs" from Silicon Valley's Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 * [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
 * [Ben.README - Shopify](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85)
-* [Hi.  I’m Roy.](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
+* [Hi. I'm Roy.](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
 * [Deprecated: Welcome to Netflix and Me](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57)
 * [Manager README - Oren Ellenbogen, VP Eng. @ Forter](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha)
 * [Aaron Lerch readme](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)

@@ -114,45 +114,6 @@ I often send FYIs for your information, which typically don't require a response
 
 If you're CC'ed, a reply isn't expected, but feel free to respond if you wish. Just be mindful that you're joining an ongoing conversation.
 
-### How I Think about Management Vs. Leadership
-
-We embrace that management is not leadership. Both are equally important but not mutually exclusive or dependent. In an oversimplification fashion:
-
-- Management is about working with objectives, being responsible for the quality, processes, staffing and retaining talent and deliverables. It's a position in the company.
-- Leadership is about working with goals and vision and inspiring people towards a goal. Leadership comes from everywhere, not a position.
-
-### How I Think About Impact
-
-- **Consistency:** Are you able to deliver work that matters not just once but does so sustainably over time?
-
-- **Velocity:** What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
-
-- **Ownership:** Think long term and take ownership of what and how you deliver impact in line with the company objectives.
-
-- **Accountability:** Everyone is accountable for delivering impact. More senior levels are held more directly accountable for the business impact of their decisions and actions.
-
-- **Materiality:** You deliver what you've said you'll deliver on the time you committed to.
-
-- **Force multipliers:** Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
-
-### How I think about trust
-
-Trust and developing trust is a vast topic. Still, I broadly think about trust in the terms:
-
-- **Empathy:** Their success comes first. One will not trust you if it is thought that you care more about yourself than about them.
-
-- **Logic:** If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
-
-- **Authenticity:** If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
-
-- **Execution:** If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.
-
-Tips:
-
-- Vulnerability precedes trust, not the other way around
-- You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
-- As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
-
 ### Guiding principles
 
 These guiding principles are for both of us to follow as leaders and managers:
@@ -338,6 +299,110 @@ Once a month, we have a 4-hour meeting on a Friday afternoon. We check in as a t
 
 Each quarter, the monthly meeting is replaced by a full-day meeting. We conduct a team check-in, team retrospective, review team health checks, retrospect on OKRs, work on next quarter's objectives, groom and prioritise the team backlog, and discuss any significant topics. The chairperson manages the agenda and meeting minutes, and pre-reads are shared at least two days in advance. We’ll have lunch or dinner together, and on-site attendance is mandatory.
 
+## How do I Think About
+
+This section is about you getting to know how I think about certain topics. It also serves as somewhat setting expectations.
+
+### Management Vs. Leadership
+
+We embrace that management is not leadership. Both are equally important but not mutually exclusive or dependent. In an oversimplification fashion:
+
+- Management is about working with objectives, being responsible for the quality, processes, staffing and retaining talent and deliverables. It's a position in the company.
+- Leadership is about working with goals and vision and inspiring people towards a goal. Leadership comes from everywhere, not a position.
+
+### Impact
+
+- **Consistency:** Are you able to deliver work that matters not just once but does so sustainably over time?
+
+- **Velocity:** What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
+
+- **Ownership:** Think long term and take ownership of what and how you deliver impact in line with the company objectives.
+
+- **Accountability:** Everyone is accountable for delivering impact. More senior levels are held more directly accountable for the business impact of their decisions and actions.
+
+- **Materiality:** You deliver what you've said you'll deliver on the time you committed to.
+
+- **Force multipliers:** Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
+
+### Trust
+
+Trust and developing trust is a vast topic. Still, I broadly think about trust in the terms:
+
+- **Empathy:** Their success comes first. One will not trust you if it is thought that you care more about yourself than about them.
+
+- **Logic:** If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
+
+- **Authenticity:** If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
+
+- **Execution:** If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.
+
+Tips:
+
+- Vulnerability precedes trust, not the other way around
+- You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
+- As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
+
+### Feedback
+
+Feedback is a response or information provided due to actions or behaviours. It's a gift that can propel an organisation to new heights, sparking growth, innovation, problem-solving, and engagement. Its purpose is to help people grow, realise their potential, and interact more effectively with colleagues.
+
+- Feedback is vital to our success, and I welcome it.
+- At its core, [Radical Candour](https://www.youtube.com/watch?v=Bh-pG27cHtw).
+- Let me know if I'm not performing well.
+- I'll let you know if you're not.
+- Performance reviews should never come as a surprise to you. If they do, let me know.
+- Feedback should be given frequently and promptly.
+
+In our first 1:1, I'll ask you how you prefer to receive feedback. I prefer feedback that is: prompt, objective, direct, specific, and actionable.
+
+Some tips on how to give feedback:
+
+- Praise efforts and behaviours, not abilities. Explain what prompted your praise to reinforce the desired efforts/behaviour.
+- Give positive feedback often, be specific and be authentic. Too much critical feedback leads to disengagement.
+- Telling people they are missing the mark is not the same as helping them hit the mark.
+- Honest critical feedback can strengthen your bond when delivered correctly.
+- Be empathetic! Lack of empathy is a main reason we reject constructive feedback.
+- Ask permission to give feedback! This gives the person a feeling of autonomy.
+- Be objective. Focus on the situation, not the person.
+- Avoid blur words and generalisations. Be specific!
+- Use 'I' statements! Give feedback from your perspective alone.
+- Keep it short! Long descriptions can confuse the receiver.
+
+Three dimensions are required for people to continue to give you feedback:
+
+- Safety - unlikelihood of being punished for giving feedback: should be high.
+- Effort - The amount of work to provide feedback: should be low.
+- Benefit - how likely is it that giving you feedback will impact your behaviour?: should be high.
+- Be grateful! - Just say "Thank You".
+
+**Note:** When seeking feedback, make specific questions. "Do you have any feedback for me?" That's a terrible question! Better:
+
+- What's one thing I could improve?
+- What's one thing I could have done better in that X?
+
+### Plans Vs. Planning
+
+Plans are essential because they attempt to map out how to reach the destination.
+> "If you don't know where you are going, you'll end up someplace else." – Yogi Berra
+
+I expect you to plan and to share your plans in writing. Plans not in written and shared don't exist!
+> If you don't have a plan, you become part of somebody else's plan - Terence McKenna.
+
+Plans must be clear and specific.
+> If you don't know where you're going, any road will get you there. - Lewis Carroll
+
+Plans must prompt commitment by the stakeholders.
+> A plan without commitment is nothing more than a wish list. - Antoine de Saint-Exupéry
+
+Things usually don't go according to the plan, and that's expected.
+> Everyone has a plan until they get punched in the mouth - Mike Tyson.
+
+It's about thinking ahead that get us to be better prepared for when "you're punched in the mouth" (haha!).
+> In preparing for battle I have always found that plans are useless, but planning is indispensable - Dwight D. Eisenhower.
+
+Lastly,
+> By Failing to prepare, you are preparing to fail. – Benjamin Franklin
+
 ## Decision-making
 
 I expect you to make decisions all the time as independently as possible and be right often. I expect you to ask for help or advice when you're not sure, or you could use a soundboard. You're are not alone. I'm here for you.
@@ -489,72 +554,7 @@ Some examples of words that one should work hard to avoid using: "may", "might",
 
 NOTE: these examples don't apply to this document because it's supposed to reference how to work with me.
 
-## Feedback
 
-Feedback is a reaction or information from someone that occurs due to actions or behaviour undertaken by an individual or group. A gift with the power to skyrocket an organisation to new heights. It unleashes growth, innovation, problem-solving, engagement and creates empowerment across the board. The objective of feedback is solely to help people grow, live up to their potential, and interact more effectively with colleagues. It's a service to them, a gift!
-
-* Feedback is critical to our success, and I love it.
-* At heart, Radical Candour.
-* Let me know if I don't do well.
-* I'll let you know if you don't.
-* Performance reviews should never be a surprise for you. If it is, let me know.
-* Feedback must be given often and immediately.
-
-On our first 1:1, I'll ask you how you prefer to receive feedback. I like to receive feedback: promptly, objective, direct, specific and actionable.
-
-To learn about Radical candour, follow the links and take your time to digest them:
-
-* [What is Radical Candor?](https://www.youtube.com/watch?v=Bh-pG27cHtw)
-* [Why 'Radical Candour' may be the key to being a successful leader](https://www.campaignlive.co.uk/article/why-radical-candour-may-key-successful-leader/1430852).
-* [INBOUND Bold Talks: Kim Scott "Radical Candor"](https://www.youtube.com/watch?v=yj9GLeNCgm4)
-* [Radical Candor blog](https://www.radicalcandor.com/blog/)
-* [Radical Candor: How to Get What You Want by Saying What You Mean](https://www.amazon.co.uk/Radical-Candor-What-Want-Saying-ebook/dp/B01LW1LESC/)
-
-Some tips on how to give feedback:
-
-* Praise in a meaningful way efforts and behaviours, not abilities. Intelligence, talent, or skills are often innate and can't be actively replicated. Instead, praise effort/behaviours explaining exactly what prompted your praise. It'll reinforce the desired efforts/behaviour.
-* Ignore the ratios such as 5:1! Give positive feedback often, be specific and be authentic. Too much and too often critical feedback leads to a feeling of not belonging and ultimately to disengagement.
-* Telling people they are missing the mark is not the same as helping them hit the mark.
-* Honest critical feedback can strengthen your bond rather than degrade it when delivered correctly.
-* When we don't feel empathy, we reject even useful feedback! Be empathetic! This, according to Douglas Stone, a Lecturer on Law at Harvard Law School, is one of the main reasons we reject even the most constructive feedback.
-* Ask permission to give feedback! By asking for permission, you give the person a feeling of autonomy and a sense of control. After all feedback is dialogue!
-* Be objective. Focus on the situation, not the person
-* Avoid blur words! A blur word is something that can mean different things to different people. E.g. "You shouldn't be so defensive" or "You could be more proactive.". Be specific!
-* Don't use generalisations! Words like "always" and "never". This is a form of labelling someone.
-* Use 'I' statements! Give feedback from your perspective alone. This way, one avoids labelling the person.
-* Keep it short! Long descriptions will confuse and/or get the receiver lost.
-
-[Three dimensions are required for people to continue to give you feedback](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c):
-
-* Safety - unlikelihood of being punished for giving feedback: should be high.
-* Effort - The amount of work to provide feedback, also known as "how much do you argue when people give you feedback?": should be low.
-* Benefit - how likely is it that giving you feedback will materially impact your behaviour?: should be high.
-* Be grateful! Just say "Thank You".
-
-**Note:** When seeking feedback, make specific questions. "Do you have any feedback for me?" That's a terrible question! Better:
-
-* What's one thing I could improve?
-* What's one thing I could have done better in that X?
-
-## Plans Vs. Planning
-
-Plans are essential because they attempt to map out how to reach the destination.
-> "If you don't know where you are going, you'll end up someplace else." – Yogi Berra
-
-I expect you to plan and to share your plans in writing. Plans not in written and shared don't exist!
-> If you don't have a plan, you become part of somebody else's plan - Terence McKenna.
-
-Plans must be clear and specific, prompting commitment by the stakeholders.
-> "It does not do to leave a live dragon out of your calculations, if you live near one." – J.R.R. Tolkien, The Hobbit
-
-Things usually don't go according to the plan, and that's OK.
-> everyone has a plan until they get punched in the mouth - Mike Tyson.
-
-It's about thinking ahead that get us to be better prepared for when "you're punched in the mouth" (haha!).
-> In preparing for battle I have always found that plans are useless, but planning is indispensable - Dwight D. Eisenhower.
-
-Lastly,
-> "By Failing to prepare, you are preparing to fail." – Benjamin Franklin
 
 ## Leadership
 

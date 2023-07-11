@@ -114,7 +114,7 @@ I often send FYIs for your information, which typically don't require a response
 
 If you're CC'ed, a reply isn't expected, but feel free to respond if you wish. Just be mindful that you're joining an ongoing conversation.
 
-### Management Vs. Leadership
+### How I Think about Management Vs. Leadership
 
 We embrace that management is not leadership. Both are equally important but not mutually exclusive or dependent. In an oversimplification fashion:
 

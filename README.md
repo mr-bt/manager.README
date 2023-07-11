@@ -195,7 +195,7 @@ Share your team management system with me, particularly if it deviates from the 
 
 As a manager, one of your most crucial roles is to recruit top-tier talent. I encourage you to collaborate with me on your new hires, especially those who will be reporting directly to you. While the final decision is yours, I do hold veto power, which I will exercise judiciously. Expect more involvement from me in your first hire than in subsequent hires.
 
-## Delivery Reporting
+### Delivery Reporting
 
 Establish a regular, systematic process for reporting your progress against the plan. This should include status (RAG), risks/mitigations, assumptions, and issues/blockers. Share these updates with me at least weekly. I value data and well-considered mitigation actions.
 

@@ -277,8 +277,8 @@ Please get comfortable with [Guide: Understand team effectiveness](https://docs.
 ### How do I measure the success of our team
 
 1. Team health and everyone's well-being is high.
-2. Customer's quantitative and qualitative feedback about the software we ship is positive, e.g. NPS, active usage, etc.
-3. We're strong contributors to the company's objectives/goals.
+2. We're strong contributors to the company's objectives/goals.
+3. Customer's quantitative and qualitative feedback about the software we ship is positive, e.g. NPS, active usage, etc.
 
 ### Our Team Rituals
 

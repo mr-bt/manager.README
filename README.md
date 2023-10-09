@@ -356,7 +356,7 @@ Tips:
 - You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
 - As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
 
-## Feedback
+### Feedback
 
 Feedback is crucial to our collective growth. I actively welcome it.
 

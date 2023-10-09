@@ -9,7 +9,7 @@
 Inspired by the concept of a Manager's README, I've created this document to communicate my values, expectations, and working style. Here's why this document exists:
 
 - It helps me articulate my thoughts and hold myself accountable.
-- It shares my expectations and guiding principles to enable efficient and effective work.
+- It shares my expectations for efficient and effective work.
 - It invites you to help me improve and hold me accountable.
 - It lays the foundation for our symbiotic relationship that fosters mutual growth.
 
@@ -17,7 +17,7 @@ This README is a living document that I will update as I grow and learn. I encou
 
 ## About Me
 
-Hello, I'm Bruno. I was born in Porto, Portugal, in 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to a fantastic woman.
+Hello, I'm Bruno. I was born in Porto, Portugal, 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to a fantastic woman.
 
 Outside of work, my interests are diverse:
 
@@ -38,15 +38,15 @@ I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the co
 
 As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
 
-- **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. I believe that a positive and inclusive team culture is vital for our success.
+- **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. A positive and inclusive team culture is vital for our success.
 
 - **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
 
 - **Promoting Growth and Development:** I'm dedicated to ensuring the growth and development of individuals and teams. I believe in setting clear expectations, providing feedback, and offering opportunities for learning and advancement.
 
-- **Representing Our Team:** I represent our team both within and outside the organisation. I work to ensure that our team's achievements are recognised and that our needs and concerns are addressed.
+- **Representing Our Team:** I represent our team within and outside the organisation. I work to ensure that our team's achievements are recognised, and that our needs and concerns are addressed.
 
-- **Influencing Decisions:** I work to influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
+- **Influencing Decisions:** I influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
 
 - **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
 
@@ -66,7 +66,7 @@ In my perspective, a splendid culture is one that fosters collaboration, innovat
 
 - **Open Communication:** Clarity and honesty are paramount. I encourage open dialogue and believe everyone should feel comfortable sharing their ideas, concerns, and feedback.
 
-- **Collaboration:** Great things are rarely achieved in isolation. I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone works together towards our common goals.
+- **Collaboration:** Great things are rarely achieved in isolation. I believe in the power of teamwork and collaboration. I strive to foster a culture where everyone works together towards common goals.
 
 - **Innovation:** I'm passionate about technology and innovation. I believe in constantly pushing the boundaries of what's possible and encouraging everyone to think outside the box.
 
@@ -86,21 +86,21 @@ Remember, culture is not something that can be imposed from the top down. It's s
 
 ### Quirks While Working
 
-At work, my approach with a unique combination of a few quirks:
+At work, my approach has a unique combination of a few quirks:
 
 - **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect responses during these times.
 
-- **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I'm aware it can be annoying, so please feel free to call it out. I'm always trying to improve.
+- **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I know it can be annoying, so please call it out. I'm always trying to improve.
 
 - **Accountability:** I hold myself accountable for my actions and decisions and expect the same from my team. I have very little patience for apathy and indifference. If something is going on, let me know ASAP. I believe in taking responsibility and learning from our mistakes.
 
 - **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions.
 
-- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content but don't assume I expect you to change the course of action or strategy. Just me getting excited about new things.
+- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
 
-- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on coming up with solutions and taking accountability for execution.
+- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on developing solutions and taking accountability for execution.
 
-- **Curiosity:** I'm naturally curious and tend to ask a lot of questions. This is not a sign of doubt or mistrust but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
+- **Curiosity:** I'm naturally curious and tend to ask many questions. This is not a sign of doubt or mistrust but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
 
 - **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
 
@@ -124,19 +124,19 @@ These guiding principles are for both of us to follow as leaders and managers:
 
 - **Teamwork:** We're one team. Our behaviours foster a cohesive, effective, and efficient team. We always assume the best intentions in everyone until proven otherwise.
 
-- **Transparency:** We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes we can't disclose information, but we're committed never to lie.
+- **Transparency:** We're biased towards transparency. Anyone can ask us anything and often will get an answer. Sometimes, we can't disclose information, but we're committed never to lie.
 
 - **Customer-Centric:** Customers are at the front and centre of everything we do. The company we respect exists because of its customers.
 
 - **Action-Oriented:** We have a strong bias for action. We thrive on getting meaningful work done (AKA impact).
 
-- **Excellence and Accountability:** We first expect excellence from ourselves and only then from others, but we hold each other's backs at all times. We're committed to taking accountability and learning from our mistakes.
+- **Excellence and Accountability:** We first expect excellence from ourselves and only then from others, but we always hold each other's backs. We're committed to taking accountability and learning from our mistakes.
 
 - **Coaching and Growth:** We coach individuals and teams relentlessly. We believe a culture founded on learning and growth yields better long-term outcomes.
 
 - **Feedback:** Feedback is our most valuable and effective tool to keep raising the bar on everything we do. We deliver and receive feedback kindly, promptly, with empathy and candour.
 
-- **Processes:** Processes exist to serve us. We continually review their fit for purpose and ways to improve. A customer must never experience degraded service while waiting for our processes to complete.
+- **Processes:** Processes exist to serve us. We continually review their fit for purpose and ways to improve. Customers must never experience degraded service while waiting for our processes to complete.
 
 ### Managing Your Team
 
@@ -148,13 +148,13 @@ Support and recognise your top performers. Let me know how I can help acknowledg
 
 Keep me informed about potential employee departures before they happen.
 
-If your team norms differ from the company's, be clear about it. Differing norms are acceptable, provided they align with the company's and our team's core values.
+If your team norms differ from the company's, be clear about it. Varying norms are acceptable, provided they align with the company's and our team's core values.
 
-Share your team management system with me, particularly if it deviates from the broader organisation. This includes your approach to communicating vision, setting goals, fostering engagement, and any unique practices specific to your team.
+Share your team management system with me, notably if it deviates from the broader organisation. This includes your approach to communicating vision, setting goals, fostering engagement, and any unique practices specific to your team.
 
 ### Hiring Your Team
 
-As a manager, one of your most crucial roles is to recruit top-tier talent. I encourage you to collaborate with me on your new hires, especially those who will be reporting directly to you. While the final decision is yours, I do hold veto power, which I will exercise judiciously. Expect more involvement from me in your first hire than in subsequent hires.
+As a manager, one of your most crucial roles is to recruit top-tier talent. I encourage you to collaborate with me on your new hires, especially those reporting directly to you. While the final decision is yours, I hold veto power, which I will exercise judiciously. Expect more involvement from me in your first hire than in subsequent hires.
 
 ### Delivery Update
 
@@ -172,7 +172,7 @@ As a manager in technology, one is required to manage it.
 
 - **Complete Solutions through Iterative Development:** We design, build, and maintain comprehensive solutions. We favour quick, short iterations that enable and encourage experimentation. We believe this is the best way to manage risk.
 
-- **Value Completed Work:** We value work that has been completed over work in progress. Software that is operational and accessible to the customer is more valuable than software still in development. We take immense pride in both 'what' we deliver and 'how' we deliver it. Quality Assurance, Security, Operations, engineering culture, and outcomes are everyone's responsibility.
+- **Value Completed Work:** We value completed work over work in progress. Software that is operational and accessible to the customer is more valuable than software still in development. We take immense pride in 'what' and 'how' we deliver software. Quality Assurance, Security, Operations, engineering culture, and outcomes are everyone's responsibility.
 
 - **Embrace Failure and Experimentation:** We encourage intentional 'failing-fast' and experimentation within a controlled and acceptable scope. This approach accelerates learning, and we ensure that these learnings are shared across the team. However, we never compromise our customers' trust and maintain a zero-tolerance policy for blame.
 
@@ -184,7 +184,7 @@ Be clear about what you need from me for your success — the role, comp, org ch
 
 Be clear when you need the company's resources. Be data-driven about why you need it, gather alignment from the pertinent stakeholders, and show that you're cost-conscious. I like justifications that include, "this is what [company we respect] does" + "this is the ROI" + "this is what an experiment would cost, and if it works, from there, I can shut it down or scale it up" + "this is the most cost-effective solution for these reasons."
 
-Let me know when you bump into a roadblock that you can't solve or something needs approval from high. I'll work with you. Don't get hung up on "process", upcoming meetings and such. Just-in-time escalation is usually more efficient.
+Let me know when you bump into a roadblock that you can't solve or something needs approval from high. I'll work with you. Don't get hung up on "process", upcoming meetings, etc. Just-in-time escalation is usually more efficient.
 
 I love to work through problems together if it's helpful to you.
 
@@ -203,7 +203,7 @@ If you propose a meeting or discussion, please initiate by finding a time in my 
 
 Our 1:1 meetings are weekly, lasting 30-45 min. These sessions are primarily your time and agenda. We'll use them to discuss your well-being, needs, personnel issues, professional development, and performance reviews. We can also explore strategic questions, seek advice, provide context, and exchange feedback.
 
-Every quarter, we'll document performance formally and hold a 1:1 retrospective to improve our discussions. We'll maintain a private online document to compile notes from these meetings, aiding retrospectives and tracking progress.
+We'll document performance formally every quarter and hold a 1:1 retrospective to improve our discussions. We'll maintain a private online document to compile notes from these meetings, aiding retrospectives and tracking progress.
 
 **Tips for Effective 1:1s:**
 
@@ -303,11 +303,11 @@ Held on Monday mornings, these meetings are a team effort, not solely mine. They
 1. **Overview (5-15 min):** I'll share updates on KPIs, progress, and business or cross-departmental information.
 2. **Team Round (5-10 min):** Any team member would like to highlight anything on the Flash Report
 3. **Deep Dives / Swarming (30 min to 1 hour):** Time for problem-solving discussions, new initiatives, or strategy talks.
-4. **Review of Action Items:** We'll go over the action items.
+4. **Review of Action Items:** We'll review the action items.
 
 #### Monthly Staff Afternoon
 
-Once a month, we have a 4-hour meeting on a Friday afternoon. We check in as a team, conduct a monthly retrospective, groom and prioritise the team backlog, and discuss any significant topics. The chairperson manages the agenda and meeting minutes, and pre-reads are shared at least two days in advance. On-site attendance is mandatory.
+Once a month, we have a 4-hour meeting on a Friday afternoon. We check in as a team, conduct a monthly retrospective, groom and prioritise the team backlog, and discuss any significant topics. The chairperson manages the agenda and meeting minutes; pre-reads are shared at least one day in advance. On-site attendance is mandatory.
 
 #### Quarterly Off-site
 
@@ -336,7 +336,7 @@ We embrace that management is not leadership. Both are equally important but not
 
 - **Materiality:** You deliver what you've said you'll deliver on the time you committed to.
 
-- **Force multipliers:** Individually, we're accountable for impact, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
+- **Force multipliers:** We're accountable for impact individually, but what would happen if you actively help your wider team create impact? What happens when we radiate positivity?
 
 ### Trust
 
@@ -346,7 +346,7 @@ Trust and developing trust is a vast topic. Still, I broadly think about trust i
 
 - **Logic:** If it doesn't make sense or lacks rigour, chances are one will not trust your judgement.
 
-- **Authenticity:** If one feels they're not getting access to the "real" you — to a full and complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
+- **Authenticity:** If one feels they're not getting access to the "real" you — to a complete accounting of what you know, think, and feel — chances are they will not feel safe around you and therefore not trust you.
 
 - **Execution:** If one doesn't walk the talk, meaning not dependable, chances are they will not trust you.
 
@@ -417,7 +417,7 @@ Plans must prompt commitment by the stakeholders.
 Things usually don't go according to plan, and that's expected.
 > Everyone has a plan until they get punched in the mouth - Mike Tyson.
 
-It's about thinking ahead that gets us to be better prepared for when "you're punched in the mouth" (haha!).
+It's about thinking ahead that prepares us better for when "you're punched in the mouth".
 > In preparing for battle, I have always found that plans are useless, but planning is indispensable - Dwight D. Eisenhower.
 
 Lastly,
@@ -425,11 +425,11 @@ Lastly,
 
 ### Innovation
 
-Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready. Innovation requires discussion when it requires work that impacts the company immediate objectives and/or other teams. Please write it down so that we can have an asynchronous conversation.
+Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready. Innovation requires discussion when it requires work that impacts the company's immediate objectives and/or other teams. Please write it down so that we can have an asynchronous conversation.
 
 ### Decision-making
 
-I empower you to make decisions independently. Involve me when needing guidance or a sounding board.
+I empower you to make decisions independently. Involve me when I need guidance or a sounding board.
 
 #### Directly-Responsible Individual (DRI)
 
@@ -438,7 +438,7 @@ I empower you to make decisions independently. Involve me when needing guidance 
 We embrace a DRI model where ownership is clear:
 
 - Decisions are yours or mine, not both.
-- You don't have to get to a consensus or reach an agreement.
+- You don't have to reach a consensus or an agreement.
 - The scope of my responsibility does not enclose your scope of responsibility.
 - I won't override you, but I can try to persuade you.
 - If you make a mistake, fix it, take accountability, and learn from it.
@@ -459,32 +459,32 @@ I'm happy to discuss options collaboratively but empower you to make the calls w
 
 Notes:
 
-- We need 60-70% of data to decide if we can correct course quickly. Else, we should clear a high bar before committing resources.
+- We need 60-70% of the data to decide whether to correct course quickly. Otherwise, we should clear a high bar before committing resources.
 - While my default and mechanisms are to include you, sometimes you might not be included because decisions must be made at the right level. The *right level* is dictated by the company structure and processes.
 
 #### Intuition and Data
 
-Leverage both intuition and data in deciding. Data lends rigor while intuition provides perspective. Rigour is our baseline.
+Leverage both intuition and data in deciding. Data lends rigour, while intuition provides perspective. Rigour is our baseline.
 
 #### Indecision
 
-Sometimes not deciding is the right call when done deliberately pending more info.
+Sometimes, not deciding is the right call when done deliberately pending more info.
 
 #### Disagreements
 
 Healthy dissent is expected, particularly on tough choices. Share counter perspectives respectfully with alternatives. If overruled after discussion, commit professionally to the chosen path.
 
-We all have those moments where we have a gut reaction "I don't like this", "It doesn't make sense whatsoever", "this is wrong", etc. Pace yourself! Know your position first; don't just say 'no' and expect others to try to convince you. Start by completing the sentence: "I [don't agree with/don't think we should do/don't like] X because…". If it doesn't sound strong enough or right, it usually is because it's not. Think a bit more, take it offline, and come back later with good arguments.
+We all have those moments where we have a gut reaction: "I don't like this", "It doesn't make sense whatsoever", "this is wrong", etc. Pace yourself! Know your position first; don't just say 'no' and expect others to try to convince you. Start by completing the sentence: "I [don't agree with/don't think we should do/don't like] X because…". If it doesn't sound strong enough or right, it usually is because it's not. Think a bit more, take it offline, and come back later with good arguments.
 
 #### Learning from your decisions
 
-I suggest you conduct a retrospective for every significant successful or failed decision you've made. Better when you include stakeholders. It's a powerful tool to learn.
+I suggest you conduct a retrospective for every significant successful or failed decision. Better when you include stakeholders. It's a powerful tool to learn.
 
 ### Communication
 
-Effective communication is the linchpin of our operations. It can either propel us forward or impede our progress. Clear and open communication nurtures trust, alignment, and overall efficiency. I am committed to communicating candidly, directly, and empathetically. From past experience, I've learned that most issues stem from inadequate or infrequent communication. Thus, we must prioritise clear and frequent communication.
+Effective communication is the linchpin of our operations. It can either propel us forward or impede our progress. Clear and open communication nurtures trust, alignment, and overall efficiency. I am committed to communicating candidly, directly, and empathetically. Past experience taught me that most issues stem from inadequate or infrequent communication. Thus, we must prioritise clear and frequent communication.
 
-Kindly strive to communicate in a manner that is considerate, clear, concise, and directly addresses the subject matter. I'm actively working on these aspects myself, recognising the importance of valuing everyone's time.
+Kindly strive to communicate in a considerate, clear, concise manner and directly address the subject matter. I'm actively working on these aspects myself, recognising the importance of valuing everyone's time.
 
 Empathy plays a pivotal role, given that we may not always understand the constraints, emotions, and commitments of others without engaging in sincere and compassionate conversations. Instead of making assumptions, let's initiate conversations.
 
@@ -492,9 +492,9 @@ Empathy plays a pivotal role, given that we may not always understand the constr
 
 Nothing to hide, all to share. Feel free to discuss things with anybody in the company, from C-levels to everyone else. If there's something wrong, I appreciate hearing it from you first so we can fix it together. Failure to address issues first with me will bring us both a great deal of pain because I perceive it as toxic office politics.
 
-In situations where it seems prudent, over-communication can be beneficial, especially during exceptionally busy periods. If people start feeling overwhelmed by the volume of information, they should voice their concerns.
+Over-communication can be beneficial when it seems prudent, especially during hectic periods. If people start feeling overwhelmed by the volume of information, they should voice their concerns.
 
-Efficient communication involves choosing the right forums for information sharing. Strive for data-driven communication, as it leaves less room for misinterpretation and emotional bias.
+Efficient communication involves choosing the proper forums for information sharing. Strive for data-driven communication, as it leaves less room for misinterpretation and emotional bias.
 
 Leverage your business acumen to craft narratives that address and solve problems, making your communication more impactful.
 
@@ -508,9 +508,9 @@ I often seek your thoughts rather than opinions, as understanding your thought p
 
 #### Overcoming Resistance to Ideas
 
-Ensuring stakeholders are fully engaged is paramount. Avoid situations where commitment is one-sided, and others are merely involved. Remember the story of the [Chicken and the Pig](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig) when considering shared commitments. Stakeholders should be as invested as you are.
+Ensuring stakeholders are fully engaged is paramount. Avoid situations where commitment is one-sided and others are merely involved. Remember the story of the [Chicken and the Pig](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig) when considering shared commitments. Stakeholders should be as invested as you are.
 
-If you encounter challenges in gaining buy-in, consider reading [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/) and [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/). These resources can help you navigate complex communication situations and build trust with stakeholders.
+If you encounter challenges in gaining buy-in, consider reading [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/) and [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/). These resources can help you navigate complex communication situations and build stakeholder trust.
 
 > There are three hard rules to learn…
 >
@@ -526,25 +526,23 @@ Source: Julian Skeels
 
 #### The Significance of Language
 
-Note: I am not a native English speaker, and I continuously work to improve my language skills.
+Note: I am not a native English speaker and continuously work to improve my language skills.
 
 Effective communication avoids vagueness, verbosity, and ambiguity. These issues can lead to misunderstandings, erode trust, cause inefficiencies, and foster resentment. We must actively combat these tendencies.
 
-Use language that is universally understood, steer clear of acronyms, and eliminate [weasel words](https://en.wikipedia.org/wiki/Weasel_word). Prioritise brevity and specificity.
+Use universally understood language, steer clear of acronyms, and eliminate [weasel words](https://en.wikipedia.org/wiki/Weasel_word). Prioritise brevity and specificity.
 
-Examples of words to avoid include "may," "might," "could," "can," "can be," "virtually," "up to," "as much as," "help," "like," "believe," "possibly," "endeavors," "aims to," "try," "some," "many," "most," "almost all," "often," "I think," "I reckon," "probably," and similar qualifiers that leave room for interpretation.
-
-NOTE: These examples do not apply to this document, as it serves as a reference for our collaborative efforts.
+Examples of words to avoid include "may," "might," "could," "can," "can be," "virtually," "up to," "as much as," "help," "like," "believe," "possibly," "endeavours," "aims to," "try," "some," "many," "most," "almost all," "often," "I think," "I reckon," "probably," and similar qualifiers that leave room for interpretation.
 
 ### Leadership
 
-Leadership is a wide and deep subject that is key for the long-term success of the company. I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Therefore you'll see me using them often within our context. Please get familiar with them and reach out if you'd like to discuss it further.
+Leadership is a vast and deep subject that is key to the company's long-term success. I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Therefore, you'll see me using them often within our context. Please get familiar with them and reach out if you'd like to discuss it further.
 
 Lead by example, and show, don't tell.
 
 #### Everyone is a leader, and leadership comes from everywhere
 
-I expect different team members to step into leadership roles, contribute, and step back once the need for their specific skills has passed. We must pull out leaders from everywhere. It's vital to scale the org; give opportunities for people to grow and develop; use the best people for the job; etc.
+I expect different team members to step into leadership roles, contribute, and step back once the need for their specific skills has passed. We must pull out leaders from everywhere. It's vital to scale the org, give opportunities for people to grow and develop, use the best people for the job, etc.
 
 I expect you to pull out leaders from everywhere consistently.
 
@@ -561,23 +559,23 @@ From [General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18](http://go
 
 #### Command & control or authoritative leadership style (AKA top-down)
 
-It is not advisable! I'll not question your judgement only when a team is in *survival mode* and for a short period. I also appreciate a heads-up when you feel it is needed.
+It is not advisable! I'll not question your judgment only when a team is in *survival mode* and for a short period. I also appreciate a heads-up when you feel it is needed.
 
 #### Unreasonable Vs Business Vs. Servant Leader
 
-You are a Business Leader, not a Unreasonable Leader. You must represent and serve your team(s) to set them to succeed, but it must be in alignment with the company context.
+You are a Business Leader, not a Unreasonable Leader. You must represent and serve your team(s) to set them to succeed, but it must be aligned with the company context.
 
 To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, "Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?" When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organisation grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Unreasonable leaders demand or commit, or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](#me-as-a-resource)
+Unreasonable leaders demand, commit, or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](#me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment and the temptation to embody an Unreasonable leader is low.
 
 ### Technology
 
-So, you're a manager. It means you don't need to be technical anymore. You're an **Engineering** Manager. I don't expect you to code, but I expect you to be a technologist and influence technical decisions. You must understand what your people do to earn their trust and provide them with what they need to succeed. If you're a team lead you might be required to write code 20% of your time.
+So, you're a manager. It means you don't need to be technical anymore. You're an **Engineering** Manager. I don't expect you to code, but I expect you to be a technologist and influence technical decisions. You must understand what your people do to earn their trust and provide them with what they need to succeed. If you're a team lead, you might be required to write code 20% of your time.
 
 > Dive Deep
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdotes differ. No task is beneath them.
@@ -587,17 +585,17 @@ So, you're a manager. It means you don't need to be technical anymore. You're an
 
 In the realm of software engineering, craftsmanship is a revered practice, yet its ultimate purpose lies in serving the customer.
 
-A fundamental question I always pose is this: If a team member were to receive an alert at 4 am on a Friday due to an incident, could they, by 4:30 am, confidently identify, test, and deploy a hotfix, driven by a profound sense of duty? If this scenario seems unlikely, it's imperative that the team works towards a state of readiness that enables such a response.
+A fundamental question I always pose is this: If a team member were to receive an alert at 4 a.m. on a Friday due to an incident, could they, by 4:30 a.m., confidently identify, test, and deploy a hotfix driven by a profound sense of duty? If this scenario seems unlikely, it's imperative that the team works towards a state of readiness that enables such a response.
 
 In the pursuit of meeting customer expectations, there are instances when tactical decisions become necessary. Managing technical debt is crucial to avoid a burdensome future tax.
 
-Careful attention must also be given to Non-Functional Requirements (NFRs). A system's value diminishes if it falters under specific circumstances, especially during high user demand. Similarly, jeopardizing customer privacy holds little merit.
+Careful attention must also be given to Non-Functional Requirements (NFRs). A system's value diminishes if it falters under specific circumstances, especially during high user demand. Similarly, jeopardising customer privacy holds little merit.
 
 #### Operational Excellence
 
 Operational Excellence is a mindset that enables us to consistently and reliably ship, run and maintain systems that maximise business outcomes by meeting our customer's expectations. Operational Excellence is therefore reinforced by specific tools and processes.
 
-**Operational Excellence is exceptionally close to my heart.** I expect you to have it front and centre as it's key to meeting customer expectations.
+**Operational Excellence is exceptionally close to my heart.** I expect you to have it front and centre, as it's critical to meeting customer expectations.
 
 Design Principles:
 
@@ -617,7 +615,7 @@ Yes, even if we're discussing DX, Platform, Data, etc., teams. We might exceptio
 
 #### Team Dependencies
 
-The ideal scenario involves having no dependencies whatsoever. It's crucial to proactively eliminate dependencies. I'd prefer having two identical elements over none at all or one that significantly delays progress.
+The ideal scenario involves having no dependencies whatsoever. It's crucial to proactively eliminate dependencies. I'd prefer having two identical components over none or one that significantly delays progress.
 
 Teams should possess the capability to accomplish their objectives independently, without the need for external coordination. In cases where this isn't feasible, I anticipate proactive efforts to establish interfaces that facilitate efficient inter-team coordination. Concurrently, it's imperative that we aggressively eradicate inter-team dependencies. Preserving teams' ownership and autonomy is paramount to meeting our customers' expectations swiftly, and we must ensure that our organisational structure is never reflected in our customer-facing products.
 

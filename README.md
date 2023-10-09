@@ -536,10 +536,6 @@ Examples of words to avoid include "may," "might," "could," "can," "can be," "vi
 
 NOTE: These examples do not apply to this document, as it serves as a reference for our collaborative efforts.
 
-Q1: How can we further encourage open and honest communication within our team?
-Q2: What specific strategies can we employ to foster trust among stakeholders when presenting new ideas?
-Q3: Could you provide more insights into the potential challenges of over-communication and how to address them effectively?
-
 ### Leadership
 
 Leadership is a wide and deep subject that is key for the long-term success of the company. I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Therefore you'll see me using them often within our context. Please get familiar with them and reach out if you'd like to discuss it further.
@@ -579,25 +575,25 @@ Unreasonable leaders demand or commit, or rally people into popular but unrealis
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment and the temptation to embody an Unreasonable leader is low.
 
-## Technology
+### Technology
 
-So, you're a manager. It means you don't need to be technical anymore. You're an **Engineering** Manager. I don't expect you to code, but I expect you to be a technologist and influence technical decisions. You must understand what your people do to earn their trust and provide them with what they need to succeed.
+So, you're a manager. It means you don't need to be technical anymore. You're an **Engineering** Manager. I don't expect you to code, but I expect you to be a technologist and influence technical decisions. You must understand what your people do to earn their trust and provide them with what they need to succeed. If you're a team lead you might be required to write code 20% of your time.
 
 > Dive Deep
 > Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdotes differ. No task is beneath them.
 > [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles)
 
-### Pragmatic Craftsmanship
+#### Pragmatic Craftsmanship
 
-Software Engineering is a craft, but it doesn't have an end in itself in a business context. Software exists to serve the customer.
+In the realm of software engineering, craftsmanship is a revered practice, yet its ultimate purpose lies in serving the customer.
 
-I always ask: If a team member were to be alerted at 4 am on a Friday to deal with an incident, would they be able to identify, test and ship a hotfix by 4:30 am with a sense of fulfilled duty? If not, the team must get the system in a state that enables it.
+A fundamental question I always pose is this: If a team member were to receive an alert at 4 am on a Friday due to an incident, could they, by 4:30 am, confidently identify, test, and deploy a hotfix, driven by a profound sense of duty? If this scenario seems unlikely, it's imperative that the team works towards a state of readiness that enables such a response.
 
-There are times when we need to make tactical moves to meet the customer's expectations. Technical debt must be managed to not pay an unpalatable future tax.
+In the pursuit of meeting customer expectations, there are instances when tactical decisions become necessary. Managing technical debt is crucial to avoid a burdensome future tax.
 
-Non Functional Requirements must be threaded carefully. There's little value in a system that doesn't work in specific situations, often when a high volume of users expect to use the system simultaneously. Also, there is little value in putting at risk customers' privacy.
+Careful attention must also be given to Non-Functional Requirements (NFRs). A system's value diminishes if it falters under specific circumstances, especially during high user demand. Similarly, jeopardizing customer privacy holds little merit.
 
-### Operational Excellence
+#### Operational Excellence
 
 Operational Excellence is a mindset that enables us to consistently and reliably ship, run and maintain systems that maximise business outcomes by meeting our customer's expectations. Operational Excellence is therefore reinforced by specific tools and processes.
 
@@ -605,40 +601,38 @@ Operational Excellence is a mindset that enables us to consistently and reliably
 
 Design Principles:
 
-* Make frequent, small, reversible changes.
-* Create paved roads aggressively: tools, processes, etc.
-* Everything as code.
-* Refine operations procedures frequently and relentlessly.
-* 360 observability: from dev to prod, processes, tools, etc.
-* Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
-* Learn from all operational failures: a post-mortem, retrospectives, sharing findings with the Engineering group, etc.
+- Make frequent, small, reversible changes.
+- Create paved roads aggressively: tools, processes, etc.
+- Everything as code.
+- Refine operations procedures frequently and relentlessly.
+- 360 observability: from dev to prod, processes, tools, etc.
+- Anticipate failure: pre-mortem, Production Readiness Reviews, etc.
+- Learn from all operational failures: a post-mortem, retrospectives, sharing findings with the Engineering group, etc.
 
-Note: it is better to do the right thing than do it right if we have to choose. Ask me what I mean by this ;)
-
-### Product teams Vs Dev/Feature/Project teams
+#### Product teams Vs Dev/Feature/Project teams
 
 Concisely, we don't have Dev/Feature/Project teams (full stop).
 
 Yes, even if we're discussing DX, Platform, Data, etc., teams. We might exceptionally have ephemeral teams, but that's exceptional. Get familiar with how different they operate - [Product vs Feature Teams](https://svpg.com/product-vs-feature-teams/). We're happier and more effective when focusing on outcomes, not outputs!
 
-### Team Dependencies
+#### Team Dependencies
 
-The best dependencies are no dependencies. Aggressively kill dependencies. I rather have 2 of the same than 0 of nothing or 1 that takes much longer.
+The ideal scenario involves having no dependencies whatsoever. It's crucial to proactively eliminate dependencies. I'd prefer having two identical elements over none at all or one that significantly delays progress.
 
-Teams should be able to carry out their mission without coordinating outside the team. When it's impossible, I expect you to actively establish interfaces enabling teams to coordinate efficiently. At the same time, we must actively kill inter-team dependencies. Teams' ownership and autonomy are essential to meet our customers' expectations at pace, and we must never ever ship our org structure to our customers.
+Teams should possess the capability to accomplish their objectives independently, without the need for external coordination. In cases where this isn't feasible, I anticipate proactive efforts to establish interfaces that facilitate efficient inter-team coordination. Concurrently, it's imperative that we aggressively eradicate inter-team dependencies. Preserving teams' ownership and autonomy is paramount to meeting our customers' expectations swiftly, and we must ensure that our organisational structure is never reflected in our customer-facing products.
 
 Please get familiar with Amdahl's Law and its extension to [Universal Scalability Law](http://www.perfdynamics.com/Manifesto/USLscalability.html) and how it applies to [coherence penalty for humans](https://www.michaelnygard.com/blog/2018/01/coherence-penalty-for-humans/).
 
 ## Some of the sources
 
-* [12 "Manager READMEs" from Silicon Valley's Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
-* [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
-* [Ben.README - Shopify](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85)
-* [Hi. I'm Roy.](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
-* [Deprecated: Welcome to Netflix and Me](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57)
-* [Manager README - Oren Ellenbogen, VP Eng. @ Forter](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha)
-* [Aaron Lerch readme](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
-* [Matt Newkirk manager readme](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view)
+- [12 "Manager READMEs" from Silicon Valley's Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+- [How to Rands](http://randsinrepose.com/archives/how-to-rands/)
+- [Ben.README - Shopify](https://docs.google.com/presentation/d/1LGL7fh5zWx8XqHRBra51LcMIHCUluqrdXZ_-XBTXqlg/edit#slide=id.g23dc7fe4e1_2_85)
+- [Hi. I'm Roy.](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
+- [Deprecated: Welcome to Netflix and Me](https://docs.google.com/presentation/d/1TPSwdqDqVfWG9anfiOjGUjk0k6zQDij5xPvatPg7NFE/edit#slide=id.g3086af6854_0_57)
+- [Manager README - Oren Ellenbogen, VP Eng. @ Forter](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#heading=h.g1q7u9cc1uha)
+- [Aaron Lerch readme](https://docs.google.com/presentation/d/1F2PWxQ-sKJ1uAlrhU9ULXOVmH-CW6dw_ufMzbFLAWHA/edit#slide=id.p)
+- [Matt Newkirk manager readme](https://drive.google.com/file/d/1mxUR69VBVBGPy-rq13jsgsgr67HosZOx/view)
 
 ## Disclaimer
 

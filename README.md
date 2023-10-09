@@ -480,52 +480,37 @@ We all have those moments where we have a gut reaction "I don't like this", "It 
 
 I suggest you conduct a retrospective for every significant successful or failed decision you've made. Better when you include stakeholders. It's a powerful tool to learn.
 
-## Communication
+### Communication
 
-Communication is key to everything that we do. It's the cornerstone of trust, and trust is the bedrock of everything we do. It will make or break us. I don't claim to be an expert, but below I'll do my very best to describe what works for me. It's not a definite guide.
+Effective communication is the linchpin of our operations. It can either propel us forward or impede our progress. Clear and open communication nurtures trust, alignment, and overall efficiency. I am committed to communicating candidly, directly, and empathetically. From past experience, I've learned that most issues stem from inadequate or infrequent communication. Thus, we must prioritise clear and frequent communication.
 
-I strive to spend 10h+ of my week with my direct reports because I've found the hard way that the vast majority of issues result from poor or infrequent communication. We must communicate well and often.
+Kindly strive to communicate in a manner that is considerate, clear, concise, and directly addresses the subject matter. I'm actively working on these aspects myself, recognising the importance of valuing everyone's time.
 
-Communicate kindly, clearly, concisely and go straight to the point (I'm working hard on these). Value people's time, and they will value yours.
+Empathy plays a pivotal role, given that we may not always understand the constraints, emotions, and commitments of others without engaging in sincere and compassionate conversations. Instead of making assumptions, let's initiate conversations.
 
-Empathy goes a long way, and often one doesn't know people's constraints, feelings and commitments before having a candid and compassionate conversation about it. Don't assume, have a conversation instead.
+#### Open, Widespread, and Purposeful Information Sharing
 
-### Share information openly, broadly and deliberately
+Nothing to hide, all to share. Feel free to discuss things with anybody in the company, from C-levels to everyone else. If there's something wrong, I appreciate hearing it from you first so we can fix it together. Failure to address issues first with me will bring us both a great deal of pain because I perceive it as toxic office politics.
 
-Nothing to hide, all to share. Feel free to discuss things with anybody in the company, from C-levels to everyone else. If there's something wrong, I appreciate hearing it from you so we can fix it together. Failure to address issues first with me will bring us both a great deal of pain because I perceive it as toxic office politics.
+In situations where it seems prudent, over-communication can be beneficial, especially during exceptionally busy periods. If people start feeling overwhelmed by the volume of information, they should voice their concerns.
 
-Over-communicate when you can so that you earn credits when you're unusually busy. If people start getting overwhelmed by the quantity, they will tell you.
+Efficient communication involves choosing the right forums for information sharing. Strive for data-driven communication, as it leaves less room for misinterpretation and emotional bias.
 
-Intentionally create/use communication in the right forums to share information.
-
-Be as data-centric as possible. There's less room for interpretation, and emotions tend not to get in the way.
-
-Use your business acumen. Communication goes a long way when people can relate to a solid narrative that's solving a problem.
+Leverage your business acumen to craft narratives that address and solve problems, making your communication more impactful.
 
 If you're unsure if you should share something, ask before sharing. Failing to do so will have a net negative impact on trust.
 
-### Optimise for data/facts/knowledge-based communication
+#### Prioritise Data, Facts, and Knowledge-Based Communication
 
-I see opinions as *a view or judgement formed about something, not necessarily based on fact or knowledge*. It's perfectly acceptable to share opinions. But it's important to be explicit when you're giving your opinion versus making a statement of fact, "IMO" vs "evidence shows". This will help the audience put your remarks in perspective, and you'll be making a positive contribution to the group.
+Opinions have their place, but it's essential to distinguish between opinions and statements of fact. Be explicit when expressing your opinion ("IMO") as opposed to presenting evidence-based information ("evidence shows"). This helps provide context and clarity to your audience, contributing positively to group discussions.
 
-I tend to ask for your thoughts rather than opinions because I value understanding your thought process more. It's best when we both reach the same conclusions.
+I often seek your thoughts rather than opinions, as understanding your thought process is valuable. Aligning our conclusions is the outcome.
 
-### When people don't buy into your ideas
+#### Overcoming Resistance to Ideas
 
-It's vital that you take stakeholders on a journey so that everyone has skin in the game.
+Ensuring stakeholders are fully engaged is paramount. Avoid situations where commitment is one-sided, and others are merely involved. Remember the story of the [Chicken and the Pig](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig) when considering shared commitments. Stakeholders should be as invested as you are.
 
- **[The Chicken and the Pig business fable](https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig)**
-> A Pig and a Chicken are walking down the road.
-> The Chicken says: "Hey Pig, I was thinking we should open a restaurant!"
-> Pig replies: "Hm, maybe. What would we call it?"
-> The Chicken responds: "How about 'ham-n-eggs'?"
-> The Pig thinks for a moment and says: "No, thanks. I'd be committed, but you'd only be involved."
-
-You must avoid the situation whereby you/we commit, but stakeholders are involved.
-
-Please read [Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/) and [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/) if you're struggling to get buy-in.
-
-It's crucial stakeholders trust you.
+If you encounter challenges in gaining buy-in, consider reading [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.co.uk/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/) and [How to Win Friends and Influence People](https://www.amazon.co.uk/How-Win-Friends-Influence-People-ebook/dp/B07XRXR5PC/). These resources can help you navigate complex communication situations and build trust with stakeholders.
 
 > There are three hard rules to learn…
 >
@@ -539,19 +524,21 @@ It's crucial stakeholders trust you.
 
 Source: Julian Skeels
 
-### Words matter
+#### The Significance of Language
 
-Note: I'm not a native English speaker and don't claim to excel. But it's something that I work on every day.
+Note: I am not a native English speaker, and I continuously work to improve my language skills.
 
-Communication tends to be vague, verbose and non-committal. This often leads to misunderstandings that can erode trust, cause inefficiencies and ultimately build resentment. We must work hard to avoid it!
+Effective communication avoids vagueness, verbosity, and ambiguity. These issues can lead to misunderstandings, erode trust, cause inefficiencies, and foster resentment. We must actively combat these tendencies.
 
-Use words people understand; avoid using acronyms and [weasel words](https://en.wikipedia.org/wiki/Weasel_word); be concise and straight to the point; be specific with the language you use.
+Use language that is universally understood, steer clear of acronyms, and eliminate [weasel words](https://en.wikipedia.org/wiki/Weasel_word). Prioritise brevity and specificity.
 
-Some examples of words that one should work hard to avoid using: "may", "might", "could", "can", "can be", "virtually", "up to ", "as much as", "help", "like", "believe", "possibly", "endeavours", "aims to", "try", "some", "many", "most", "almost all", "often", "I think", "I reckon", "probably" and similar qualifiers that create enough wiggle room for interpretation.
+Examples of words to avoid include "may," "might," "could," "can," "can be," "virtually," "up to," "as much as," "help," "like," "believe," "possibly," "endeavors," "aims to," "try," "some," "many," "most," "almost all," "often," "I think," "I reckon," "probably," and similar qualifiers that leave room for interpretation.
 
-NOTE: these examples don't apply to this document because it's supposed to reference how to work with me.
+NOTE: These examples do not apply to this document, as it serves as a reference for our collaborative efforts.
 
-
+Q1: How can we further encourage open and honest communication within our team?
+Q2: What specific strategies can we employ to foster trust among stakeholders when presenting new ideas?
+Q3: Could you provide more insights into the potential challenges of over-communication and how to address them effectively?
 
 ## Leadership
 

@@ -356,43 +356,49 @@ Tips:
 - You tend to judge yourself by your intentions, but people tend to judge you by how your actions make them feel
 - As a manager and/or leader, you have the duty to foster trust, not the direct and indirect reports.
 
-### Feedback
+## Feedback
 
-Feedback is a response or information provided due to actions or behaviours. It's a gift that can propel an organisation to new heights, sparking growth, innovation, problem-solving, and engagement. Its purpose is to help people grow, realise their potential, and interact more effectively with colleagues.
+Feedback is crucial to our collective growth. I actively welcome it.
 
-- Feedback is vital to our success, and I welcome it.
-- At its core, [Radical Candour](https://www.youtube.com/watch?v=Bh-pG27cHtw).
-- Let me know if I'm not performing well.
-- I'll let you know if you're not.
-- Performance reviews should never come as a surprise to you. If they do, let me know.
-- Feedback should be given frequently and promptly.
+My preference is for feedback that is:
 
-In our first 1:1, I'll ask you how you prefer to receive feedback. I prefer feedback that is: prompt, objective, direct, specific, and actionable.
+- **Prompt** - Provided close in time to the event or behaviour.
 
-Some tips on how to give feedback:
+- **Objective** - Focused on observable actions, not intentions or assumed motivations.
 
-- Praise efforts and behaviours, not abilities. Explain what prompted your praise to reinforce the desired efforts/behaviour.
-- Give positive feedback often, be specific and be authentic. Too much critical feedback leads to disengagement.
-- Telling people they are missing the mark is not the same as helping them hit the mark.
-- Honest critical feedback can strengthen your bond when delivered correctly.
-- Be empathetic! Lack of empathy is the main reason we reject constructive feedback.
-- Ask permission to give feedback! This gives the person a feeling of autonomy.
-- Be objective. Focus on the situation, not the person.
-- Avoid blur words and generalisations. Be specific!
-- Use 'I' statements! Give feedback from your perspective alone.
-- Keep it short! Long descriptions can confuse the receiver.
+- **Direct yet Kind** - Honest and transparent without being harsh.
 
-Three dimensions are required for people to continue to give you feedback:
+- **Specific** - Detailed enough to be useful for improvement.
 
-- Safety - unlikelihood of being punished for giving feedback: should be high.
-- Effort - The amount of work to provide feedback: should be low.
-- Benefit - how likely is it that giving you feedback will impact your behaviour?: should be high.
-- Be grateful! - Say "Thank You".
+- **Actionable** - Offers clear guidance on how to improve.
 
-**Note:** When seeking feedback, ask specific questions. "Do you have any feedback for me?" That's a terrible question! Better:
+To foster a feedback-rich culture:
 
-- What's one thing I could improve?
-- What's one thing I could have done better in that X?
+- I commit to providing supportive feedback frequently.
+
+- Please inform me if my feedback to you is unclear or unhelpful.
+
+- Notify me promptly if you feel underserved by my coaching.
+
+- I will continually refine my own feedback skills.
+
+When offering feedback:
+
+- Explain why positive feedback was earned to reinforce the desired behaviour.
+
+- Focus on the situation rather than the person.
+
+- Offer constructive suggestions to enable growth.
+
+Effective feedback requires:
+
+- Psychological safety to exchange feedback without fear of punishment.
+
+- Low effort to provide feedback conveniently.
+
+- Visible impact to incentivise ongoing feedback.
+
+To summarise, feedback is welcome and expected to flow frequently in both directions on our team. This open, growth-oriented approach will elevate our individual and collective performance. Please help me continue improving as a feedback provider.
 
 ### Plans Vs. Planning
 

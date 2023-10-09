@@ -425,9 +425,7 @@ Lastly,
 
 ### Innovation
 
-Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready.
-
-It must be discussed first when innovation requires work that impacts the company objectives and/or other teams. Please write it down so that we can have an asynchronous conversation. I a fan of [A3 thinking](https://www.crisp.se/gratis-material-och-guider/a3-template), that's usually used to find root causes. I find the template quite helpful, with a few small adjustments. Still, I'm open to any format that you find beneficial to express the idea. Please be pedantic and technically sound.
+Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready. Innovation requires discussion when it requires work that impacts the company immediate objectives and/or other teams. Please write it down so that we can have an asynchronous conversation.
 
 ## Decision-making
 

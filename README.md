@@ -282,7 +282,7 @@ Please get comfortable with [Guide: Understand team effectiveness](https://docs.
 
 ### Our Team Rituals
 
-We have several rituals to foster team cohesion, alignment and collaboration. As a manager, we are part of multiple teams. These rituals apply to my direct reports team. Note these rituals are not set in stone. We'll continuously explore and adapt to find what works best for us."
+We have several rituals to foster team cohesion, alignment and collaboration. As a manager, we are part of multiple teams. These rituals apply to my direct reports team. Note these rituals are not set in stone. We'll continuously explore and adapt to find what works best for us.
 
 #### Flash Reports
 

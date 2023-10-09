@@ -427,83 +427,56 @@ Lastly,
 
 Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready. Innovation requires discussion when it requires work that impacts the company immediate objectives and/or other teams. Please write it down so that we can have an asynchronous conversation.
 
-## Decision-making
+### Decision-making
 
-I expect you to make decisions all the time, as independently as possible and be right often. I expect you to ask for help or advice when you're not sure, or you could use a soundboard. You are not alone. I'm here for you.
+I empower you to make decisions independently. Involve me when needing guidance or a sounding board.
 
-### Directly-Responsible Individual (DRI)
+#### Directly-Responsible Individual (DRI)
 
 **Note:** Follow the [link](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#39e50b0a194c) for more context
 
-Being DRI means:
+We embrace a DRI model where ownership is clear:
 
-* That a decision is either yours or mine, but not both.
-* You don't have to get to a consensus or reach an agreement.
-* The scope of my responsibility does not enclose your scope of responsibility.
-* I won't override you, but I can try to persuade you.
-* If you make a mistake, fix it, take accountability, and learn from it.
+- Decisions are yours or mine, not both.
+- You don't have to get to a consensus or reach an agreement.
+- The scope of my responsibility does not enclose your scope of responsibility.
+- I won't override you, but I can try to persuade you.
+- If you make a mistake, fix it, take accountability, and learn from it.
 
-Being DRI does not mean:
+Being DRI doesn't mean decisions are made recklessly or in isolation. Expect to explain your rationale and be challenged respectfully.
 
-* You get to be thoughtless.
-* You're exempt from having to explain why you made a particular decision and be held accountable for it.
-* You're exempt from people telling you, ahead of time or afterwards, that you made a mistake.
-* You get to make decisions without attempting an agreement or including stakeholders.
-* Your choices won't be challenged.
+#### Decision-Making Process
 
-### Decision-making reasoning
+For major decisions, I recommend creating a decision memo with the following:
 
-Reasoning is using data, facts, and a formal process to decide about possible courses of action. We move fast, but the world is complex, ambiguous and unpredictable. More often than not, we can't wait to have all the information available to make a decision. We need between 50% to 70% of the information to decide. Still, we must be excellent at correcting course and learning.
+- Clearly define the problem and constraints
+- Set measurable success and failure criteria
+- Gather options with pros/cons and risks/mitigations
+- Anticipate stakeholder questions
+- If the decision is yours, make it on the last page. Otherwise, establish a reasonable timeframe for the decision maker to decide.
 
-I tend to optimise for:
+I'm happy to discuss options collaboratively but empower you to make the calls within your scope. We will continuously improve our judgement through learning and experience.
 
-* What's the best for the customer/our people today, mid and long-term? "How does good look like" so I have a reference point to evaluate other options. If you don't know what you want without constraints, how the heck will you know in the face of constraints? Note that today's solution is often tomorrow's problem (System Thinking)!
-* What's the cost of delay in making the decision?
-* Can it be reversed? Will it open other possibilities in the future? How? When?
-* Are we going to learn something new?
+Notes:
 
-### Decision-making intuition
+- We need 60-70% of data to decide if we can correct course quickly. Else, we should clear a high bar before committing resources.
+- While my default and mechanisms are to include you, sometimes you might not be included because decisions must be made at the right level. The *right level* is dictated by the company structure and processes.
 
-Intuition is using one gut feeling to decide about possible courses of action. Although some people perceive it as a sixth sense only available to some, IMHO, intuition combines past experience and personal values. It is worth taking intuition into account because it reflects your learnings. It is, however, not always based on reality, only perceptions.
+#### Intuition and Data
 
-It's perfectly acceptable to use your intuition to make a decision that's simple in nature or needs to be made quickly. It's also perfectly acceptable to use intuition to close the gap between *knowns* and *unknowns* and question what the data suggests (e.g. are we asking the right questions?). When your intuition is fronting the facts, try hard to validate it. Watch out for [confirmation bias](https://www.verywellmind.com/what-is-a-confirmation-bias-2795024).
+Leverage both intuition and data in deciding. Data lends rigor while intuition provides perspective. Rigour is our baseline.
 
-### Deliberately not making a decision is also valid
+#### Indecision
 
-Deciding not to decide is also a sound decision when it is deliberate. Not making a decision might feel unnatural or even wrong. It's a valid course of action as any other, and it must always be on the table.
+Sometimes not deciding is the right call when done deliberately pending more info.
 
-### Decision-making process
+#### Disagreements
 
-I expect you to align with the following decision-making process:
-
-* Start from nothing! *and hypotheses, whether metaphysical or physical, or based on occult qualities, or mechanical, have no place in experimental philosophy*  Sir Isaac Newton, Hypotheses non fingo, 1793.
-* State the problem, assumptions, constraints and dependencies.
-* Define how good looks like and how to measure it so that one has a reference point.
-* Define what options are available using data and facts:
-  * Rank the options, E.g. Bronze, Silver, Gold
-  * Be specific and clear on the pros/cons and the risks/mitigations for each variant.
-  * Define the success criteria for each option (How does success look like? How does failure look like?)
-  * Define rollout, E.g. experiment, kill-switch, how to scale up, etc.
-* Anticipate the questions of the stakeholders.
-* Keep yourself in check. Use your critical thinking, and don't let your ego/emotions get in the way.
-* Make a decision!
-
-I found that writing a 6 or fewer pages documents, less is more, for decisions that have a significant impact or must be discussed by a group works well. Keeping a decision log is also a tool that helps me understand 'why', 'what' and 'when' I've made a given decision and its quality.
-
-### When the decision it's not yours to make, or you weren't included, or you disagree with the decision
-
-If you genuinely agree with the decision, happy days. Join forces, and let's get it done. It is, however, harder to buy into a decision that you don't agree with and/or you weren't consulted. While I'll always try to include you, decisions must happen at the right level. The *right level* is dictated by the ${company_X} structure and processes. Sometimes life happens. The world is not perfect. Note that I'll not be looking for consensus at all costs. You're expected to:
-
-* Provide clear and factual-based arguments why you disagree with the decision on the right forum.
-* Come up with realistic alternatives.
-* If the decision hasn't budged, Disagree and Commit. Stand by it and give your best to make it a success. Be a team player.
+Healthy dissent is expected, particularly on tough choices. Share counter perspectives respectfully with alternatives. If overruled after discussion, commit professionally to the chosen path.
 
 We all have those moments where we have a gut reaction "I don't like this", "It doesn't make sense whatsoever", "this is wrong", etc. Pace yourself! Know your position first; don't just say 'no' and expect others to try to convince you. Start by completing the sentence: "I [don't agree with/don't think we should do/don't like] X because…". If it doesn't sound strong enough or right, it usually is because it's not. Think a bit more, take it offline, and come back later with good arguments.
 
-* [5 steps for Disagreeing Effectively](https://medium.com/@joulee/5-steps-for-disagreeing-effectively-9d745ce0dbb4)
-* [Group thinking](https://en.wikipedia.org/wiki/Groupthink) is not acceptable in any circumstances.
-
-### Learning from your decisions
+#### Learning from your decisions
 
 I suggest you conduct a retrospective for every significant successful or failed decision you've made. Better when you include stakeholders. It's a powerful tool to learn.
 

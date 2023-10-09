@@ -540,46 +540,42 @@ Q1: How can we further encourage open and honest communication within our team?
 Q2: What specific strategies can we employ to foster trust among stakeholders when presenting new ideas?
 Q3: Could you provide more insights into the potential challenges of over-communication and how to address them effectively?
 
-## Leadership
+### Leadership
 
-I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Therefore you'll see me using them often within our context. Please get familiar with them and reach out if you'd like to discuss it further.
+Leadership is a wide and deep subject that is key for the long-term success of the company. I'm a big fan of [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles). Therefore you'll see me using them often within our context. Please get familiar with them and reach out if you'd like to discuss it further.
 
 Lead by example, and show, don't tell.
 
-### Everyone is a leader, and leadership comes from everywhere
+#### Everyone is a leader, and leadership comes from everywhere
 
 I expect different team members to step into leadership roles, contribute, and step back once the need for their specific skills has passed. We must pull out leaders from everywhere. It's vital to scale the org; give opportunities for people to grow and develop; use the best people for the job; etc.
 
 I expect you to pull out leaders from everywhere consistently.
 
-### A Leadership Primer
+#### A Leadership Primer
 
 From [General Colin Powell, Chairman (Ret), Joint Chiefs of Staff. 18](http://govleaders.org/powell.htm) valuable lessons that you should be aware of. Some are really close to my heart:
 
-* Being responsible sometimes means pissing people off.
-* The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership.
-* Organisation doesn't really accomplish anything. Plans don't accomplish anything, either. Theories of management don't much matter. Endeavours succeed or fail because of the people involved. **Only by attracting the best people will you accomplish great deeds.**
-* Organisation charts and fancy titles count for next to nothing.
-* Perpetual optimism is a force multiplier.
-* The commander in the field is always right, and the rear echelon is wrong unless proved otherwise.
+- Being responsible sometimes means pissing people off.
+- The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help them or concluded that you do not care. Either case is a failure of leadership.
+- Organisation doesn't really accomplish anything. Plans don't accomplish anything, either. Theories of management don't much matter. Endeavours succeed or fail because of the people involved. **Only by attracting the best people will you accomplish great deeds.**
+- Organisation charts and fancy titles count for next to nothing.
+- Perpetual optimism is a force multiplier.
+- The commander in the field is always right, and the rear echelon is wrong unless proved otherwise.
 
-### The 21 irrefutable laws of leadership
-
-I'm a big fan of John C. Maxwell's books. Get familiar with the: [The 21 irrefutable laws Of leadership](https://www.amazon.co.uk/dp/B00ETK5N5O). You can also find a good summary [here.](http://hgimnetwork.org/2015/01/book-summary-the-21-irrefutable-laws-of-leadership-by-john-maxwell-part-1/)
-
-### Command & control or authoritative leadership style (AKA top-down)
+#### Command & control or authoritative leadership style (AKA top-down)
 
 It is not advisable! I'll not question your judgement only when a team is in *survival mode* and for a short period. I also appreciate a heads-up when you feel it is needed.
 
-### Unreasonable Vs Business Vs. Servant Leader
+#### Unreasonable Vs Business Vs. Servant Leader
 
-You are a Business Leader, not a Unreasonable Leader. You must represent and serve your team(s) to set them to succeed, but it must be in alignment with the {company_X} context.
+You are a Business Leader, not a Unreasonable Leader. You must represent and serve your team(s) to set them to succeed, but it must be in alignment with the company context.
 
 To be a business leader is to be a servant leader:
 > As stated by its founder, Robert K. Greenleaf, a Servant Leader should be focused on, "Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants?" When leaders shift their mindset and serve first, they benefit as well as their employees in that their employees acquire personal growth, while the organisation grows as well due to the employees growing commitment and engagement.
 source: <https://en.wikipedia.org/wiki/Servant_leadership>
 
-Unreasonable leaders demand or commit, or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](###Me-as-a-resource)
+Unreasonable leaders demand or commit, or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](#me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment and the temptation to embody an Unreasonable leader is low.
 

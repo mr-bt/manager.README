@@ -40,7 +40,7 @@ I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the co
 
 As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
 
-- **Fostering a Cohesive Team Culture:** I strive to create a healthy culture based on world-class talent, kindness, candour, a learn-it-all mindset, operational excellence, and customer-centricity. A positive and inclusive team culture is vital for our success.
+- **Fostering a Cohesive Team Culture:** I strive to create a healthy culture that enable us to do our best work so that our company can achieve its full potential.
 
 - **Attracting and Retaining Talent:** I aim to bring in and keep the best in the industry. I'm committed to providing an environment where you can do your best work, grow your skills, and feel valued and appreciated.
 

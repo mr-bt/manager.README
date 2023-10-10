@@ -125,7 +125,7 @@ These guiding principles are for both of us to follow as leaders and managers:
 
 - **Excellence and Accountability:** We first expect excellence from ourselves and only then from others, but we always hold each other's backs. We're committed to taking accountability and learning from our mistakes.
 
-- **Coaching and Growth:** We coach individuals and teams relentlessly. We believe a culture founded on learning and growth yields better long-term outcomes.
+- **Coaching and Growth:** We coach individuals and teams relentlessly.
 
 - **Feedback:** Feedback is our most valuable and effective tool to keep raising the bar on everything we do. We deliver and receive feedback kindly, promptly, with empathy and candour.
 
@@ -147,7 +147,7 @@ Share your team management system with me, notably if it deviates from the broad
 
 ### Hiring Your Team
 
-As a manager, one of your most crucial roles is to recruit top-tier talent. I encourage you to collaborate with me on your new hires, especially those reporting directly to you. While the final decision is yours, I hold veto power, which I will exercise judiciously. Expect more involvement from me in your first hire than in subsequent hires.
+As a manager, one of your most crucial roles is to recruit world-class talent. I encourage you to collaborate with me on your new hires, especially those reporting directly to you. While the final decision is yours, I hold veto power, which I will exercise judiciously. Expect more involvement from me in your first hire than in subsequent hires.
 
 ### Delivery Update
 
@@ -222,7 +222,7 @@ I keep myself in check by filling out a form after every 1:1:
 
 ### Your Performance Reviews
 
-Here's what I'll be looking for in performance reviews and the model we should follow:
+Here's what I'll be looking for in performance reviews:
 
 - **Role Model:** Live the company culture and values. Your behaviour should inspire others.
 

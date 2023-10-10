@@ -19,20 +19,20 @@ Please note that this document is not a substitute for personal interaction but 
 
 ## About Me
 
-Hello, I'm Bruno. I was born in Porto, Portugal, 1983 and have since lived in Lisbon and London. I'm a father to a wonderful baby boy and a partner to a fantastic woman.
+Hello, I'm Bruno. I was born in Porto, Portugal, 1983 and have since lived in Lisbon and London. I'm a father to two wonderful children and a partner to a fantastic woman.
 
 Outside of work, my interests are diverse:
 
-- Travelling and exploring new cultures
-- Enjoying good cuisine
-- Meeting people
-- Watching TV series & films (especially docuseries)
-- Reading technical, business, economics, and leadership books/news/articles/posts
-- Cars (speedy ones!)
-- Sports, including tennis and F1
-- Football (I'm an FCP and Chelsea FC fan)
-- Taking long walks
-- Spending quality time with my family and friends
+- Exploring new cultures through travel
+- Appreciating global cuisine
+- Connecting with people from various backgrounds
+- Watching TV series, films, and docuseries
+- Reading about technology, business, economics, and leadership
+- Admiring high-performance cars
+- Following sports like tennis, F1, and football (FCP and Chelsea FC fan)
+- Taking rejuvenating walks
+- Spending quality time with family and friends
+- Coaching my son's football team
 
 I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
 

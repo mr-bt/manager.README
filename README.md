@@ -89,15 +89,15 @@ At work, my approach has a unique combination of a few quirks:
 
 - **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions.
 
-- **Passion for Technology and Innovation:** Outside of my managerial duties, I'm passionate about technology and innovation. I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
+- **Passion for Technology and Innovation:** I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
 
-- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on developing solutions and taking accountability for execution.
+- **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on developing solutions and taking accountability for the outcomes.
 
 - **Curiosity:** I'm naturally curious and tend to ask many questions. This is not a sign of doubt or mistrust but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
 
 - **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
 
-- **Decision Making:** I expect quick, decisive and effective decisions. See in the [Decision-making](### Decision-making) section how to make it happen.
+- **Decision Making:** I expect quick, decisive and effective decisions. See in the [Decision-making](#decision-making) section.
 
 ### Responding to My Messages
 

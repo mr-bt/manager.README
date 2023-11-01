@@ -474,7 +474,7 @@ For major decisions, I recommend creating a decision memo with the following:
 - Set measurable success and failure criteria
 - Gather options with pros/cons and risks/mitigations
 - Anticipate stakeholder questions
-- If the decision is yours, make it on the last page. Otherwise, establish a reasonable timeframe for the decision maker to decide.
+- If the decision is yours, make it on the first page. Otherwise, establish a reasonable timeframe for the decision maker to decide.
 
 I'm happy to discuss options collaboratively but empower you to make the calls within your scope. We will continuously improve our judgement through learning and experience.
 

@@ -12,6 +12,8 @@ The primary motivation behind creating this document is to establish a clear und
 - Provide a reference point for our working relationship.
 - Encourage open dialogue and feedback to foster continuous improvement.
 - Set the stage for a collaborative and supportive environment.
+- Writing and maintaining this document helps me refine my thoughts and hold myself accountable.
+- For you to help me improve and hold me accountable.
 
 By outlining my approach and values, I hope to lay a solid foundation for our professional relationship, allowing us to work together efficiently and effectively in pursuit of our company goals.
 
@@ -19,7 +21,7 @@ Please note that this document is not a substitute for personal interaction but 
 
 ## About Me
 
-Hello, I'm Bruno. I was born in Porto, Portugal, 1983 and have since lived in Lisbon and London. I'm a father to two wonderful children and a partner to a fantastic woman.
+Hello, I'm Bruno. I was born in Porto, Portugal, and have since lived in Lisbon and London. I'm a father to two wonderful children and a partner to a fantastic woman.
 
 Outside of work, my interests are diverse:
 
@@ -50,27 +52,38 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 
 - **Influencing Decisions:** I influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
 
-- **Setting Context and Expected Outcomes:** I aim to provide clear context and expected business outcomes so everyone understands our company's needs and priorities. I believe in the power of alignment and shared understanding in achieving our goals. This would be aligned with the company strategy and our strategy.
+- **Setting Context and Expected Outcomes:** I aim to provide clear context and expected outcomes so everyone understands what our company's needs and priorities. I believe in the power of alignment and shared understanding to achieve or exceed our goals.
 
 - **Fostering Ownership:** I encourage everyone to feel like a business owner. I believe in empowering you to make decisions and take ownership of your work.
 
 - **Creating More Leaders:** My goal is to create more leaders, not more followers. I'm committed to developing your leadership skills and setting you up for success.
 
+- **Resource management:** Secure and manage resources allocated to us. I'm accountable for maximising the return of investment of our limited resourses. This includes not only the tangible resources such as tools, technology, and budget but also, and more importantly, the human resources - our team. I believe that our team members are our most valuable asset, and my role involves ensuring that everyone has the necessary resources and support to perform their tasks effectively and efficiently.
+
 Remember, my role as a manager is to serve you and help you succeed. I'm here to provide support, remove obstacles, and create an environment where you can do your best work.
 
 ## My Vision of a Great Culture
 
-In my view, an exceptional culture fosters collaboration, innovation, mutual respect, and delivers impact efficiently. It's a culture where everyone feels valued, heard, and empowered to excel. Here are some key elements of the culture I strive to cultivate:
+In my view, an exceptional culture, is where everyone feels valued, heard, empowered to excel, and we get things done at pace. Here are some key elements of the culture I strive to cultivate:
 
 - **People-First, Commercially Sustainable Culture:** Balancing business needs with our people's well-being, creating a productive and supportive environment.
+
 - **Diversity, Equity, and Inclusion (DEI):** Championing DEI, valuing diverse perspectives, and ensuring equal opportunities for everyone.
-- **Open Communication:** Prioritising clarity and honesty, encouraging open dialogue and the sharing of ideas, concerns, and feedback.
+
+- **Open Communication:** Creating an environment where everyone feels comfortable expressing their ideas, concerns, and feedback.
+
 - **Collaboration:** Emphasising teamwork and cooperation, working together towards shared objectives. Great things are rarely achieved in isolation.
+
 - **Innovation:** Passionately pursuing technology and innovation, pushing boundaries and thinking creatively.
+
 - **Continuous Learning:** Promoting lifelong learning, seeking new knowledge, skills, and experiences.
+
 - **Ownership:** Taking responsibility for our actions, decisions, and outcomes, learning from our mistakes.
+
 - **Kindness and Respect:** Treating everyone with kindness and respect, fostering a culture of appreciation and value.
+
 - **Creating Impact at Pace:** Focusing on outcomes over outputs, prioritising meaningful results and delivering at pace.
+
 - **Alignment with Company Vision, Mission, and Core Values:** Staying honest at all time to the company vision, mission, and core values.
 
 Remember, culture is not something that can be imposed from the top down. It's something that we all impact through our actions and interactions.
@@ -85,9 +98,9 @@ At work, my approach has a unique combination of a few quirks:
 
 - **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I know it can be annoying, so please call it out. I'm always trying to improve.
 
-- **Accountability:** I hold myself accountable for my actions and decisions and expect the same from my team. I have very little patience for apathy and indifference. If something is going on, let me know ASAP. I believe in taking responsibility and learning from our mistakes.
+- **Accountability:** I hold myself accountable for my actions and decisions and expect the same from my team. I believe in taking responsibility and learning from our mistakes.
 
-- **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions.
+- **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions. I have very little patience for apathy and indifference. If something is going on, let me know ASAP.
 
 - **Passion for Technology and Innovation:** I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
 
@@ -151,7 +164,7 @@ As a manager, one of your most crucial roles is to recruit world-class talent. I
 
 ### Delivery Update
 
-Establish a regular, systematic process for reporting your progress against the plan. This should include status (RAG), risks/mitigations, assumptions, and issues/blockers. Share these updates with me at least weekly. I value data and well-considered mitigation actions.
+Establish a regular, systematic process for reporting your progress against the plan. This should include status (RAG), risks/mitigations, assumptions, and issues/blockers. Share these updates with me weekly. I value data and well-considered mitigation actions.
 
 If something remains RED for more than a couple of weeks, it will become my focus, and I expect you to actively work towards turning it GREEN.
 
@@ -161,11 +174,11 @@ If the company has a delivery department or similar, I expect you to collaborate
 
 As a manager in technology, one is required to manage it.
 
-- **Service Continuity is Paramount:** Our top priority is ensuring the continuous operation of our services. We prioritise security, availability, scalability, reliability, and regulatory compliance. We also focus on resolving defects that hinder customers from using our core functionality or deriving maximum value. We uphold these priorities even when it's uncomfortable.
+- **Service Continuity is Paramount:** Our top priority is ensuring the continuous operation of our services. We prioritise security, availability/consistency, scalability, reliability, and regulatory compliance. We also focus on resolving defects that hinder customers from using our core functionality or deriving maximum value. We uphold these priorities even when it's uncomfortable.
 
-- **Complete Solutions through Iterative Development:** We design, build, and maintain comprehensive solutions. We favour quick, short iterations that enable and encourage experimentation. We believe this is the best way to manage risk.
+- **Complete Solutions through Iterative Development:** We design, build, and maintain complete solutions. We favour quick, short iterations that enable and encourage experimentation. We believe this is the best way to manage risk and better serve our customers.
 
-- **Value Completed Work:** We value completed work over work in progress. Software that is operational and accessible to the customer is more valuable than software still in development. We take immense pride in 'what' and 'how' we deliver software. Quality Assurance, Security, Operations, engineering culture, and outcomes are everyone's responsibility.
+- **Value Completed Work:** We value work completed over work in progress. Software that is operational and accessible to the customer is more valuable than software still in development. We take immense pride in 'what' and 'how' we deliver software. Quality Assurance, Security, Operations, engineering culture, and outcomes are everyone's responsibility.
 
 - **Embrace Failure and Experimentation:** We encourage intentional 'failing-fast' and experimentation within a controlled and acceptable scope. This approach accelerates learning, and we ensure that these learnings are shared across the team. However, we never compromise our customers' trust and maintain a zero-tolerance policy for blame.
 
@@ -203,7 +216,7 @@ We'll document performance formally every quarter and hold a 1:1 retrospective t
 - Continue from where we left off.
 - Prepare your topics beforehand.
 - I often use the [OSCAR model](https://www.businessballs.com/coaching-and-mentoring/oscar-model/) and the [FUEL model](https://thepeakperformancecenter.com/development-series/skill-builder/interpersonal/coaching-for-performance/coaching-model/fuel-coaching-model) to guide our discussions.
-- Don't expect me to have all the answers or solve your problems. I'm here to help you navigate your path forward.
+- Don't expect me to have all the answers or solve your problems. I'm here to help you navigate your path.
 
 **Note on Career Development:**
 Your career is your responsibility. You're best placed to know how you want to grow. I can provide feedback, help you reflect, set objectives, and offer guidance. I'll strive to provide growth opportunities, but it's up to you to seize them. Continuous growth and development are non-negotiable.
@@ -319,6 +332,8 @@ We embrace that management is not leadership. Both are equally important but not
 
 ### Impact
 
+In a business setting, impact refers to the positive or negative outcomes that a company's actions, products, or services have on its stakeholders, including employees, customers, investors, and the environment. When I refer to impact it's implicit that I'm refering to positive impact. To be a bit more specific, I expect everyone to thing about their own impact as:
+
 - **Consistency:** Are you able to deliver work that matters not just once but does so sustainably over time?
 
 - **Velocity:** What's the rate at which you deliver impact, not just the cumulative impact you have achieved.
@@ -367,31 +382,42 @@ My preference is for feedback that is:
 
 To foster a feedback-rich culture:
 
-- I commit to providing supportive feedback frequently.
-
+- I commit to providing feedback frequently.
 - Please inform me if my feedback to you is unclear or unhelpful.
-
 - Notify me promptly if you feel underserved by my coaching.
-
 - I will continually refine my own feedback skills.
 
 When offering feedback:
 
 - Explain why positive feedback was earned to reinforce the desired behaviour.
-
 - Focus on the situation rather than the person.
-
 - Offer constructive suggestions to enable growth.
 
 Effective feedback requires:
 
 - Psychological safety to exchange feedback without fear of punishment.
-
 - Low effort to provide feedback conveniently.
-
 - Visible impact to incentivise ongoing feedback.
 
 To summarise, feedback is welcome and expected to flow frequently in both directions on our team. This open, growth-oriented approach will elevate our individual and collective performance. Please help me continue improving as a feedback provider.
+
+### Business Plan Vs. Business Strategy
+
+Distinguishing between a plan and a strategy in business is crucial for several reasons:
+
+- **Understanding the Business Environment:** A strategy assesses the current environment of a business, both internally and externally, and establishes future goals and targets. It describes the strategies it will implement to reach them. A plan, on the other hand, describes the foundations of a company, its capabilities, the industry and market(s) in which it operates, and how it generates revenues.
+
+- **Flexibility and Adaptability:** A strategy is flexible and open for adaptation and change when needed, allowing a business to respond effectively to changes in the market or industry. A plan, however, is more rigid and doesn't allow for deviation. If a plan doesn't work, you move on to a different plan.
+
+- **Resource Allocation:** Plans typically focus on the resources we're going to spend, which are more comfortable because we control them. A strategy, on the other hand, specifies a competitive outcome that we wish to achieve, which involves customers wanting your product or service.
+
+- **Long-term Vision:** A strategy provides a long-term vision and direction for the company, while a plan focuses on specific tasks and objectives. Understanding the difference between the two can help our company align its short-term actions (plan) with its long-term vision (strategy).
+
+- **Competitive Advantage:** A strategy is about making an integrated set of choices that position the organisation to win, while a plan is about laying out projects with timelines, deliverables, budgets, and responsibilities. A strategy can help a company gain a competitive advantage in the market.
+
+- **Risk Management:** A strategy allows the company to anticipate and prepare for potential challenges and risks, while a plan focuses on achieving specific objectives. Understanding the difference can help us manage risks more effectively.
+
+Often, one uses both terms interchangeably, which makes progress more challenging. Very senior people have misled me because they didn't understand the difference and really like the word strategy :)
 
 ### Plans Vs. Planning
 
@@ -420,9 +446,11 @@ Lastly,
 
 Innovation comes from everyone, everywhere and at any time. When possible and on your team's remit, apply "small, fast and measurable" iterations and get on with it. Share the findings when you're ready. Innovation requires discussion when it requires work that impacts the company's immediate objectives and/or other teams. Please write it down so that we can have an asynchronous conversation.
 
+This happens too often to me, so here goes my advice: If you are thinking of preparing a session about the "process of innovation", go back to the whiteboard and think deeply about what innovation vs novelty is and how it actually happens! Go to first principles! Then let's have a talk.
+
 ### Decision-making
 
-I empower you to make decisions independently. Involve me when I need guidance or a sounding board.
+I empower you to make decisions independently. Involve me when you need guidance or a sounding board.
 
 #### Directly-Responsible Individual (DRI)
 
